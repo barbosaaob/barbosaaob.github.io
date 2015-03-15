@@ -8,6 +8,7 @@ html, body {
 }
 #terminal {
 	text-align: left;
+	position: relative;
 	margin: auto;
 	background-color: #000;
 	color: #FFF;
