@@ -7,12 +7,10 @@
 		{% comment %} <link type="text/css" href="/css/page-style.css" rel="stylesheet" /> {% endcomment %}
 	</head>
 	<body>
-		<div id="content">
-			<code>
-				barbosaaob@blog public_html$ cat {{ page.title }} <br>
-				<div id="body">{{ content }}</div>
-				barbosaaob@blog public_html$ <a href="/">cd ..<blink>_</blink></a>
-			</code>
-		</div>
+		<code>
+			barbosaaob@blog public_html$ cat {{ page.title }} <br>
+			{{ content }}
+			barbosaaob@blog public_html$ <a href="/">cd ..</a><blink>_</blink>
+		</code>
 	</body>
 </html>
