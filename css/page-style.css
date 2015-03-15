@@ -8,7 +8,7 @@ html, body {
 }
 #terminal {
 	text-align: left;
-	padding: 10px;
+	margin: auto;
 	background-color: #000;
 	color: #FFF;
 }
