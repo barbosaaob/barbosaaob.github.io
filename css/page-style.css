@@ -11,11 +11,6 @@ html, body {
 	margin: auto;
 	background-color: #000;
 }
-#terminal a {
-	color: #00F;
-	font-weight: bold;
-	text-decoration: none;
-}
 code a {
 	color: #FFF;
 	text-decoration: none;
