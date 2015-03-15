@@ -11,7 +11,7 @@ html, body {
 	margin: auto;
 	background-color: #000;
 }
-#content a {
+#terminal a {
 	color: #00F;
 	font-weight: bold;
 	text-decoration: none;
