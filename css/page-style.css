@@ -11,28 +11,12 @@ html, body {
 	position: relative;
 	margin: auto;
 }
-#header {
-	padding: 10px;
-}
-#header a {
-	color: #111;
-	text-decoration: none;
-}
 #body {
 	text-align: left;
 	padding: 10px;
 	padding-bottom: 60px;
 	background-color: #000;
-}
-#footer {
-	font-size: 80%;
-	color: #666;
-	height: 60px;
-	bottom: 0;
-	position: absolute;
-}
-#email-img {
-	position: absolute;
+	font-color: #FFF;
 }
 code a {
 	color: #111;
