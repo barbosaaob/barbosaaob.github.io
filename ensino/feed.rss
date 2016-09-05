@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Prof. Adriano Barbosa - UFGD</title>
+		<atom:link href="http://www.lcad.icmc.usp.br/~barbosa/ensino/feed.rss" rel="self" type="application/rss+xml" />
+		<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/</link>
+		<description>Novidades sobre as disciplinas ensinadas</description>
+		<lastBuildDate>Fri, 01 Jan 2016 20:30:00 +0000</lastBuildDate>
+		<language>pt-BR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+
+		<item>
+			<title>Eng. Mecânica - Integral tripla</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/2016-1-calculo3-mec.html#classes</link>
+			<description>Material complementar sobre integral tripla.</description>
+		</item>
+
+		<item>
+			<title>Eng. de Energia - Integral tripla</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/2016-1-calculo3-energ.html#classes</link>
+			<description>Material complementar sobre integral tripla.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Aula de integral dupla</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/aulas/integral-dupla.pdf</link>
+			<description>Slides da aula de integral dupla.</description>
+		</item>
+
+		<item>
+			<title>Eng. de Energia - Data da P1 Cálculo 3 alterada</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/2016-1-calculo3-energ.html</link>
+			<description>Conforme combinado em aula, a data da P1 foi alterada para o dia 12 de Agosto.</description>
+		</item>
+
+		<item>
+			<title>Eng. de Energia - Aula de integral dupla</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/aulas/integral-dupla.pdf</link>
+			<description>Slides da aula de integral dupla.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Data da P1 Cálculo 3 alterada</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/2016-1-calculo3-mec.html</link>
+			<description>Conforme combinado em aula, a data da P1 foi alterada para o dia 09 de Agosto.</description>
+		</item>
+
+		<item>
+			<title>Eng. de Alimentos - Lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/edo-alim.pdf</link>
+			<description>Lista de exercícios de Cálculo 2 sobre equações diferenciais para o curso de Engenharia de Alimentos, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/edo-mec.pdf</link>
+			<description>Lista de exercícios de Cálculo 2 sobre equações diferenciais para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Alimentos - Respostas da lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/sequencias-series-sol.pdf</link>
+			<description>Respostas da lista de exercícios de Cálculo 2 sobre sequências e séries para o curso de Engenharia de Alimentos, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Respostas da lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/sequencias-series-sol.pdf</link>
+			<description>Respostas da lista de exercícios de Cálculo 2 sobre sequências e séries para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/sequencias-series.pdf</link>
+			<description>Lista de exercícios de Cálculo 2 sobre sequências e séries para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. de Alimentos - Lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/sequencias-series.pdf</link>
+			<description>Lista de exercícios de Cálculo 2 sobre sequências e séries para o curso de Engenharia de Alimentos, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Lista de exercícios de Álgebra Linear</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/espaco-vetorial_transf-linear.pdf</link>
+			<description>Lista de exercícios de Álgebra Linear sobre espaços vetoriais e transformações lineares para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Lista de exercícios de Álgebra Linear</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/vetores-reta-plano.pdf</link>
+			<description>Lista de exercícios de Álgebra Linear sobre vetores e equações da reta e do plano para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Respostas da lista de exercícios de Álgebra Linear</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/matrizes-e-sistemas_lineares-sol.pdf</link>
+			<description>Respostas da lista de exercícios de Álgebra Linear sobre matrizes e determinantes para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Respostas da lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/integrais-sol.pdf</link>
+			<description>Respostas da lista de exercícios de Cálculo 2 sobre integrais para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. de Alimentos - Respostas da lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/integrais-sol.pdf</link>
+			<description>Respostas da lista de exercícios de Cálculo 2 sobre integrais para o curso de Engenharia de Alimentos, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Lista de exercícios de Álgebra Linear</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/matrizes-e-sistemas_lineares.pdf</link>
+			<description>Lista de exercícios de Álgebra Linear sobre matrizes e determinantes para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. Mecânica - Lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/integrais.pdf</link>
+			<description>Lista de exercícios de Cálculo 2 sobre integrais para o curso de Engenharia Mecânica, 2º semestre de 2015.</description>
+		</item>
+
+		<item>
+			<title>Eng. de Alimentos - Lista de exercícios de Cálculo 2</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/listas/integrais.pdf</link>
+			<description>Lista de exercícios de Cálculo 2 sobre integrais para o curso de Engenharia de Alimentos, 2º semestre de 2015.</description>
+		</item>
+	</channel>
+</rss>
