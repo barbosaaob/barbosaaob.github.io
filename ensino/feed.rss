@@ -18,6 +18,18 @@
 		<sy:updateFrequency>1</sy:updateFrequency>
 
 		<item>
+			<title>Eng. Mecânica - Listas de exercício</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/2016-1-calculo3-mec.html#exercises</link>
+			<description>Listas de exercícios.</description>
+		</item>
+
+		<item>
+			<title>Eng. de Energia - Listas de exercício</title>
+			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/2016-1-calculo3-energ.html#exercises</link>
+			<description>Listas de exercícios.</description>
+		</item>
+
+		<item>
 			<title>Eng. Mecânica - Integral tripla</title>
 			<link>http://www.lcad.icmc.usp.br/~barbosa/ensino/2016-1-calculo3-mec.html#classes</link>
 			<description>Material complementar sobre integral tripla.</description>
