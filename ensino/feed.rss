@@ -18,6 +18,12 @@
 		<sy:updateFrequency>1</sy:updateFrequency>
 
 		<item>
+			<title>Eng. Mecânica - Adicionada aula</title>
+			<link>https://barbosaaob.github.io/ensino/2016-2-analise_num-mec.html</link>
+			<description>Adicionada a aula do dia 07/11 sobre Erro de arredondamento e Algoritmos.</description>
+		</item>
+
+		<item>
 			<title>Eng. de Computação - Data do Exame de Cálculo 2 alterada</title>
 			<link>https://barbosaaob.github.io/ensino/2016-1-calculo2-comp.html</link>
 			<description>Conforme combinado em aula, a data do exame foi alterada para o dia 14 de Outubro.</description>
