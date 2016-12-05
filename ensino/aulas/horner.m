@@ -1,6 +1,5 @@
 % entrada
-% P = [-4, 3, -3, 0, 2];  % coeficientes a_0, a_1, ..., a_n de P
-P = [2, 0, -3, 3, -4];  % coeficientes a_0, a_1, ..., a_n de P
+P = [2, 0, -3, 3, -4];  % coeficientes a_n, a_n-1, ..., a_0 de P
 x0 = -2;                % valor para avaliar P
 
 % saida
