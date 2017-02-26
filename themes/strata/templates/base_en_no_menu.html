@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="{{ DEFAULT_LANG }}">
+	<head>
+	{% block head %}
+		<title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/ico" href="{{ SITEURL }}/images/favico.ico">
+		<link rel="alternate" type="application/rss+xml" href="{{ SITEURL }}/feeds/all.atom.xml" title="Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="{{ SITEURL }}/feeds/publications.atom.xml" title="Publications - Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="{{ SITEURL }}/feeds/teaching.atom.xml" title="Teaching - Prof. Adriano Barbosa">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="{{ SITEURL }}/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="{{ SITEURL }}/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="{{ SITEURL }}/assets/css/ie8.css" /><![endif]-->
+	{% endblock head %}
+	</head>
+	<body id="top">
+
+		<!-- Header -->
+		<header id="header">
+			<a href="{{ SITEURL }}/" class="image avatar scrolly"><img src="{{ SITEURL }}/images/avatar.png" alt="" /></a>
+			<h1><strong>I am Adriano</strong>,
+				professor at <a href="http://portal.ufgd.edu.br/faculdade/facet/" target="_blank">UFGD</a>
+			</h1>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+
+			{% block content %}
+			{% endblock %}
+
+			<!-- Contact -->
+			<section id="contact">
+				<h2>get in touch</h2>
+				<ul class="labeled-icons">
+					<li><h3 class="icon fa-envelope-o"><span class="label">Email</span></h3><a href="mailto:{{ EMAIL }}">{{ EMAIL }}</a></li>
+				</ul>
+			</section>
+		</div>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="icons">
+				{% for name, link in SOCIAL %}
+					<li><a href="{{ link }}" target="_blank" class="icon fa-{{ name }}"><span class="label">{{ name }}</span></a></li>
+				{% endfor %}
+			</ul>
+			<ul class="copyright">
+				{# <li>&copy; {{ AUTHOR }}</li> #}
+				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li>Background: <a href="http://unsplash.com" target="_blank">Unsplash</a></li>
+				<li>Generated with <a href="http://blog.getpelican.com/" target="_blank">Pelican</a></li>
+			</ul>
+		</footer>
+
+		<!-- Scripts -->
+		<script src="{{ SITEURL }}/assets/js/jquery.min.js"></script>
+		<script src="{{ SITEURL }}/assets/js/jquery.poptrox.min.js"></script>
+		<script src="{{ SITEURL }}/assets/js/jquery.scrolly.min.js"></script>
+		<script src="{{ SITEURL }}/assets/js/arrow.js"></script>
+		<script src="{{ SITEURL }}/assets/js/skel.min.js"></script>
+		<script src="{{ SITEURL }}/assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="{{ SITEURL }}/assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="{{ SITEURL }}/assets/js/main.js"></script>
+	</body>
+</html>

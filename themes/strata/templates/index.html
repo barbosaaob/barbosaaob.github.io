@@ -1,0 +1,45 @@
+{% extends "base_en.html" %}
+
+{% block content %}
+<!-- About -->
+<section id="about">
+	<!-- <header class="major"> -->
+	<h2>about me</h2>
+	<!-- </header> -->
+	<article class="work-item">
+		<h3>I received the BSc in Mathematics in 2008 and MSc degree in Computer Graphics in 2011,
+			both from the <a href="http://www.im.ufal.br/" target="_blank">Instituto de Matemática</a> —
+			<a href="http://www.ufal.edu.br/" target="_blank">Universidade Federal de Alagoas</a> and the
+			PhD in Computer Graphics from the 
+			<a href="http://www.icmc.usp.br/" target="_blank">Instituto de Ciências Matemáticas e de Computação (ICMC)</a>
+			— <a href="http://www.usp.br" target="_blank">Universidade de São Paulo (USP)</a>.
+			I am member of Visual and Geometry Processing Group at ICMC — USP.
+			I joined the <a href="http://portal.ufgd.edu.br" target="_blank">Universidade Federal da Grande Dourados</a>
+			in 2015, where I am currently assistant professor at <a href="http://portal.ufgd.edu.br/faculdade/facet" target="_blank">
+				Faculdade de Ciências Exatas e Tecnologias</a>.
+			<br />
+			<br />
+			My research interests comprise interactive visualization for kernelized data.
+		</h3>
+	</article>
+</section>
+
+{% for category, articles in categories %}
+<section id="{{ category.name }}">
+	<h2>{{ category.name }}</h2>
+		{% for article in articles %}
+			{% if loop.index <= ARTICLES_ON_INDEX %}
+				{% for tag in article.tags %}
+					<div class="row">
+					<p>{{ tag }}</p>
+					<article class="work-item">
+					<h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
+					</article>
+					</div>
+				{% endfor %}
+			{% endif %}
+		{% endfor %}
+		<a href="{{ category.url }}">more...</a>
+</section>
+{% endfor %}
+{% endblock %}

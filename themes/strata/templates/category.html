@@ -1,0 +1,17 @@
+{% extends "base_en.html" %}
+
+{% block content %}
+<section id="{{ category }}">
+	<h2>{{ category }}</h2>
+	{% for article in articles | sort(attribute="date", reverse=True) %}
+		{% for tag in article.tags %}
+			<div class="row">
+			<p>{{ tag }}</p>
+			<article class="work-item">
+			<h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+			</article>
+			</div>
+		{% endfor %}
+	{% endfor %}
+</section>
+{% endblock %}
