@@ -49,6 +49,9 @@ tags: 2016.2
 			Aula 9 - Métodos de Jacobi e Gauss-Seidel:
 			<a href="{filename}/aulas/09-jacobi-gauss-seidel.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
 			<br>
+			Aula 10 - EDO e Método de Euler:
+			<a href="{filename}/aulas/10-edo-euler.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<br>
 		</article>
 	</div>
 </section>
