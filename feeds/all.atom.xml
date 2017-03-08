@@ -229,10 +229,22 @@ operadores.  Produto interno.  &lt;/p&gt;
 
 &lt;section&gt;
     &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas e material complementar&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="http://barbosaaob.github.io/aulas/volume.pdf"&gt;Volume&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
 &lt;/section&gt;
 
 &lt;!-- Exercises --&gt;
@@ -259,15 +271,26 @@ operadores.  Produto interno.  &lt;/p&gt;
     &lt;div class="row"&gt;
         &lt;article class="12u 12u$(xsmall) work-item"&gt;
             Serão realizadas duas provas escritas (P1 e P2), cuja média de
-            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
-            &lt;code&gt;MA = (P1 + P2) / 2 …&lt;/code&gt;&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+            aproveitamento (MA) será obtida da …&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
 
 &lt;section&gt;
     &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas e material complementar&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="http://barbosaaob.github.io/aulas/volume.pdf"&gt;Volume&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
 &lt;/section&gt;
 
 &lt;!-- Exercises --&gt;
