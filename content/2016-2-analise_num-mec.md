@@ -51,6 +51,11 @@ tags: 2016.2
 			<br>
 			Aula 10 - EDO e Método de Euler:
 			<a href="{filename}/aulas/10-edo-euler.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{filename}/aulas/10-euler.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<br>
+			Aula 11 - Métodos de Runge-Kutta:
+			<a href="{filename}/aulas/11-rk-ordem-2.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{filename}/aulas/11-rk-ordem-2.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 		</article>
 	</div>
