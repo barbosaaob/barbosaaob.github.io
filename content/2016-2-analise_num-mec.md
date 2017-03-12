@@ -32,7 +32,7 @@ tags: 2016.2
 			<br>
 			Aula 4 - Método de Horner:
 			<a href="{filename}/aulas/04-horner.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/horner.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{filename}/aulas/04-horner.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 5 - Interpolação de Lagrange:
 			<a href="{filename}/aulas/05-lagrange.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
