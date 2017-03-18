@@ -81,32 +81,10 @@ operadores.  Produto interno.  &lt;/p&gt;
     &lt;h2&gt;aulas&lt;/h2&gt;
     &lt;div class="row"&gt;
         &lt;article class="12u 12u$(xsmall) work-item"&gt;
-            Aula 1 - Erro e Algoritmos: 
-            &lt;a href="http://barbosaaob.github.io/aulas/01-erro-algoritmo.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
-            &lt;a href="http://barbosaaob.github.io/aulas/01-exemplos-algoritmo.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
-            &lt;br&gt;
-            Aula 2 - Método da bisseção:
-            &lt;a href="http://barbosaaob.github.io/aulas/02-bissecao.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
-            &lt;a href="http://barbosaaob.github.io/aulas/02-bissecao.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
-            &lt;br&gt;
-            Aula 3 - Método de Newton:
-            &lt;a href="http://barbosaaob.github.io/aulas/03-newton.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
-            &lt;a href="http://barbosaaob.github.io/aulas/03-newton.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
-            &lt;br&gt;
-            Aula 4 - Método de Horner:
-            &lt;a href="http://barbosaaob.github.io/aulas/04-horner.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
-            &lt;a href="http://barbosaaob.github.io/aulas/04-horner.m" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
-            &lt;br&gt;
-            Aula 5 - Interpolação de Lagrange:
-            &lt;a href="http://barbosaaob.github.io/aulas/05-lagrange.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
-            &lt;br&gt;
-            Aula 6 - Spline:
-            &lt;a href="http://barbosaaob.github.io/aulas/06-spline.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
-            &lt;br&gt;
-            Aula 7 - Eliminação de Gauss:
-            &lt;a href="http://barbosaaob.github.io/aulas/07-eliminacao-gauss.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
-            &lt;br&gt;
-            Aula …&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+            &lt;b&gt;AVISO:&lt;/b&gt; Todas as implementações disponíveis aqui estão
+            seguindo os algoritmos apresentados na bibliografia do curso, cujo objetivo não
+            obter o melhor desempenho e sim facilitar o entendimento dos métodos. Além disso, podem conter &lt;a href="https://pt.wikipedia.org/wiki/Bug" target="_blank"&gt;bugs&lt;/a&gt;, use por sua conta e risco.&lt;br&gt;&lt;br&gt;
+            Aula 1 - Erro e Algoritmos …&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
 
 &lt;section&gt;
     &lt;ul class="actions"&gt;
@@ -123,6 +101,9 @@ operadores.  Produto interno.  &lt;/p&gt;
     &lt;h2&gt;aulas&lt;/h2&gt;
     &lt;div class="row"&gt;
         &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;b&gt;AVISO:&lt;/b&gt; Todas as implementações disponíveis aqui estão
+            seguindo os algoritmos apresentados na bibliografia do curso, cujo objetivo não
+            obter o melhor desempenho e sim facilitar o entendimento dos métodos. Além disso, podem conter &lt;a href="https://pt.wikipedia.org/wiki/Bug" target="_blank"&gt;bugs&lt;/a&gt;, use por sua conta e risco.&lt;br&gt;&lt;br&gt;
             Aula 1 - Erro e Algoritmos: 
             &lt;a href="http://barbosaaob.github.io/aulas/01-erro-algoritmo.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
             &lt;a href="http://barbosaaob.github.io/aulas/01-exemplos-algoritmo.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
@@ -147,12 +128,15 @@ operadores.  Produto interno.  &lt;/p&gt;
             &lt;br&gt;
             Aula 7 - Eliminação de Gauss:
             &lt;a href="http://barbosaaob.github.io/aulas/07-eliminacao-gauss.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://barbosaaob.github.io/aulas/07-gauss.m" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
             &lt;br&gt;
             Aula 8 - Decomposição LU:
             &lt;a href="http://barbosaaob.github.io/aulas/08-decomposicao-lu.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://barbosaaob.github.io/aulas/08-lu2.m" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
             &lt;br&gt;
             Aula 9 - Métodos de Jacobi e Gauss-Seidel:
             &lt;a href="http://barbosaaob.github.io/aulas/09-jacobi-gauss-seidel.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://barbosaaob.github.io/aulas/09-jacobi-gauss_seidel.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
             &lt;br&gt;
             Aula 10 - EDO e Método de Euler:
             &lt;a href="http://barbosaaob.github.io/aulas/10-edo-euler.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
