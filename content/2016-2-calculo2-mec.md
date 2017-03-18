@@ -25,6 +25,7 @@ category: teaching
 			<a href="{filename}/listas/fracoes-parciais.pdf">Lista 4 - Frações parciais</a><br>
 			<a href="{filename}/listas/sequencias-series.pdf">Lista 5 - Sequências e séries</a><br>
 			<a href="{filename}/listas/sequencias-series-sol.pdf">Respostas Lista 5 - Sequências e séries</a><br>
+			<a href="{filename}/listas/edo-mec.pdf">Lista 6 - Equações diferenciais</a><br>
 		</article>
 	</div>
 </section>
