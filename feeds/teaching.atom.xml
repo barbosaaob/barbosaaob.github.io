@@ -1,5 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa - teaching</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/teaching.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2017-02-01T00:00:00-03:00</updated><entry><title>álgebra linear e geometria analítica - química</title><link href="http://barbosaaob.github.io/teaching/2016-2-algebra_linear.html" rel="alternate"></link><published>2017-02-01T00:00:00-03:00</published><updated>2017-02-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-02-01:/teaching/2016-2-algebra_linear.html</id><summary type="html">&lt;ul class="actions"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa - teaching</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/teaching.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2017-05-01T00:00:00-04:00</updated><entry><title>álgebra linear e geometria analítica - eng. civil</title><link href="http://barbosaaob.github.io/teaching/2017-1-algebra_linear-civil.html" rel="alternate"></link><published>2017-05-01T00:00:00-04:00</published><updated>2017-05-01T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-05-01:/teaching/2017-1-algebra_linear-civil.html</id><summary type="html">&lt;ul class="actions"&gt;
+&lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+&lt;!-- &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt; --&gt;
+&lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;Em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 28/06/2017
+P2 - 23/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da …&lt;/p&gt;</summary><content type="html">&lt;ul class="actions"&gt;
+&lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+&lt;!-- &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt; --&gt;
+&lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;Em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 28/06/2017
+P2 - 23/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 30/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 06/09/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Matrizes e determinantes. Sistemas de equações lineares. Álgebra vetorial.
+Equação da reta no plano e no espaço. Equações do plano. Transformação linear
+e matrizes. Autovalores e autove tores. Diagonalização de matrizes e
+operadores. Produto interno.  &lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações. 10.ed. Wiley, 2012.&lt;/li&gt;
+&lt;li&gt;BOLDRINI, J.L. Álgebra linear. 3.ed. São Paulo: Harbra, 1986.&lt;/li&gt;
+&lt;li&gt;LIMA, ELON LAGES. Geometria Analítica e Álgebra Linear. 2.ed. Rio de Janeiro: IMPA, 2008. 324pp.&lt;/li&gt;
+&lt;li&gt;WINTERLE, Paulo. Vetores e Geometria. São Paulo: Editora Pearson Markron Books.&lt;/li&gt;
+&lt;li&gt;BOULOS,P.; CAMARGO, I. Geometria Analítica: um tratamento vetorial. 3.ed. São Paulo: Person Makron Books do Brasil&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFRAEDO; STEINBRUCH, ALFREDO: Geometria Analítica, Editora: Person Makron Books&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFREDO; STEINBRUCH, ALFREDO: Álgebra Linear, Editora: Person Makron Books&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2017.1"></category></entry><entry><title>álgebra linear e geometria analítica - matemática</title><link href="http://barbosaaob.github.io/teaching/2017-1-algebra_linear-mat.html" rel="alternate"></link><published>2017-05-01T00:00:00-04:00</published><updated>2017-05-01T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-05-01:/teaching/2017-1-algebra_linear-mat.html</id><summary type="html">&lt;ul class="actions"&gt;
+&lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+&lt;!-- &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt; --&gt;
+&lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;Em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 28/06/2017
+P2 - 23/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da …&lt;/p&gt;</summary><content type="html">&lt;ul class="actions"&gt;
+&lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+&lt;!-- &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt; --&gt;
+&lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;Em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 28/06/2017
+P2 - 23/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 30/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 06/09/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Matrizes e determinantes. Sistemas de equações lineares. Álgebra vetorial.
+Equação da reta no plano e no espaço. Equações do plano. Transformação linear
+e matrizes. Autovalores e autove tores. Diagonalização de matrizes e
+operadores. Produto interno.  &lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações. 10.ed. Wiley, 2012.&lt;/li&gt;
+&lt;li&gt;BOLDRINI, J.L. Álgebra linear. 3.ed. São Paulo: Harbra, 1986.&lt;/li&gt;
+&lt;li&gt;LIMA, ELON LAGES. Geometria Analítica e Álgebra Linear. 2.ed. Rio de Janeiro: IMPA, 2008. 324pp.&lt;/li&gt;
+&lt;li&gt;WINTERLE, Paulo. Vetores e Geometria. São Paulo: Editora Pearson Markron Books.&lt;/li&gt;
+&lt;li&gt;BOULOS,P.; CAMARGO, I. Geometria Analítica: um tratamento vetorial. 3.ed. São Paulo: Person Makron Books do Brasil&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFRAEDO; STEINBRUCH, ALFREDO: Geometria Analítica, Editora: Person Makron Books&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFREDO; STEINBRUCH, ALFREDO: Álgebra Linear, Editora: Person Makron Books&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2017.1"></category></entry><entry><title>álgebra linear e geometria analítica - química</title><link href="http://barbosaaob.github.io/teaching/2016-2-algebra_linear.html" rel="alternate"></link><published>2017-02-01T00:00:00-03:00</published><updated>2017-02-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-02-01:/teaching/2016-2-algebra_linear.html</id><summary type="html">&lt;ul class="actions"&gt;
 &lt;!-- &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt; --&gt;
 &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
