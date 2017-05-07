@@ -17,7 +17,7 @@ DEFAULT_LANG = u'en'
 THEME = 'themes/strata'
 THEME_STATIC_DIR = ''
 
-STATIC_PATHS = ['images', 'papers', 'listas', 'aulas']
+STATIC_PATHS = ['images', 'papers', 'listas', 'aulas', 'arquivos']
 
 SLUGIFY_SOURCE = 'basename'
 ARTICLE_SAVE_AS = '{category}/{slug}.html'
