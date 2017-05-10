@@ -3,7 +3,8 @@ tags: 2017.1
 date: 2017-05-01
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 1]({filename}/listas/algebra-linear-01.pdf)
+[Lista 1]({filename}/listas/algebra-linear-01.pdf)  
+[Lista 2]({filename}/listas/algebra-linear-02.pdf)
 
 ---
 
