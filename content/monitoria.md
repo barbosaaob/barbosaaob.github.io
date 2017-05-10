@@ -9,4 +9,4 @@ category: monitoria
 ---
 
 # Local da prova
-Em breve...
+Sala de vídeo da Matemática - FACET.
