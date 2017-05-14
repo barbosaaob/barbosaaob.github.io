@@ -2,6 +2,7 @@ title: Seleção Monitoria 2017.1
 tags: Monitoria
 date: 2017-05-06
 category: monitoria
+status: draft
 
 # Resultado
 1. Lucas Dias Vieira
