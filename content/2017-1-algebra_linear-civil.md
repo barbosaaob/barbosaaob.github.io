@@ -9,6 +9,13 @@ category: teaching
 
 ---
 
+## <a id="monitoria"></a>monitoria
+Sala 255 do bloco D  
+Monitor: Lucas Dias Vieira  
+Horário: Quintas-feiras, das 7h às 11h
+
+---
+
 ## <a id="exams"></a>avaliação
 Serão realizadas duas provas escritas (P1 e P2), cuja média de
 aproveitamento (MA) será obtida da seguinte maneira:  
