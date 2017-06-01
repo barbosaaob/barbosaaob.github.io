@@ -23,7 +23,7 @@ Serão realizadas duas provas escritas (P1 e P2), cuja média de
 aproveitamento (MA) será obtida da seguinte maneira:  
 `MA = (P1 + P2) / 2`  
 **Datas:  
-P1 - 28/06/2017  
+P1 - <strike>28/06/2017</strike> 05/07/2017  
 P2 - 23/08/2017**
 
 Prova Substitutiva:  
