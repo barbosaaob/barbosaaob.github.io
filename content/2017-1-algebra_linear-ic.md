@@ -3,17 +3,12 @@ tags: 2017.1
 date: 2017-05-10
 category: teaching
 
-## <a id="exercices"></a>listas
-Em breve...
-
----
-
 ## <a id="exams"></a>avaliação
 Serão realizadas duas provas escritas (P1 e P2), cuja média de
 aproveitamento (MA) será obtida da seguinte maneira:  
 `MA = (P1 + P2) / 2`  
 **Datas:  
-P1 - ...  
+P1 - 07/07/2017  
 P2 - ...**
 
 Prova Substitutiva:  
