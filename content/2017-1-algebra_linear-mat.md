@@ -12,7 +12,13 @@ category: teaching
 [Lista 6]({filename}/listas/algebra-linear-06.pdf)  
 [Lista 7]({filename}/listas/algebra-linear-07.pdf)  
 [Lista 8]({filename}/listas/algebra-linear-08.pdf)  
-[P1]({filename}/provas/2017-1-algebra_linear-mat-p1.pdf)
+[Lista 9]({filename}/listas/algebra-linear-09.pdf)  
+[Lista 10]({filename}/listas/algebra-linear-10.pdf)
+
+---
+
+## <a id="grades"></a>notas
+P1: [Solução]({filename}/provas/2017-1-algebra_linear-mat-p1.pdf)
 
 ---
 

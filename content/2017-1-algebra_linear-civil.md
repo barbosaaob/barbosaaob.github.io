@@ -10,7 +10,9 @@ category: teaching
 [Lista 5]({filename}/listas/algebra-linear-05.pdf)  
 [Lista 6]({filename}/listas/algebra-linear-06.pdf)  
 [Lista 7]({filename}/listas/algebra-linear-07.pdf)  
-[Lista 8]({filename}/listas/algebra-linear-08.pdf)
+[Lista 8]({filename}/listas/algebra-linear-08.pdf)  
+[Lista 9]({filename}/listas/algebra-linear-09.pdf)  
+[Lista 10]({filename}/listas/algebra-linear-10.pdf)
 
 ---
 
