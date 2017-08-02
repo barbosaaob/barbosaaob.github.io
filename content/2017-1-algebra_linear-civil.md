@@ -31,7 +31,7 @@ aproveitamento (MA) será obtida da seguinte maneira:
 `MA = (P1 + P2) / 2`  
 **Datas:  
 P1 - <strike>28/06/2017</strike> 05/07/2017  
-P2 - <strike>23/08/2017</strike> 16/08/2017  
+P2 - <strike>23/08/2017</strike> 16/08/2017**
 
 Prova Substitutiva:  
 Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
