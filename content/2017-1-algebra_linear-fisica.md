@@ -14,6 +14,11 @@ category: teaching
 
 ---
 
+## <a id="grades"></a>provas
+P1: [Solução]({filename}/provas/2017-1-algebra_linear-fisica-p1.pdf)
+
+---
+
 ## <a id="exams"></a>avaliação
 Serão realizadas duas provas escritas (P1 e P2), cuja média de
 aproveitamento (MA) será obtida da seguinte maneira:  
