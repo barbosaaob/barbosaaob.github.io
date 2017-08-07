@@ -14,7 +14,8 @@ category: teaching
 [Lista 9]({filename}/listas/algebra-linear-09.pdf)  
 [Lista 10]({filename}/listas/algebra-linear-10.pdf)  
 [Lista 11]({filename}/listas/algebra-linear-11.pdf)  
-[Lista 12]({filename}/listas/algebra-linear-12.pdf)
+[Lista 12]({filename}/listas/algebra-linear-12.pdf)  
+[Lista 13]({filename}/listas/algebra-linear-13.pdf)
 
 ---
 
