@@ -22,7 +22,7 @@ category: teaching
 
 ## <a id="grades"></a>provas
 P1: [Solução]({filename}/provas/2017-1-algebra_linear-mat-p1.pdf)  
-P2: [Solução em breve]({filename}/provas/2017-1-algebra_linear-mat-p2.pdf)
+P2: [Solução]({filename}/provas/2017-1-algebra_linear-mat-p2.pdf)
 
 ---
 
