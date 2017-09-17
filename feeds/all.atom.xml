@@ -1,5 +1,126 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2017-05-10T00:00:00-04:00</updated><entry><title>álgebra linear e geometria analítica - física</title><link href="http://barbosaaob.github.io/teaching/2017-1-algebra_linear-fisica.html" rel="alternate"></link><published>2017-05-10T00:00:00-04:00</published><updated>2017-05-10T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-05-10:/teaching/2017-1-algebra_linear-fisica.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2017-09-17T00:00:00-04:00</updated><entry><title>fundamentos 3 - matemática</title><link href="http://barbosaaob.github.io/teaching/2017-2-fundamentos3-mat.html" rel="alternate"></link><published>2017-09-17T00:00:00-04:00</published><updated>2017-09-17T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-09-17:/teaching/2017-2-fundamentos3-mat.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 16/11/2017&lt;br&gt;
+P2 - 20/02/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 16/11/2017&lt;br&gt;
+P2 - 20/02/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 27/02/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 06/03/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Números complexos e polinômios.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;IEZZI, Gelson. Fundamentos de matematica elementar: complexos : polinomios : equacoes. 7. Sao Paulo: Atual, . 2005p.&lt;/li&gt;
+&lt;li&gt;CARMO, Manfredo Perdigão do. Trigonometria e números complexos. Rio de Janeiro, RJ: Sociedade Brasileira de Matemática, 1985. 101p.&lt;/li&gt;
+&lt;li&gt;HEFEZ, Abramo e VILELLA, Maria Lúcia. Polinômios e Equações Algébricas. Rio de Janeiro: SBM, 2012 (Coleção PROFMAT)&lt;/li&gt;
+&lt;li&gt;DANTE, Luiz Roberto. Matemática contexto &amp;amp; Aplicações Volume Único. Editora Ática.&lt;/li&gt;
+&lt;li&gt;GARBI, Gilberto Geraldo. O romance das equações algébricas. São Paulo, SP: Makron Books, 1997. 255p.&lt;/li&gt;
+&lt;li&gt;CALDEIRA, Andre Machado. Pré-calculo. 3.ed. Sao Paulo: Cengage Learning, 2013. 558p.&lt;/li&gt;
+&lt;li&gt;LIMA, Elon Lages et al. A Matemática do Ensino Médio, vol. 1. Rio de Janeiro: SBM, 2006. (Coleção do Professor de Matemática)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="http://barbosaaob.github.io/planos/2017-2-fundamentos3-mat.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2017.2"></category></entry><entry><title>cálculo 2 - engenharia civil</title><link href="http://barbosaaob.github.io/teaching/2017-2-calculo2-civil.html" rel="alternate"></link><published>2017-09-16T00:00:00-04:00</published><updated>2017-09-16T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-09-16:/teaching/2017-2-calculo2-civil.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Sala ...&lt;br&gt;
+Monitor: ...&lt;br&gt;
+Horário: ...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 09/11/2017&lt;br&gt;
+P2 - 14/12/2017&lt;br&gt;
+P3 - 20/02/2018&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Sala ...&lt;br&gt;
+Monitor: ...&lt;br&gt;
+Horário: ...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 09/11/2017&lt;br&gt;
+P2 - 14/12/2017&lt;br&gt;
+P3 - 20/02/2018&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 27/02/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 06/03/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas.
+Fórmula de Taylor.  Série de potências. Equações diferenciais de 1ª ordem e
+aplicações. Equações diferenciais lineares.  Equações diferenciais lineares de
+2ª ordem e aplicações.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre,
+   RS: Bookman, 2007. v.2.&lt;/li&gt;
+&lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de
+   Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+&lt;li&gt;AVILA, G. Calculo. Rio de Janeiro: LTC, 2007&lt;/li&gt;
+&lt;li&gt;HOFFMANN, L. D; BRADLEY, G. L. Calculo. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+&lt;li&gt;ROCHA, L. M. Calculo 2. São Paulo: ATLAS, 1987.&lt;/li&gt;
+&lt;li&gt;ROMANO, R. Calculo diferencial e integral. São Paulo: ATLAS, 1981.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="http://barbosaaob.github.io/planos/2017-2-calculo2-civil.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2017.2"></category></entry><entry><title>álgebra linear e geometria analítica - física</title><link href="http://barbosaaob.github.io/teaching/2017-1-algebra_linear-fisica.html" rel="alternate"></link><published>2017-05-10T00:00:00-04:00</published><updated>2017-05-10T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-05-10:/teaching/2017-1-algebra_linear-fisica.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://barbosaaob.github.io/listas/algebra-linear-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://barbosaaob.github.io/listas/algebra-linear-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://barbosaaob.github.io/listas/algebra-linear-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
