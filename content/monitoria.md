@@ -1,19 +1,7 @@
-title: Seleção Monitoria 2017.1
+title: Seleção Monitoria 2017.2
 tags: Monitoria
-date: 2017-05-06
+date: 2017-09-19
 category: monitoria
-status: draft
-
-# Resultado
-1. Lucas Dias Vieira
-2. Hugo Okahara da Silva
-
----
-
-# Local da prova
-Sala de vídeo da Matemática - FACET.
-
----
 
 # Edital de seleção
-[Edital de Seleção]({filename}/arquivos/edital-monitoria-2017-1.pdf)
+[Edital de Seleção]({filename}/arquivos/edital-monitoria-2017-2.pdf)
