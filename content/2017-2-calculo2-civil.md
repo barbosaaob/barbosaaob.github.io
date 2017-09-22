@@ -3,7 +3,7 @@ tags: 2017.2
 date: 2017-09-16
 category: teaching
 ## <a id="exercices"></a>listas
-em breve...
+[Lista 0]({filename}/listas/calculo2-00.pdf)
 
 ---
 
