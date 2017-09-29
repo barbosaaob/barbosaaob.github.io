@@ -9,9 +9,11 @@ category: teaching
 ---
 
 ## <a id="monitoria"></a>monitoria
-Sala ...  
-Monitor: ...  
-Horário: ...
+Sala *a definir*  
+Monitor: Victor Freitas
+Horário:  
+quarta-feira das 11h às 13h
+sexta-feita  das 9h às 11h
 
 ---
 
