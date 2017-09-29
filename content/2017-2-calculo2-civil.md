@@ -9,7 +9,7 @@ category: teaching
 ---
 
 ## <a id="monitoria"></a>monitoria
-Sala *a definir*  
+Bloco D sala 255  
 Monitor: Victor Freitas  
 Horário:  
 quarta-feira das 11h às 13h  
