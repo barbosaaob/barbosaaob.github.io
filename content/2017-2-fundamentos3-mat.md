@@ -4,6 +4,7 @@ date: 2017-09-17
 category: teaching
 ## <a id="exercices"></a>listas
 [Lista 1]({filename}/listas/fundamentos3-01.pdf)  
+[Lista 2]({filename}/listas/fundamentos3-02.pdf)
 
 ---
 
