@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2017-09-17T00:00:00-04:00</updated><entry><title>fundamentos 3 - matemática</title><link href="http://barbosaaob.github.io/teaching/2017-2-fundamentos3-mat.html" rel="alternate"></link><published>2017-09-17T00:00:00-04:00</published><updated>2017-09-17T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-09-17:/teaching/2017-2-fundamentos3-mat.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://barbosaaob.github.io/listas/fundamentos3-01.pdf"&gt;Lista 1&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;a href="http://barbosaaob.github.io/listas/fundamentos3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://barbosaaob.github.io/listas/fundamentos3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
 &lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
@@ -10,9 +11,9 @@ aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
 P1 - 16/11/2017&lt;br&gt;
 P2 - 20/02/2018&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Prova Substitutiva:&lt;br&gt;
-Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
-menor …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
-&lt;p&gt;&lt;a href="http://barbosaaob.github.io/listas/fundamentos3-01.pdf"&gt;Lista 1&lt;/a&gt;  &lt;/p&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://barbosaaob.github.io/listas/fundamentos3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="http://barbosaaob.github.io/listas/fundamentos3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
 &lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
