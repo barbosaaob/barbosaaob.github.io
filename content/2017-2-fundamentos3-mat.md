@@ -9,7 +9,8 @@ Votação para escolha do horário da monitoria: [https://doodle.com/poll/d6azyi
 
 ## <a id="exercices"></a>listas
 [Lista 1]({filename}/listas/fundamentos3-01.pdf)  
-[Lista 2]({filename}/listas/fundamentos3-02.pdf)
+[Lista 2]({filename}/listas/fundamentos3-02.pdf)  
+[Lista 3]({filename}/listas/fundamentos3-03.pdf)
 
 ---
 
