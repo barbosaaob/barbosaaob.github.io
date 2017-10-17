@@ -15,7 +15,7 @@ Bloco D sala 255
 Monitor: Victor Freitas  
 Horário:  
 quarta-feira das 11h às 13h  
-sexta-feira  das 9h às 11h
+sexta-feira das 9h às 11h
 
 ---
 
