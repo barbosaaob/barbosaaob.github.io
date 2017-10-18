@@ -12,7 +12,7 @@ category: teaching
 ---
 
 ## <a id="monitoria"></a>monitoria
-Sala a definir  
+Local: Bloco B, sala 10/2
 Monitor: Marcello Almeida
 Horário:  
 terça-feira das 13h às 15h  
