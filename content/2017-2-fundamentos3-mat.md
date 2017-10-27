@@ -2,16 +2,12 @@ title: fundamentos 3 - matemática
 tags: 2017.2
 date: 2017-09-17
 category: teaching
-
-Votação para escolha do horário da monitoria: [https://doodle.com/poll/d6azyicehuv8xxsw](https://doodle.com/poll/d6azyicehuv8xxsw)
-
----
-
 ## <a id="exercices"></a>listas
 [Lista 1]({filename}/listas/fundamentos3-01.pdf)  
 [Lista 2]({filename}/listas/fundamentos3-02.pdf)  
 [Lista 3]({filename}/listas/fundamentos3-03.pdf)  
-[Lista 4]({filename}/listas/fundamentos3-04.pdf)
+[Lista 4]({filename}/listas/fundamentos3-04.pdf)  
+[Lista 5]({filename}/listas/fundamentos3-05.pdf)
 
 ---
 

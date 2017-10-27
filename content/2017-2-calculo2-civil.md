@@ -2,11 +2,18 @@ title: cálculo 2 - engenharia civil
 tags: 2017.2
 date: 2017-09-16
 category: teaching
+## <a id="videos"></a>material complementar
+[Regra de L'Hospital](https://www.youtube.com/watch?v=6UqtOVdnet4)  
+[Curso de Cálculo I](https://www.youtube.com/watch?v=Rwq_aSsfS1k&list=PLxI8Can9yAHcXiEq9tNy7oYOMhuYYdRrP)
+
+---
+
 ## <a id="exercices"></a>listas
 [Lista 0]({filename}/listas/calculo2-00.pdf)  
 [Lista 1]({filename}/listas/calculo2-01.pdf)  
 [Lista 2]({filename}/listas/calculo2-02.pdf)  
-[Lista 3]({filename}/listas/calculo2-03.pdf)
+[Lista 3]({filename}/listas/calculo2-03.pdf)  
+[Lista 4]({filename}/listas/calculo2-04.pdf)
 
 ---
 
