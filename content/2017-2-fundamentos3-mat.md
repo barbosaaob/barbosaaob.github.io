@@ -9,7 +9,8 @@ category: teaching
 [Lista 4]({filename}/listas/fundamentos3-04.pdf)  
 [Lista 5]({filename}/listas/fundamentos3-05.pdf)  
 [Lista 6]({filename}/listas/fundamentos3-06.pdf)  
-[Lista 7]({filename}/listas/fundamentos3-07.pdf)
+[Lista 7]({filename}/listas/fundamentos3-07.pdf)  
+[Lista 8]({filename}/listas/fundamentos3-08.pdf)
 
 ---
 
