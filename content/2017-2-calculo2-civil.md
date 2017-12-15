@@ -15,7 +15,8 @@ category: teaching
 ---
 
 ## <a id="tests"></a>provas
-[P1]({filename}/provas/2017-2-calculo2-civil-p1.pdf)
+[Avaliação P1]({filename}/provas/2017-2-calculo2-civil-p1.pdf)  
+[Avaliação P2]({filename}/provas/2017-2-calculo2-civil-p2.pdf)
 
 ---
 
