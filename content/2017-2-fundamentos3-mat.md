@@ -14,6 +14,12 @@ category: teaching
 [Lista 9]({filename}/listas/fundamentos3-09.pdf)
 
 ---
+## <a id="exercices"></a>material complementar
+[Gráfico da função polinomial quadrática](https://ggbm.at/TT25WNwm)  
+[Gráfico da função polinomial quadrática (forma canônica)](https://ggbm.at/MRM67U5W)  
+[Gráfico da função polinomial cúbica](https://ggbm.at/vGrnS9eC)
+
+---
 
 ## <a id="tests"></a>provas
 [P1]({filename}/provas/2017-2-fundamentos3-p1.pdf)
