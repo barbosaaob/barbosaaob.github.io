@@ -17,7 +17,9 @@ category: teaching
 ## <a id="exercices"></a>material complementar
 [Gráfico da função polinomial quadrática](https://ggbm.at/TT25WNwm)  
 [Gráfico da função polinomial quadrática (forma canônica)](https://ggbm.at/MRM67U5W)  
-[Gráfico da função polinomial cúbica](https://ggbm.at/vGrnS9eC)
+[Gráfico da função polinomial cúbica](https://ggbm.at/vGrnS9eC)  
+[Método da Bisseção]({filename}/aulas/bissecao-fundamentos.pdf)  
+[Jogo: adivinhe o número]({filename}/pages/adivinhe-o-numero.html)
 
 ---
 
