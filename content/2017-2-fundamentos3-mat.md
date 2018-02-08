@@ -11,7 +11,8 @@ category: teaching
 [Lista 6]({filename}/listas/fundamentos3-06.pdf)  
 [Lista 7]({filename}/listas/fundamentos3-07.pdf)  
 [Lista 8]({filename}/listas/fundamentos3-08.pdf)  
-[Lista 9]({filename}/listas/fundamentos3-09.pdf)
+[Lista 9]({filename}/listas/fundamentos3-09.pdf)  
+[Lista 10]({filename}/listas/fundamentos3-10.pdf)
 
 ---
 ## <a id="exercices"></a>material complementar
