@@ -44,7 +44,7 @@ aproveitamento (MA) será obtida da seguinte maneira:
 **Datas:  
 P1 - 09/11/2017  
 P2 - 14/12/2017  
-P3 - 20/02/2018**  
+P3 - <del>20/02/2018</del> 22/02/2018**  
 
 Prova Substitutiva:  
 Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
