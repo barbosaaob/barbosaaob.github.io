@@ -25,7 +25,8 @@ category: teaching
 ---
 
 ## <a id="tests"></a>provas
-[P1]({filename}/provas/2017-2-fundamentos3-p1.pdf)
+[P1]({filename}/provas/2017-2-fundamentos3-p1.pdf)  
+[P2]({filename}/provas/2017-2-fundamentos3-p2.pdf)
 
 ---
 
