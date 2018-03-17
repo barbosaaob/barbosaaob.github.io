@@ -1,5 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa - teaching</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/teaching.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2017-09-17T00:00:00-04:00</updated><entry><title>fundamentos 3 - matemática</title><link href="http://barbosaaob.github.io/teaching/2017-2-fundamentos3-mat.html" rel="alternate"></link><published>2017-09-17T00:00:00-04:00</published><updated>2017-09-17T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-09-17:/teaching/2017-2-fundamentos3-mat.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa - teaching</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/teaching.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-03-17T08:53:00-04:00</updated><entry><title>cálculo 1 - engenharia de alimentos</title><link href="http://barbosaaob.github.io/teaching/2018-1-calculo1-alimentos.html" rel="alternate"></link><published>2018-03-17T08:53:00-04:00</published><updated>2018-03-17T08:53:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-03-17:/teaching/2018-1-calculo1-alimentos.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Sala: ...&lt;br&gt;
+Monitor: ...&lt;br&gt;
+Horário: ...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - ...&lt;br&gt;
+P2 - ...&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Sala: ...&lt;br&gt;
+Monitor: ...&lt;br&gt;
+Horário: ...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - ...&lt;br&gt;
+P2 - ...&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - ...&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - ...&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo
+Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;WEIR, Maurice D.; THOMAS, Joel Hass George B. Cálculo. Vol 1. 12º edição.
+   São Paulo: Pearson Makron Boocks.&lt;/li&gt;
+&lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vol. 1. 5ª ed. Rio de Janeiro: LTC,
+   2001.&lt;/li&gt;
+&lt;li&gt;ÁVILA, Geraldo. Cálculo 1: funções de uma variável, editora LTC.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="{filename}/planos/2018-1-calculo1-alimentos.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2018.1"></category></entry><entry><title>cálculo 1 - engenharia de energia</title><link href="http://barbosaaob.github.io/teaching/2018-1-calculo1-energia.html" rel="alternate"></link><published>2018-03-17T08:53:00-04:00</published><updated>2018-03-17T08:53:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-03-17:/teaching/2018-1-calculo1-energia.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Sala: ...&lt;br&gt;
+Monitor: ...&lt;br&gt;
+Horário: ...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - ...&lt;br&gt;
+P2 - ...&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;em breve...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Sala: ...&lt;br&gt;
+Monitor: ...&lt;br&gt;
+Horário: ...&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - ...&lt;br&gt;
+P2 - ...&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - ...&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - ...&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo
+Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;WEIR, Maurice D.; THOMAS, Joel Hass George B. Cálculo. Vol 1. 12º edição.
+   São Paulo: Pearson Makron Boocks.&lt;/li&gt;
+&lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vol. 1. 5ª ed. Rio de Janeiro: LTC,
+   2001.&lt;/li&gt;
+&lt;li&gt;ÁVILA, Geraldo. Cálculo 1: funções de uma variável, editora LTC.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="{filename}/planos/2018-1-calculo1-energia.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2018.1"></category></entry><entry><title>fundamentos 3 - matemática</title><link href="http://barbosaaob.github.io/teaching/2017-2-fundamentos3-mat.html" rel="alternate"></link><published>2017-09-17T00:00:00-04:00</published><updated>2017-09-17T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2017-09-17:/teaching/2017-2-fundamentos3-mat.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://barbosaaob.github.io/listas/fundamentos3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://barbosaaob.github.io/listas/fundamentos3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
 &lt;a href="http://barbosaaob.github.io/listas/fundamentos3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
