@@ -45,7 +45,7 @@ Exame - ...**
 ---
 
 ## <a id="silabus"></a>ementa
-Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo
+Números Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo
 Diferencial. Cálculo Integral. Aplicações.
 
 ### bibliografia:  
