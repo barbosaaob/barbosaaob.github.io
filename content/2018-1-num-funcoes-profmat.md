@@ -7,23 +7,23 @@ Data  | Atividade
 ------|----------
 16/03 | Aula a ser reposta
 23/03 | Cap. 1: Conjuntos
-30/03 | Feriado
+_30/03_ | _Feriado_
 06/04 | Cap. 2: Números Naturais
 13/04 | Cap. 3: Números Cardinais
-20/04 | Feriado-Recesso
+_20/04_ | _Feriado_
 27/04 | Cap. 4: Números Reais
 04/05 | Cap. 4: Números Reais
-11/05 | Avaliação 1
+**11/05** | **Avaliação 1**
 18/05 | Cap. 5: Função Afim
 25/05 | Cap. 6: Função Quadrática
-01/06 | Feriado
+_01/06_ | _Feriado_
 08/06 | Cap. 7: Funções Polinomiais
 15/06 | Cap. 8: Função Exponencial
 22/06 | Cap. 8: Função Exponencial
 29/06 | Cap. 9: Funções Trigonométricas
-06/07 | Avaliação 2
+**06/07** | **Avaliação 2**
 13/07 | Cap. 9: Funções Trigonométricas
-20/07 | Exame Final
+**20/07** | **Exame Final**
 
 ---
 
