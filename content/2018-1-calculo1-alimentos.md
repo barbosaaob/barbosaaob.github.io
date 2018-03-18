@@ -24,8 +24,8 @@ Serão realizadas duas provas escritas (P1 e P2), cuja média de
 aproveitamento (MA) será obtida da seguinte maneira:  
 `MA = (P1 + P2) / 2`  
 **Datas:  
-P1 - ...  
-P2 - ...**  
+P1 - 17/05/2018  
+P2 - 10/07/2018**  
 
 Prova Substitutiva:  
 Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
@@ -33,14 +33,14 @@ menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
 obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
 aprovado.  
 **Data:  
-Sub - ...**  
+Sub - 17/07/2018**  
 
 Exame:  
 Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
 aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
 mínimo, 75%.  
 **Data:  
-Exame - ...**
+Exame - 24/07/2018**
 
 ---
 
