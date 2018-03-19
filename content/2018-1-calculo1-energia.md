@@ -3,7 +3,7 @@ tags: 2018.1
 date: 2018-03-17 08:53
 category: teaching
 ## <a id="exercices"></a>listas
-em breve...
+[Lista 01]({filename}/listas/calculo1-01.pdf)
 
 ---
 
