@@ -7,6 +7,11 @@ category: teaching
 
 ---
 
+## <a id="exercices"></a>recepção
+[Recepção dos calouros 2018]({filename}/arquivos/calouros-2018.pdf)
+
+---
+
 ## <a id="tests"></a>provas
 em breve...
 
