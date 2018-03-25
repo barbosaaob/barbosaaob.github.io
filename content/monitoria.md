@@ -3,10 +3,6 @@ tags: Monitoria
 date: 2018-03/23
 category: monitoria
 
-# resultado
-em breve...
-
----
-
 # edital de seleção
-em breve...
+[Cálculo Diferencial e Integral (Eng. de Alimentos)]({filename}/arquivos/edital-monitoria-2018-1-alimentos.pdf)  
+[Cálculo Diferencial e Integral (Eng. de Energia)]({filename}/arquivos/edital-monitoria-2018-1-energia.pdf)
