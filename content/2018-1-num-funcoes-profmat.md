@@ -27,6 +27,12 @@ _01/06_ | _Feriado_
 
 ---
 
+## exercícios
+1. [Provas nacionais](http://www.profmat-sbm.org.br/provas-nacionais/)  
+2. [Exames de qualificação](http://www.profmat-sbm.org.br/exame-nacional-de-qualificacao/)
+
+---
+
 ## <a id="silabus"></a>ementa
 Conjuntos. Números naturais. Números cardinais. Números reais. Funções afins.
 Funções quadráticas. Funções polinomiais. Funções exponenciais e logarítmicas.

@@ -1,15 +1,12 @@
-title: Seleção Monitoria 2017.2
+title: Seleção Monitoria 2018.1
 tags: Monitoria
-date: 2017-09-19
+date: 2018-03/23
 category: monitoria
-status: draft
 
 # resultado
-[Resultado da Seleção de Cálculo 2]({filename}/arquivos/resultado-monitoria-2017-2-calculo2.pdf)  
-[Resultado da Seleção de Fundamentos 3]({filename}/arquivos/resultado-monitoria-2017-2-fundamentos.pdf)
+em breve...
 
 ---
 
 # edital de seleção
-[Edital de Seleção Cálculo 2]({filename}/arquivos/edital-monitoria-2017-2.pdf)  
-[Edital de Seleção Fundamentos 3]({filename}/arquivos/edital-monitoria-2017-2-fundamentos.pdf)
+em breve...
