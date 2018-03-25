@@ -3,12 +3,8 @@ tags: 2018.1
 date: 2018-03-17 08:53
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 01]({filename}/listas/calculo1-01.pdf)
-
----
-
-## <a id="exercices"></a>recepção
-[Recepção dos calouros 2018]({filename}/arquivos/calouros-2018.pdf)
+[Lista 01]({filename}/listas/calculo1-01.pdf)  
+[Lista 02]({filename}/listas/calculo1-02.pdf)
 
 ---
 
