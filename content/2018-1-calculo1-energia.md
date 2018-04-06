@@ -9,16 +9,22 @@ category: teaching
 
 ---
 
+## material complementar
+[Gráficos de Funções Reais](https://ggbm.at/HYyH5SrC)
+
+---
+
 ## <a id="tests"></a>provas
 em breve...
 
 ---
 
 ## <a id="monitoria"></a>monitoria
-[Escolha o horário de atendimento](https://doodle.com/poll/328k5e2qppk8agqw)  
 Sala: ...  
-Monitor: ...  
-Horário: ...
+Monitor: Matheus Xavier  
+Horário:  
+quinta-feira das 16h às 18h  
+sexta-feira das 14h às 16h
 
 ---
 

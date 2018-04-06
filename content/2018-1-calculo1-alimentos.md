@@ -9,16 +9,22 @@ category: teaching
 
 ---
 
+## material complementar
+[Gráficos de Funções Reais](https://ggbm.at/HYyH5SrC)
+
+---
+
 ## <a id="tests"></a>provas
 em breve...
 
 ---
 
 ## <a id="monitoria"></a>monitoria
-[Escolha o horário de atendimento](https://doodle.com/poll/rxkx6hea84ux4ver)  
 Sala: ...  
-Monitor: ...  
-Horário: ...
+Monitor: Halisson Tagara  
+Horário:  
+quinta-feira das 8h às 9h  
+sexta-feira das 7h às 9h e das 13h às 14h
 
 ---
 
