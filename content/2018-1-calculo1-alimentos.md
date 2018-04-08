@@ -5,7 +5,8 @@ category: teaching
 ## <a id="exercices"></a>listas
 [Lista 01]({filename}/listas/calculo1-01.pdf)  
 [Lista 02]({filename}/listas/calculo1-02.pdf)  
-[Lista 03]({filename}/listas/calculo1-03.pdf)
+[Lista 03]({filename}/listas/calculo1-03.pdf)  
+[Lista 04]({filename}/listas/calculo1-04.pdf)
 
 ---
 
@@ -20,11 +21,11 @@ em breve...
 ---
 
 ## <a id="monitoria"></a>monitoria
-Sala: ...  
 Monitor: Halisson Tagara  
 Horário:  
 quinta-feira das 8h às 9h  
-sexta-feira das 7h às 9h e das 13h às 14h
+sexta-feira das 7h às 9h e das 13h às 14h  
+Sala: 101, bloco D  
 
 ---
 
