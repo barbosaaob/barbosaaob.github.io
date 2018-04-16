@@ -10,19 +10,20 @@ Data  | Atividade
 _30/03_ | _Feriado_
 06/04 | Cap. 2: Números Naturais
 13/04 | Cap. 3: Números Cardinais
+14/04 | Cap. 4: Números Reais (reposição)
 _20/04_ | _Feriado_
 27/04 | Cap. 4: Números Reais
-04/05 | Cap. 4: Números Reais
+04/05 | Cap. 5: Função Afim
 **11/05** | **Avaliação 1**
-18/05 | Cap. 5: Função Afim
-25/05 | Cap. 6: Função Quadrática
+18/05 | Cap. 6: Função Quadrática
+25/05 | Cap. 7: Funções Polinomiais
 _01/06_ | _Feriado_
-08/06 | Cap. 7: Funções Polinomiais
+08/06 | Cap. 8: Função Exponencial
 15/06 | Cap. 8: Função Exponencial
-22/06 | Cap. 8: Função Exponencial
+22/06 | Cap. 9: Funções Trigonométricas
 29/06 | Cap. 9: Funções Trigonométricas
 **06/07** | **Avaliação 2**
-13/07 | Cap. 9: Funções Trigonométricas
+13/07 | 
 **20/07** | **Exame Final**
 
 ---
