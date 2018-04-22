@@ -7,7 +7,8 @@ category: teaching
 [Lista 02]({filename}/listas/calculo1-02.pdf)  
 [Lista 03]({filename}/listas/calculo1-03.pdf)  
 [Lista 04]({filename}/listas/calculo1-04.pdf)  
-[Lista 05]({filename}/listas/calculo1-05.pdf)
+[Lista 05]({filename}/listas/calculo1-05.pdf)  
+[Lista 06]({filename}/listas/calculo1-06.pdf)
 
 ---
 
