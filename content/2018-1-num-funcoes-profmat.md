@@ -28,6 +28,19 @@ _01/06_ | _Feriado_
 
 ---
 
+## material complementar
+[Parábola](https://ggbm.at/aWtCtaN4)  
+[Gráfico da função quadrática](https://ggbm.at/jYAXAqt6)  
+[Reflexão na parábola](https://ggbm.at/xBaG5dVR)
+
+
+---
+
+## provas
+[Avaliação AV1]({filename}/provas/2018-1-num-funcoes-profmat-av1.pdf)
+
+---
+
 ## exercícios
 1. [Provas nacionais](http://www.profmat-sbm.org.br/provas-nacionais/)  
 2. [Exames de qualificação](http://www.profmat-sbm.org.br/exame-nacional-de-qualificacao/)
