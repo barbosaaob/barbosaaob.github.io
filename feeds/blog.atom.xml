@@ -91,8 +91,4 @@ mount -o rw,nodev,nosuid,softdep 789xyz.a /home  # mount partition
 
 
 &lt;p&gt;And we are done! Your system is ready to boot with the /home partition enctypted and ready to mount at boot.&lt;/p&gt;
-&lt;p&gt;Last note: /home partition is completelly empty, so if you have any user other than root on your system, you need to create each user directory and set the right permitions.&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>teste math</title><link href="http://barbosaaob.github.io/blog/teste2.html" rel="alternate"></link><published>2018-05-29T09:32:46-04:00</published><updated>2018-05-29T09:32:46-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-05-29:/blog/teste2.html</id><summary type="html">&lt;h1&gt;teste math&lt;/h1&gt;
-&lt;p&gt;lalalalala&lt;/p&gt;</summary><content type="html">&lt;h1&gt;teste math&lt;/h1&gt;
-&lt;p&gt;lalalalala&lt;/p&gt;</content><category term="math"></category></entry><entry><title>teste</title><link href="http://barbosaaob.github.io/blog/teste.html" rel="alternate"></link><published>2018-05-29T09:32:10-04:00</published><updated>2018-05-29T09:32:10-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-05-29:/blog/teste.html</id><summary type="html">&lt;h1&gt;teste&lt;/h1&gt;
-&lt;p&gt;lalalalala&lt;/p&gt;</summary><content type="html">&lt;h1&gt;teste&lt;/h1&gt;
-&lt;p&gt;lalalalala&lt;/p&gt;</content><category term="comp"></category></entry></feed>
+&lt;p&gt;Last note: /home partition is completelly empty, so if you have any user other than root on your system, you need to create each user directory and set the right permitions.&lt;/p&gt;</content><category term="comp"></category></entry></feed>
