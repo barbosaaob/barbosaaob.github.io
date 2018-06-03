@@ -1,0 +1,14 @@
+{% extends "base_en.html" %}
+
+{% block content %}
+<section id="{{ tag }}">
+	<h2>{{ tag }}</h2>
+	{% for article in articles %}
+		<div class="row">
+			<article class="work-item">
+				<h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+			</article>
+		</div>
+	{% endfor %}
+</section>
+{% endblock %}

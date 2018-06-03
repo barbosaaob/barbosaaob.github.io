@@ -5,12 +5,14 @@
 	<h2>{{ category }}</h2>
 	{% for article in articles | sort(attribute="date", reverse=True) %}
 		{% for tag in article.tags %}
-			<div class="row">
-			<p>{{ tag }}</p>
+		<div class="row">
 			<article class="work-item">
-			<h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+				<h3><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></h3>
 			</article>
-			</div>
+			<article class="work-item">
+				<h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+			</article>
+		</div>
 		{% endfor %}
 	{% endfor %}
 </section>

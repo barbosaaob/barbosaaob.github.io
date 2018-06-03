@@ -27,19 +27,21 @@
 {% for category, articles in categories %}
 <section id="{{ category.name }}">
 	<h2>{{ category.name }}</h2>
-		{% for article in articles %}
-			{% if loop.index <= ARTICLES_ON_INDEX %}
-				{% for tag in article.tags %}
-					<div class="row">
-					<p>{{ tag }}</p>
-					<article class="work-item">
+	{% for article in articles %}
+		{% if loop.index <= ARTICLES_ON_INDEX %}
+			{% for tag in article.tags %}
+			<div class="row">
+				<article class="work-item">
+					<h3><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a></h3>
+				</article>
+				<article class="work-item">
 					<h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
-					</article>
-					</div>
-				{% endfor %}
-			{% endif %}
-		{% endfor %}
-		<a href="{{ category.url }}">more...</a>
+				</article>
+			</div>
+			{% endfor %}
+		{% endif %}
+	{% endfor %}
+	<a href="{{ category.url }}">more...</a>
 </section>
 {% endfor %}
 {% endblock %}

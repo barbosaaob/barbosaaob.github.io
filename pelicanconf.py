@@ -23,12 +23,12 @@ STATIC_PATHS = ['images', 'papers', 'listas', 'aulas', 'arquivos', 'provas',
 SLUGIFY_SOURCE = 'basename'
 ARTICLE_SAVE_AS = '{category}/{slug}.html'
 ARTICLE_URL = '{category}/{slug}.html'
+TAGS_SAVE_AS = '{tag}/{slug}.html'
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['render_math']
 
 AUTHOR_SAVE_AS = ''
-TAG_SAVE_AS = ''
 ARCHIVE_SAVE_AS = ''
 DIRECT_TEMPLATES = ['index']
 
