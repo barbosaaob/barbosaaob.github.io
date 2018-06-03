@@ -1,5 +1,6 @@
 title: encrypt partition in OpenBSD
 tags: comp
+status: draft
 
 This post is meant to guide througt encrypt a specific partition in OpenBSD. We will encrypt /home partition:
 
