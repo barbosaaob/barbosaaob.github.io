@@ -2,9 +2,9 @@ title: Compile Nextcloud client on OpenBSD 6.3
 category: blog
 tags: comp
 
-Installing dependencies:
+Installing dependencies (other dependencies are dependencies of those packages):
 
-    # pkg_add qtwebkit-5 qtkeychain-qt5 cmake libinotify
+    # pkg_add qtwebkit qtkeychain-qt5 cmake libinotify
 
 Clone Nextcloud client repository:
 
