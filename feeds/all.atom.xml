@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-06-06T16:21:08-04:00</updated><entry><title>Compile Nextcloud client on OpenBSD 6.3</title><link href="http://barbosaaob.github.io/blog/compile-nextcloud-client.html" rel="alternate"></link><published>2018-06-06T16:21:08-04:00</published><updated>2018-06-06T16:21:08-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-06-06:/blog/compile-nextcloud-client.html</id><summary type="html">&lt;p&gt;Installing dependencies:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# pkg_add qtwebkit-5 qtkeychain-qt5 cmake libinotify
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-06-06T17:53:55-04:00</updated><entry><title>Compile Nextcloud client on OpenBSD 6.3</title><link href="http://barbosaaob.github.io/blog/compile-nextcloud-client.html" rel="alternate"></link><published>2018-06-06T17:53:55-04:00</published><updated>2018-06-06T17:53:55-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-06-06:/blog/compile-nextcloud-client.html</id><summary type="html">&lt;p&gt;Installing dependencies (other dependencies are dependencies of those packages):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# pkg_add qtwebkit qtkeychain-qt5 cmake libinotify
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -16,9 +16,8 @@ $ git clone https://github.com/nextcloud/client_theming.git nextcloud-client
 $ git submodule update --init --recursive
 $ mkdir build
 $ &lt;span class="nb"&gt;cd&lt;/span&gt; build
-$ cmake -DOEM_THEME_DIR&lt;span class="o"&gt;=&lt;/span&gt;/home/&lt;span class="nv"&gt;$USER&lt;/span&gt;/src/nextcloud-client/nextcloudtheme &lt;span class="se"&gt;\&lt;/span&gt;
-    -DCMAKE_PREFIX_PATH&lt;span class="o"&gt;=&lt;/span&gt;/usr/local/lib/qt5/cmake …&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Installing dependencies:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# pkg_add qtwebkit-5 qtkeychain-qt5 cmake libinotify
+$ cmake -DOEM_THEME_DIR&lt;span class="o"&gt;=&lt;/span&gt;/home/&lt;span class="nv"&gt;$USER&lt;/span&gt;/src/nextcloud-client …&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Installing dependencies (other dependencies are dependencies of those packages):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# pkg_add qtwebkit qtkeychain-qt5 cmake libinotify
 &lt;/pre&gt;&lt;/div&gt;
 
 
