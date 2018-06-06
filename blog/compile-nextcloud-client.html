@@ -6,7 +6,7 @@
 -->
 <html lang="en">
 	<head>
-		<title>Prof. Adriano Barbosa</title>
+		<title>Compile Nextcloud client on OpenBSD 6.3 - Prof. Adriano Barbosa</title>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/ico" href="http://barbosaaob.github.io/images/favico.ico">
 		<link rel="alternate" type="application/rss+xml" href="http://barbosaaob.github.io/feeds/all.atom.xml" title="Prof. Adriano Barbosa">
@@ -29,27 +29,50 @@
 
 		<!-- Main -->
 		<div id="main">
-			<!-- Menu -->
-			<section id="menu">
-				<ul class="actions">
-					<li><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4261539J3" target="_blank" class="button">lattes cv</a></li>
-						<li><a href="http://barbosaaob.github.io/category/blog.html" class="button scrolly">blog</a></li>
-						<li><a href="http://barbosaaob.github.io/category/publications.html" class="button scrolly">publications</a></li>
-						<li><a href="http://barbosaaob.github.io/category/teaching.html" class="button scrolly">teaching</a></li>
-					<!-- <li><a href="http://barbosaaob.github.io/blog" class="button scrolly">blog</a></li> -->
-				</ul>
-			</section>
 
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> Compile Nextcloud client on OpenBSD 6.3</h2>
+	<p>comp</p>
 <section id="blog">
-	<h2>blog</h2>
-		<div class="row">
-			<article class="work-item">
-				<h3><a href="http://barbosaaob.github.io/tag/comp.html">comp</a></h3>
-			</article>
-			<article class="work-item">
-				<h3><a href="http://barbosaaob.github.io/blog/compile-nextcloud-client.html">Compile Nextcloud client on OpenBSD 6.3</a></h3>
-			</article>
-		</div>
+	<p>Installing dependencies:</p>
+<div class="highlight"><pre><span></span># pkg_add qtwebkit-5 qtkeychain-qt5 cmake libinotify
+</pre></div>
+
+
+<p>Clone Nextcloud client repository:</p>
+<div class="highlight"><pre><span></span>$ mkdir -p ~/src
+$ <span class="nb">cd</span> ~/src
+$ git clone https://github.com/nextcloud/client_theming.git nextcloud-client
+</pre></div>
+
+
+<p>Compiling:</p>
+<div class="highlight"><pre><span></span>$ <span class="nb">cd</span> nextcloud-client
+$ git submodule update --init --recursive
+$ mkdir build
+$ <span class="nb">cd</span> build
+$ cmake -DOEM_THEME_DIR<span class="o">=</span>/home/<span class="nv">$USER</span>/src/nextcloud-client/nextcloudtheme <span class="se">\</span>
+    -DCMAKE_PREFIX_PATH<span class="o">=</span>/usr/local/lib/qt5/cmake <span class="se">\</span>
+    -DCMAKE_C_FLAGS<span class="o">=</span><span class="s2">&quot;-I/usr/local/include -I/usr/local/include/inotify&quot;</span> <span class="se">\</span>
+    -DCMAKE_CXX_FLAGS<span class="o">=</span><span class="s2">&quot;-I/usr/local/include -I/usr/local/include/inotify&quot;</span> <span class="se">\</span>
+    -DCMAKE_EXE_LINKER_FLAGS<span class="o">=</span><span class="s2">&quot;-L/usr/local/lib -L/usr/local/lib/inotify -Wl,-rpath=/usr/local/lib/inotify -linotify&quot;</span> <span class="se">\</span>
+    -DHAVE_ICONV<span class="o">=</span><span class="m">1</span> -DHAVE_ICONV_H<span class="o">=</span><span class="m">1</span> <span class="se">\</span>
+    -DCMAKE_DISABLE_FIND_PACKAGE_KF5<span class="o">=</span>TRUE <span class="se">\</span>
+    -DCMAKE_DISABLE_FIND_PACKAGE_Qt5LinguistTools<span class="o">=</span>TRUE <span class="se">\</span>
+    /home/<span class="nv">$USER</span>/src/nextcloud-client/client
+$ make
+$ doas make install
+</pre></div>
+
+
+<p>everything should be fine! ;-)</p>
+<h2>Running the client</h2>
+<p>Depending on the number of files you sync, you may need to increase the open files limit:</p>
+<div class="highlight"><pre><span></span>$ <span class="nb">ulimit</span> -n <span class="m">4096</span>
+$ nextcloud
+</pre></div>
+
+
+<p>Increase the <code>ulimit</code> as your necessity.</p>
 </section>
 
 			<!-- Contact -->

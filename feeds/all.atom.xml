@@ -1,7 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-06-04T14:51:57-04:00</updated><entry><title>test</title><link href="http://barbosaaob.github.io/blog/test.html" rel="alternate"></link><published>2018-06-04T14:51:57-04:00</published><updated>2018-06-04T14:51:57-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-06-04:/blog/test.html</id><summary type="html">&lt;h1&gt;test&lt;/h1&gt;
-&lt;p&gt;...&lt;/p&gt;</summary><content type="html">&lt;h1&gt;test&lt;/h1&gt;
-&lt;p&gt;...&lt;/p&gt;</content><category term="cat"></category></entry><entry><title>números e funções - profmat</title><link href="http://barbosaaob.github.io/teaching/2018-1-num-funcoes-profmat.html" rel="alternate"></link><published>2018-03-17T09:13:00-04:00</published><updated>2018-03-17T09:13:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-03-17:/teaching/2018-1-num-funcoes-profmat.html</id><summary type="html">&lt;h2&gt;&lt;a id="schedule"&gt;&lt;/a&gt;calendário&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-06-06T16:21:08-04:00</updated><entry><title>Compile Nextcloud client on OpenBSD 6.3</title><link href="http://barbosaaob.github.io/blog/compile-nextcloud-client.html" rel="alternate"></link><published>2018-06-06T16:21:08-04:00</published><updated>2018-06-06T16:21:08-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-06-06:/blog/compile-nextcloud-client.html</id><summary type="html">&lt;p&gt;Installing dependencies:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# pkg_add qtwebkit-5 qtkeychain-qt5 cmake libinotify
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Clone Nextcloud client repository:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ mkdir -p ~/src
+$ &lt;span class="nb"&gt;cd&lt;/span&gt; ~/src
+$ git clone https://github.com/nextcloud/client_theming.git nextcloud-client
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Compiling:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ &lt;span class="nb"&gt;cd&lt;/span&gt; nextcloud-client
+$ git submodule update --init --recursive
+$ mkdir build
+$ &lt;span class="nb"&gt;cd&lt;/span&gt; build
+$ cmake -DOEM_THEME_DIR&lt;span class="o"&gt;=&lt;/span&gt;/home/&lt;span class="nv"&gt;$USER&lt;/span&gt;/src/nextcloud-client/nextcloudtheme &lt;span class="se"&gt;\&lt;/span&gt;
+    -DCMAKE_PREFIX_PATH&lt;span class="o"&gt;=&lt;/span&gt;/usr/local/lib/qt5/cmake …&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Installing dependencies:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# pkg_add qtwebkit-5 qtkeychain-qt5 cmake libinotify
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Clone Nextcloud client repository:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ mkdir -p ~/src
+$ &lt;span class="nb"&gt;cd&lt;/span&gt; ~/src
+$ git clone https://github.com/nextcloud/client_theming.git nextcloud-client
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Compiling:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ &lt;span class="nb"&gt;cd&lt;/span&gt; nextcloud-client
+$ git submodule update --init --recursive
+$ mkdir build
+$ &lt;span class="nb"&gt;cd&lt;/span&gt; build
+$ cmake -DOEM_THEME_DIR&lt;span class="o"&gt;=&lt;/span&gt;/home/&lt;span class="nv"&gt;$USER&lt;/span&gt;/src/nextcloud-client/nextcloudtheme &lt;span class="se"&gt;\&lt;/span&gt;
+    -DCMAKE_PREFIX_PATH&lt;span class="o"&gt;=&lt;/span&gt;/usr/local/lib/qt5/cmake &lt;span class="se"&gt;\&lt;/span&gt;
+    -DCMAKE_C_FLAGS&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;-I/usr/local/include -I/usr/local/include/inotify&amp;quot;&lt;/span&gt; &lt;span class="se"&gt;\&lt;/span&gt;
+    -DCMAKE_CXX_FLAGS&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;-I/usr/local/include -I/usr/local/include/inotify&amp;quot;&lt;/span&gt; &lt;span class="se"&gt;\&lt;/span&gt;
+    -DCMAKE_EXE_LINKER_FLAGS&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;-L/usr/local/lib -L/usr/local/lib/inotify -Wl,-rpath=/usr/local/lib/inotify -linotify&amp;quot;&lt;/span&gt; &lt;span class="se"&gt;\&lt;/span&gt;
+    -DHAVE_ICONV&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt; -DHAVE_ICONV_H&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt; &lt;span class="se"&gt;\&lt;/span&gt;
+    -DCMAKE_DISABLE_FIND_PACKAGE_KF5&lt;span class="o"&gt;=&lt;/span&gt;TRUE &lt;span class="se"&gt;\&lt;/span&gt;
+    -DCMAKE_DISABLE_FIND_PACKAGE_Qt5LinguistTools&lt;span class="o"&gt;=&lt;/span&gt;TRUE &lt;span class="se"&gt;\&lt;/span&gt;
+    /home/&lt;span class="nv"&gt;$USER&lt;/span&gt;/src/nextcloud-client/client
+$ make
+$ doas make install
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;everything should be fine! ;-)&lt;/p&gt;
+&lt;h2&gt;Running the client&lt;/h2&gt;
+&lt;p&gt;Depending on the number of files you sync, you may need to increase the open files limit:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ &lt;span class="nb"&gt;ulimit&lt;/span&gt; -n &lt;span class="m"&gt;4096&lt;/span&gt;
+$ nextcloud
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Increase the &lt;code&gt;ulimit&lt;/code&gt; as your necessity.&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>números e funções - profmat</title><link href="http://barbosaaob.github.io/teaching/2018-1-num-funcoes-profmat.html" rel="alternate"></link><published>2018-03-17T09:13:00-04:00</published><updated>2018-03-17T09:13:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-03-17:/teaching/2018-1-num-funcoes-profmat.html</id><summary type="html">&lt;h2&gt;&lt;a id="schedule"&gt;&lt;/a&gt;calendário&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
