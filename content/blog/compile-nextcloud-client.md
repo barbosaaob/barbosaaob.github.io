@@ -1,6 +1,8 @@
 title: Compile Nextcloud client on OpenBSD 6.3
 category: blog
 tags: comp
+date: 2018-06-06 16:23
+modified: 2018-06-06 17:50
 
 Installing dependencies (other dependencies are dependencies of those packages):
 
