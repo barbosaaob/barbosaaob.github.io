@@ -1,5 +1,6 @@
 title: análise numérica - engenharia mecânica
 date: 2016-11-01
+modified: 2016-11-01
 category: teaching
 tags: 2016.2
 

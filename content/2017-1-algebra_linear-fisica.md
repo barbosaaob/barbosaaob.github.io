@@ -1,6 +1,7 @@
 title: álgebra linear e geometria analítica - física
 tags: 2017.1
 date: 2017-05-10
+modified: 2017-05-10
 category: teaching
 ## <a id="exercices"></a>listas
 [Lista 1]({filename}/listas/algebra-linear-01.pdf)  

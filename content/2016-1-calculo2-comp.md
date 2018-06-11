@@ -1,5 +1,6 @@
 title: cálculo 2 - engenharia de computação
 date: 2016-06-01
+modified: 2016-06-01
 category: teaching
 tags: 2016.1
 

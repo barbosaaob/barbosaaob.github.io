@@ -1,6 +1,7 @@
 title: álgebra linear e geometria analítica - eng. civil
 tags: 2017.1
 date: 2017-05-01
+modified: 2017-05-01
 category: teaching
 ## <a id="exercices"></a>listas
 [Lista 1]({filename}/listas/algebra-linear-01.pdf)  

@@ -1,5 +1,6 @@
 title: cálculo 3 - engenharia mecânica
 date: 2016-06-01
+modified: 2016-06-01
 tags: 2016.1
 category: teaching
 

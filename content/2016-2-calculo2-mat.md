@@ -1,6 +1,7 @@
 title: cálculo 2 - matemática
 tags: 2016.2
 date: 2016-11-01
+modified: 2016-11-01
 category: teaching
 
 <!-- Header -->

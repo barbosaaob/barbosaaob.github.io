@@ -1,6 +1,7 @@
 title: cálculo 2 - engenharia civil
 tags: 2017.2
 date: 2017-09-16
+modified: 2017-09-16
 category: teaching
 ## <a id="exercices"></a>listas
 [Lista 0]({filename}/listas/calculo2-00.pdf)  

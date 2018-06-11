@@ -1,5 +1,6 @@
 title: An initial study on high-dimensional data visualization through subspace clustering
 date: 2015-08-29
+modified: 2015-08-29
 category: publications
 tags: SIBGRAPI
 

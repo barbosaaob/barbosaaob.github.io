@@ -2,6 +2,7 @@ title: cálculo 3 - engenharia de energia
 category: teaching
 tags: 2016.1
 date: 2016-06-01
+modified: 2016-06-01
 
 <!-- Header -->
 <section>

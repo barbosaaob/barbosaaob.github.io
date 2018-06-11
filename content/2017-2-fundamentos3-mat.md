@@ -1,6 +1,7 @@
 title: fundamentos 3 - matemática
 tags: 2017.2
 date: 2017-09-17
+modified: 2017-09-17
 category: teaching
 ## <a id="exercices"></a>listas
 [Lista 1]({filename}/listas/fundamentos3-01.pdf)  

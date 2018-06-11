@@ -1,6 +1,7 @@
 title: álgebra linear - matemática
 tags: 2017.1
 date: 2017-05-10
+modified: 2017-05-10
 category: teaching
 
 ## <a id="grades"></a>provas

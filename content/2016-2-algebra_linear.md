@@ -1,6 +1,7 @@
 title: álgebra linear e geometria analítica - química
 tags: 2016.2
 date: 2017-02-01
+modified: 2017-02-01
 category: teaching
 
 <ul class="actions">
