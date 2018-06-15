@@ -17,14 +17,14 @@ _20/04_ | _Feriado_
 04/05 | Cap. 5: Função Afim
 **11/05** | **Avaliação 1**
 18/05 | Cap. 6: Função Quadrática
-25/05 | Cap. 7: Funções Polinomiais
+25/05 | Paralização
 _01/06_ | _Feriado_
-08/06 | Cap. 8: Função Exponencial
+08/06 | Cap. 7: Funções Polinomiais
 15/06 | Cap. 8: Função Exponencial
-22/06 | Cap. 9: Funções Trigonométricas
+22/06 | Cap. 8: Função Exponencial
 29/06 | Cap. 9: Funções Trigonométricas
 **06/07** | **Avaliação 2**
-13/07 | 
+13/07 | Cap. 9: Funções Trigonométricas
 **20/07** | **Exame Final**
 
 ---
