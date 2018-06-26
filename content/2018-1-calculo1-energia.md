@@ -32,7 +32,7 @@ category: teaching
 ## <a id="monitoria"></a>monitoria
 Monitor: Matheus Xavier  
 Horário:  
-quinta-feira das 16h às 18h, sala 255, bloco D  
+quinta-feira das 16h às 18h, sala 16, bloco B  
 sexta-feira das 14h às 16h, sala 101, bloco D
 
 ---
