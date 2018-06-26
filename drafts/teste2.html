@@ -6,7 +6,7 @@
 -->
 <html lang="en">
 	<head>
-		<title>encrypt partition in OpenBSD - Prof. Adriano Barbosa</title>
+		<title>teste math - Prof. Adriano Barbosa</title>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/ico" href="http://barbosaaob.github.io/images/favico.ico">
 		<link rel="alternate" type="application/rss+xml" href="http://barbosaaob.github.io/feeds/all.atom.xml" title="Prof. Adriano Barbosa">
@@ -30,90 +30,13 @@
 		<!-- Main -->
 		<div id="main">
 
-<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> encrypt partition in OpenBSD</h2>
-       <p>comp<br>
-    publication: June 10 2018 08:53<br>
-    last update: June 10 2018 08:53</p>
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> teste math</h2>
+       <p>math<br>
+    publication: June 10 2018 12:00<br>
+    last update: June 10 2018 12:00</p>
 <section id="blog">
-	<p>This post is meant to guide througt encrypt a specific partition in OpenBSD. We will encrypt /home partition:</p>
-<p>Umount /home partition</p>
-<div class="highlight"><pre><span></span># umount /home
-</pre></div>
-
-
-<p>Discover the name of /home partition</p>
-<div class="highlight"><pre><span></span># disklabel -E sdX
-Label editor (enter &#39;?&#39; for help at ane prompt)
-&gt; p g
-...
-</pre></div>
-
-
-<p>in my disk the /home patition is <code>m:</code>.</p>
-<p>Change /home file system type</p>
-<div class="highlight"><pre><span></span>&gt; m m
-offset: [...]
-size: [...]
-FS type: [4.2BSD] RAID
-&gt; w
-&gt; q
-</pre></div>
-
-
-<p>Write random data to avoid data recovery and protect the encrypted data</p>
-<div class="highlight"><pre><span></span># dd if=/dev/random of=/dev/rsdXm bs=1m
-</pre></div>
-
-
-<p>Now we attach <code>sdXm</code> as an crypto volume</p>
-<div class="highlight"><pre><span></span># bioctl -c C -l /dev/sdXm softraid0
-New passphrase:
-Re-type passphrase:
-softraid0: CRYPTO volume attached as sdY
-</pre></div>
-
-
-<p>Note that our crypto volume is no identifies as <code>sdY</code> from now on.</p>
-<p>Let's now zero the first megabyte of <code>sdY</code> to ...</p>
-<div class="highlight"><pre><span></span># dd if=/dev/zero of=/dev/rsdYc bs=1m count=1
-</pre></div>
-
-
-<p>Now we create a partition on <code>sdY</code></p>
-<div class="highlight"><pre><span></span># fdisk -iy sdY
-# disklabel -E sdY
-Label editor (enter &#39;?&#39; for help at ane prompt)
-&gt; a
-...
-</pre></div>
-
-
-<p>Format the partition</p>
-<div class="highlight"><pre><span></span># newfs /dev/rsdYa
-</pre></div>
-
-
-<p>Delete or comment /home entry in /etc/fstab.</p>
-<p>Get the disk uid</p>
-<div class="highlight"><pre><span></span># disklabel sdX | grep uid
-duid: 123abc
-# disklabel sdY | grep uid
-duid: 789xyz
-</pre></div>
-
-
-<p>We need to mount the crypto volume at boot. Add the following lines to start up script /etc/rc.local</p>
-<div class="highlight"><pre><span></span>for i in 1 2 3; do  # tries to mount 3 times
-    bioctl -c C -l 123abc.m softraid0 &amp;&amp; break  # attach sdXm as crypto volume
-    sleep 2  # wait 2 seconds between tries
-done
-fsck /dev/rsdYa  # check crypto volume fs for error
-mount -o rw,nodev,nosuid,softdep 789xyz.a /home  # mount partition
-</pre></div>
-
-
-<p>And we are done! Your system is ready to boot with the /home partition enctypted and ready to mount at boot.</p>
-<p>Last note: /home partition is completelly empty, so if you have any user other than root on your system, you need to create each user directory and set the right permitions.</p>
+	<h1>teste math</h1>
+<p>lalalalala</p>
 </section>
 
 			<!-- Contact -->
