@@ -1,0 +1,198 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en">
+	<head>
+		<title>Determinando o preço de venda - Prof. Adriano Barbosa</title>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/ico" href="http://barbosaaob.github.io/images/favico.ico">
+		<link rel="alternate" type="application/rss+xml" href="http://barbosaaob.github.io/feeds/all.atom.xml" title="Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="http://barbosaaob.github.io/feeds/publications.atom.xml" title="Publications - Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="http://barbosaaob.github.io/feeds/teaching.atom.xml" title="Teaching - Prof. Adriano Barbosa">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="http://barbosaaob.github.io/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="http://barbosaaob.github.io/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="http://barbosaaob.github.io/assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Header -->
+		<header id="header">
+			<a href="http://barbosaaob.github.io/" class="image avatar scrolly"><img src="http://barbosaaob.github.io/images/avatar.png" alt="" /></a>
+			<h1><strong>I am Adriano</strong>,
+				professor at <a href="http://portal.ufgd.edu.br/faculdade/facet/" target="_blank">UFGD</a>
+			</h1>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> Determinando o preço de venda</h2>
+       <p>math<br>
+    publication: July 01 2018 14:00<br>
+    last update: July 01 2018 14:00</p>
+<section id="blog">
+	<p>Suponha que um vendedor de paçoca venda seu produto a R&#36; 5,00 e que durante o
+mês de junho, durante as festas juninas, ele fez uma promoção e vendeu cada
+paçoca a R&#36; 4,00. Nesse período ele notou que vendeu 30 unidades a mais que as
+100 que costumava vender por mês.</p>
+<p>Como podemos ajudar nosso amigo vendedor a determinar o preço da paçoca de modo
+a obter a maior receita possível? Ou seja, qual deve ser o desconto ideal para
+que a receita seja máxima?</p>
+<p>Vamos assumir que essa relação entre o preço e o número de unidades vendidas se
+mantenha, ou seja, que cada R$ 1,00 de desconto resulte em 30 unidades vendidas a
+mais. Alguns números:</p>
+<table>
+<thead>
+<tr>
+<th>Preço unitário</th>
+<th>Vendas</th>
+<th>Receita do mês</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>R$ 2,00</td>
+<td>190</td>
+<td>R$ 380,00</td>
+</tr>
+<tr>
+<td>R$ 3,00</td>
+<td>160</td>
+<td>R$ 480,00</td>
+</tr>
+<tr>
+<td>R$ 4,00</td>
+<td>130</td>
+<td>R$ 520,00</td>
+</tr>
+<tr>
+<td>R$ 5,00</td>
+<td>100</td>
+<td>R$ 500,00</td>
+</tr>
+<tr>
+<td>R$ 6,00</td>
+<td>70</td>
+<td>R$ 420,00</td>
+</tr>
+<tr>
+<td>R$ 7,00</td>
+<td>40</td>
+<td>R$ 280,00</td>
+</tr>
+</tbody>
+</table>
+<p>A tabela indica que são vendidas <span class="math">\(100+30x\)</span> unidades sempre que reduzimos <span class="math">\(x\)</span> reais
+no preço unitário. Dessa forma, se o preço unitário for <span class="math">\(5-x\)</span>, serão vendidos
+<span class="math">\(100+30x\)</span> unidades e a receita será de <span class="math">\((100+30x)(5-x)\)</span>.</p>
+<p>Como</p>
+<div class="math">$$(100+30x)(5-x) = 500-100x+150x-30x^2 = 500+50x-30x^2$$</div>
+<p>a função quadrática <span class="math">\(R(x) = 500+50x-30x^2\)</span> nos dá a receita obtiva a cada <span class="math">\(x\)</span>
+reais de desconto no preço inicial de R$ 5,00.</p>
+<p>Para resolver nosso problema, basta determinar o maior valor possível para essa
+função. Observe que:</p>
+<div class="math">$$R(x) = 500+50x-30x^2 = -30\left(x-\frac{5}{6}\right)^2 + \frac{3125}{6}$$</div>
+<p>Mas <span class="math">\(\left(x-\frac{5}{6}\right)^2 \ge 0 \Rightarrow -30\left(x-\frac{5}{6}\right)^2 \le 0\)</span> qualquer que
+seja o número real <span class="math">\(x\)</span>. Logo, o maior valor alcançado por <span class="math">\(R(x)\)</span> é
+<span class="math">\(\frac{3125}{6} \approx 520,83\)</span>, obtido quando <span class="math">\(\left(x-\frac{5}{6}\right)^2=0 \Rightarrow
+x=\frac{5}{6} \approx 0,83\)</span>.</p>
+<p>Portanto, ao dar um desconto de R&#36; 0,83, ou seja, ao vender o produto a
+R&#36; 4,17, nosso amigo vendedor obterá a maior receita possível ao vender
+suas paçocas.</p>
+<script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width < 768) ? "left" : align;
+        indent = (screen.width < 768) ? "0em" : indent;
+        linebreak = (screen.width < 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' && location_protocol !== 'https') location_protocol = 'https:';
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+</script>
+</section>
+
+			<!-- Contact -->
+			<section id="contact">
+				<h2>get in touch</h2>
+				<ul class="labeled-icons">
+					<li><h3 class="icon fa-envelope-o"><span class="label">Email</span></h3><a href="mailto:adrianobarbosa@ufgd.edu.br">adrianobarbosa@ufgd.edu.br</a></li>
+				</ul>
+			</section>
+		</div>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="icons">
+					<li><a href="/feeds/all.atom.xml" target="_blank" class="icon fa-feed"><span class="label">feed</span></a></li>
+					<li><a href="http://github.com/barbosaaob" target="_blank" class="icon fa-github"><span class="label">github</span></a></li>
+					<li><a href="mailto:adrianobarbosa@ufgd.edu.br" target="_blank" class="icon fa-email"><span class="label">email</span></a></li>
+			</ul>
+			<ul class="copyright">
+				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li>Background: <a href="http://unsplash.com" target="_blank">Unsplash</a></li>
+				<li>Generated with <a href="http://blog.getpelican.com/" target="_blank">Pelican</a></li>
+			</ul>
+		</footer>
+
+		<!-- Scripts -->
+		<script src="http://barbosaaob.github.io/assets/js/jquery.min.js"></script>
+		<script src="http://barbosaaob.github.io/assets/js/jquery.poptrox.min.js"></script>
+		<script src="http://barbosaaob.github.io/assets/js/jquery.scrolly.min.js"></script>
+		<script src="http://barbosaaob.github.io/assets/js/arrow.js"></script>
+		<script src="http://barbosaaob.github.io/assets/js/skel.min.js"></script>
+		<script src="http://barbosaaob.github.io/assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="http://barbosaaob.github.io/assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="http://barbosaaob.github.io/assets/js/main.js"></script>
+	</body>
+</html>
