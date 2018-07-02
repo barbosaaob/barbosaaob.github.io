@@ -3,6 +3,10 @@ tags: 2018.1
 date: 2018-03-17 09:13
 modified: 2018-03-17 09:13
 category: teaching
+
+<h1 style="color: red;">ATENÇÃO: a AV2 <strong>não</strong> poderá ser feita no
+sábado! Vejam a mensagem enviada por e-mail.</h1>
+
 ## <a id="schedule"></a>calendário
 Data  | Atividade
 ------|----------
