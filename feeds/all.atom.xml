@@ -1,5 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-06-26T14:50:00-04:00</updated><entry><title>Acesso a biblioteca virtual UFGD</title><link href="http://barbosaaob.github.io/blog/biblioteca-virtual-ufgd.html" rel="alternate"></link><published>2018-06-26T14:50:00-04:00</published><updated>2018-06-26T14:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-06-26:/blog/biblioteca-virtual-ufgd.html</id><summary type="html">&lt;p&gt;Você sabia que a UFGD dispobiliza diversos livros através de uma biblioteca virtual?&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-07-06T08:50:00-04:00</updated><entry><title>Determinando o preço de um produto</title><link href="http://barbosaaob.github.io/blog/determinando-o-preco-de-venda.html" rel="alternate"></link><published>2018-07-06T08:50:00-04:00</published><updated>2018-07-06T08:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-06:/blog/determinando-o-preco-de-venda.html</id><summary type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
+mês de junho, durante as festas juninas, ele fez uma promoção e vendeu cada
+paçoca a R&amp;#36; 4,00. Nesse período ele notou que vendeu 30 unidades a mais que as
+100 que costumava …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
+mês de junho, durante as festas juninas, ele fez uma promoção e vendeu cada
+paçoca a R&amp;#36; 4,00. Nesse período ele notou que vendeu 30 unidades a mais que as
+100 que costumava vender por mês.&lt;/p&gt;
+&lt;p&gt;Como podemos ajudar nosso amigo vendedor a determinar o preço da paçoca de modo
+a obter o maior faturamento possível? De outro modo, qual deve ser o desconto ideal para
+que a faturamento do vendedor seja máximo?&lt;/p&gt;
+&lt;p&gt;Vamos assumir que a relação entre o preço e o número de unidades vendidas se
+mantenha, ou seja, que cada R&amp;#36; 1,00 de desconto resulte em 30 unidades vendidas a
+mais. Vejamos alguns números:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Preço unitário&lt;/th&gt;
+&lt;th&gt;Vendas&lt;/th&gt;
+&lt;th&gt;Faturamento do mês&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;R$ 2,00&lt;/td&gt;
+&lt;td&gt;190&lt;/td&gt;
+&lt;td&gt;R$ 380,00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;R$ 3,00&lt;/td&gt;
+&lt;td&gt;160&lt;/td&gt;
+&lt;td&gt;R$ 480,00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;R$ 4,00&lt;/td&gt;
+&lt;td&gt;130&lt;/td&gt;
+&lt;td&gt;R$ 520,00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;R$ 5,00&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;100&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;R$ 500,00&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;R$ 6,00&lt;/td&gt;
+&lt;td&gt;70&lt;/td&gt;
+&lt;td&gt;R$ 420,00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;R$ 7,00&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;R$ 280,00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Observe que são vendidas &lt;span class="math"&gt;\(100+30x\)&lt;/span&gt; unidades sempre que reduzimos &lt;span class="math"&gt;\(x\)&lt;/span&gt; reais
+no preço unitário da paçoca. Dessa forma, se o preço unitário for &lt;span class="math"&gt;\(5-x\)&lt;/span&gt;, serão vendidos
+&lt;span class="math"&gt;\(100+30x\)&lt;/span&gt; unidades e o faturamento será de &lt;span class="math"&gt;\((100+30x)(5-x)\)&lt;/span&gt; reais.&lt;/p&gt;
+&lt;p&gt;Como&lt;/p&gt;
+&lt;div class="math"&gt;$$(100+30x)(5-x) = 500-100x+150x-30x^2 = 500+50x-30x^2$$&lt;/div&gt;
+&lt;p&gt;a função quadrática &lt;span class="math"&gt;\(F(x) = 500+50x-30x^2\)&lt;/span&gt; nos dá o faturamento obtido a cada &lt;span class="math"&gt;\(x\)&lt;/span&gt;
+reais de desconto no preço inicial de R$ 5,00.&lt;/p&gt;
+&lt;p&gt;Para resolver nosso problema, basta descobrir para qual valor de &lt;span class="math"&gt;\(x\)&lt;/span&gt; (desconto
+ideal) a função &lt;span class="math"&gt;\(F\)&lt;/span&gt; atinge seu valor máximo (maior faturamento possível).
+Completanto o quadrado:&lt;/p&gt;
+&lt;div class="math"&gt;$$F(x) = 500+50x-30x^2 = -30\left(x-\frac{5}{6}\right)^2 + \frac{3125}{6}$$&lt;/div&gt;
+&lt;p&gt;Mas, &lt;span class="math"&gt;\(\left(x-\frac{5}{6}\right)^2 \ge 0\)&lt;/span&gt;, pois o quadrado de qualquer número real é sempre &lt;span class="math"&gt;\(\ge 0\)&lt;/span&gt;.
+Assim, &lt;span class="math"&gt;\(-30\left(x-\frac{5}{6}\right)^2 \le 0\)&lt;/span&gt; qualquer que seja o número real
+&lt;span class="math"&gt;\(x\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Logo, o maior valor alcançado por &lt;span class="math"&gt;\(F\)&lt;/span&gt; é
+&lt;span class="math"&gt;\(\frac{3125}{6} \approx 520,83\)&lt;/span&gt; e é obtido quando &lt;span class="math"&gt;\(-30\left(x-\frac{5}{6}\right)^2=0 \Rightarrow
+x=\frac{5}{6} \approx 0,83\)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Portanto, ao dar um desconto de R&amp;#36; 0,83, ou seja, ao vender suas paçocas a
+R&amp;#36; 4,17, nosso amigo vendedor obterá o maior faturamento possível ao final do mês.&lt;/p&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    var location_protocol = (false) ? 'https' : document.location.protocol;
+    if (location_protocol !== 'http' &amp;&amp; location_protocol !== 'https') location_protocol = 'https:';
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = location_protocol + '//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'AMS' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="math"></category></entry><entry><title>Acesso a biblioteca virtual UFGD</title><link href="http://barbosaaob.github.io/blog/biblioteca-virtual-ufgd.html" rel="alternate"></link><published>2018-06-26T14:50:00-04:00</published><updated>2018-06-26T14:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-06-26:/blog/biblioteca-virtual-ufgd.html</id><summary type="html">&lt;p&gt;Você sabia que a UFGD dispobiliza diversos livros através de uma biblioteca virtual?&lt;/p&gt;
 &lt;p&gt;Basta acessar o &lt;a href="https://biblioteca.ufgd.edu.br/"&gt;site da biblioteca&lt;/a&gt;, efetuar login com seu usuário e senha e acessar o menu "Bases" e em seguida "Minha Biblioteca".&lt;/p&gt;
 &lt;p&gt;&lt;image alt="Menu de acesso a biblioteca virtual" src="http://barbosaaob.github.io/images/blog/biblioteca-virtual-ufgd-1.png" class="image fit thumb"&gt;&lt;/p&gt;
 &lt;p&gt;Após aceitar os termos de uso do serviço (leia os termos para ter ciência …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Você sabia que a UFGD dispobiliza diversos livros através de uma biblioteca virtual?&lt;/p&gt;

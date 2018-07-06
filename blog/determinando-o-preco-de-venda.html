@@ -6,7 +6,7 @@
 -->
 <html lang="en">
 	<head>
-		<title>Determinando o preço de venda - Prof. Adriano Barbosa</title>
+		<title>Determinando o preço de um produto - Prof. Adriano Barbosa</title>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/ico" href="http://barbosaaob.github.io/images/favico.ico">
 		<link rel="alternate" type="application/rss+xml" href="http://barbosaaob.github.io/feeds/all.atom.xml" title="Prof. Adriano Barbosa">
@@ -30,27 +30,27 @@
 		<!-- Main -->
 		<div id="main">
 
-<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> Determinando o preço de venda</h2>
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> Determinando o preço de um produto</h2>
        <p>math<br>
-    publication: julho 01 2018 14:00<br>
-    last update: julho 01 2018 14:00</p>
+    publication: julho 06 2018 08:50<br>
+    last update: julho 06 2018 08:50</p>
 <section id="blog">
-	<p>Suponha que um vendedor de paçoca venda seu produto a R&#36; 5,00 e que durante o
+	<p>Suponha que um vendedor de paçoca venda seu produto a R&#36; 5,00 e que no
 mês de junho, durante as festas juninas, ele fez uma promoção e vendeu cada
 paçoca a R&#36; 4,00. Nesse período ele notou que vendeu 30 unidades a mais que as
 100 que costumava vender por mês.</p>
 <p>Como podemos ajudar nosso amigo vendedor a determinar o preço da paçoca de modo
-a obter a maior receita possível? Ou seja, qual deve ser o desconto ideal para
-que a receita seja máxima?</p>
-<p>Vamos assumir que essa relação entre o preço e o número de unidades vendidas se
-mantenha, ou seja, que cada R$ 1,00 de desconto resulte em 30 unidades vendidas a
-mais. Alguns números:</p>
+a obter o maior faturamento possível? De outro modo, qual deve ser o desconto ideal para
+que a faturamento do vendedor seja máximo?</p>
+<p>Vamos assumir que a relação entre o preço e o número de unidades vendidas se
+mantenha, ou seja, que cada R&#36; 1,00 de desconto resulte em 30 unidades vendidas a
+mais. Vejamos alguns números:</p>
 <table>
 <thead>
 <tr>
 <th>Preço unitário</th>
 <th>Vendas</th>
-<th>Receita do mês</th>
+<th>Faturamento do mês</th>
 </tr>
 </thead>
 <tbody>
@@ -70,9 +70,9 @@ mais. Alguns números:</p>
 <td>R$ 520,00</td>
 </tr>
 <tr>
-<td>R$ 5,00</td>
-<td>100</td>
-<td>R$ 500,00</td>
+<td><strong>R$ 5,00</strong></td>
+<td><strong>100</strong></td>
+<td><strong>R$ 500,00</strong></td>
 </tr>
 <tr>
 <td>R$ 6,00</td>
@@ -86,23 +86,25 @@ mais. Alguns números:</p>
 </tr>
 </tbody>
 </table>
-<p>A tabela indica que são vendidas <span class="math">\(100+30x\)</span> unidades sempre que reduzimos <span class="math">\(x\)</span> reais
-no preço unitário. Dessa forma, se o preço unitário for <span class="math">\(5-x\)</span>, serão vendidos
-<span class="math">\(100+30x\)</span> unidades e a receita será de <span class="math">\((100+30x)(5-x)\)</span>.</p>
+<p>Observe que são vendidas <span class="math">\(100+30x\)</span> unidades sempre que reduzimos <span class="math">\(x\)</span> reais
+no preço unitário da paçoca. Dessa forma, se o preço unitário for <span class="math">\(5-x\)</span>, serão vendidos
+<span class="math">\(100+30x\)</span> unidades e o faturamento será de <span class="math">\((100+30x)(5-x)\)</span> reais.</p>
 <p>Como</p>
 <div class="math">$$(100+30x)(5-x) = 500-100x+150x-30x^2 = 500+50x-30x^2$$</div>
-<p>a função quadrática <span class="math">\(R(x) = 500+50x-30x^2\)</span> nos dá a receita obtiva a cada <span class="math">\(x\)</span>
+<p>a função quadrática <span class="math">\(F(x) = 500+50x-30x^2\)</span> nos dá o faturamento obtido a cada <span class="math">\(x\)</span>
 reais de desconto no preço inicial de R$ 5,00.</p>
-<p>Para resolver nosso problema, basta determinar o maior valor possível para essa
-função. Observe que:</p>
-<div class="math">$$R(x) = 500+50x-30x^2 = -30\left(x-\frac{5}{6}\right)^2 + \frac{3125}{6}$$</div>
-<p>Mas <span class="math">\(\left(x-\frac{5}{6}\right)^2 \ge 0 \Rightarrow -30\left(x-\frac{5}{6}\right)^2 \le 0\)</span> qualquer que
-seja o número real <span class="math">\(x\)</span>. Logo, o maior valor alcançado por <span class="math">\(R(x)\)</span> é
-<span class="math">\(\frac{3125}{6} \approx 520,83\)</span>, obtido quando <span class="math">\(\left(x-\frac{5}{6}\right)^2=0 \Rightarrow
+<p>Para resolver nosso problema, basta descobrir para qual valor de <span class="math">\(x\)</span> (desconto
+ideal) a função <span class="math">\(F\)</span> atinge seu valor máximo (maior faturamento possível).
+Completanto o quadrado:</p>
+<div class="math">$$F(x) = 500+50x-30x^2 = -30\left(x-\frac{5}{6}\right)^2 + \frac{3125}{6}$$</div>
+<p>Mas, <span class="math">\(\left(x-\frac{5}{6}\right)^2 \ge 0\)</span>, pois o quadrado de qualquer número real é sempre <span class="math">\(\ge 0\)</span>.
+Assim, <span class="math">\(-30\left(x-\frac{5}{6}\right)^2 \le 0\)</span> qualquer que seja o número real
+<span class="math">\(x\)</span>.</p>
+<p>Logo, o maior valor alcançado por <span class="math">\(F\)</span> é
+<span class="math">\(\frac{3125}{6} \approx 520,83\)</span> e é obtido quando <span class="math">\(-30\left(x-\frac{5}{6}\right)^2=0 \Rightarrow
 x=\frac{5}{6} \approx 0,83\)</span>.</p>
-<p>Portanto, ao dar um desconto de R&#36; 0,83, ou seja, ao vender o produto a
-R&#36; 4,17, nosso amigo vendedor obterá a maior receita possível ao vender
-suas paçocas.</p>
+<p>Portanto, ao dar um desconto de R&#36; 0,83, ou seja, ao vender suas paçocas a
+R&#36; 4,17, nosso amigo vendedor obterá o maior faturamento possível ao final do mês.</p>
 <script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
@@ -119,7 +121,7 @@ suas paçocas.</p>
     if (location_protocol !== 'http' && location_protocol !== 'https') location_protocol = 'https:';
     mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
     mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = location_protocol + '//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
+    mathjaxscript.src = location_protocol + '//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML';
     mathjaxscript[(window.opera ? "innerHTML" : "text")] =
         "MathJax.Hub.Config({" +
         "    config: ['MMLorHTML.js']," +
