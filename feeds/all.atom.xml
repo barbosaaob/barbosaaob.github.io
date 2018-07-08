@@ -1,5 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-07-06T08:50:00-04:00</updated><entry><title>Determinando o preço de um produto</title><link href="http://barbosaaob.github.io/blog/determinando-o-preco-de-venda.html" rel="alternate"></link><published>2018-07-06T08:50:00-04:00</published><updated>2018-07-06T08:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-06:/blog/determinando-o-preco-de-venda.html</id><summary type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-07-07T20:24:00-04:00</updated><entry><title>Encrypt partition in OpenBSD 6.3</title><link href="http://barbosaaob.github.io/blog/encrypt-partition-openbsd.html" rel="alternate"></link><published>2018-07-07T20:24:00-04:00</published><updated>2018-07-07T20:24:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-07:/blog/encrypt-partition-openbsd.html</id><summary type="html">&lt;p&gt;This post is meant to guide througt encrypt a specific partition in OpenBSD
+6.3. We will encrypt &lt;code&gt;/home&lt;/code&gt; partition:&lt;/p&gt;
+&lt;p&gt;Umount &lt;code&gt;/home&lt;/code&gt; partition&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# umount /home
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Suppose your system is running on disk sdX.  Discover the identifier of &lt;code&gt;/home&lt;/code&gt;
+partition&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# disklabel -E sdX
+Label editor (enter &amp;#39;?&amp;#39; for help at ane prompt …&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;This post is meant to guide througt encrypt a specific partition in OpenBSD
+6.3. We will encrypt &lt;code&gt;/home&lt;/code&gt; partition:&lt;/p&gt;
+&lt;p&gt;Umount &lt;code&gt;/home&lt;/code&gt; partition&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# umount /home
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Suppose your system is running on disk sdX.  Discover the identifier of &lt;code&gt;/home&lt;/code&gt;
+partition&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# disklabel -E sdX
+Label editor (enter &amp;#39;?&amp;#39; for help at ane prompt)
+&amp;gt; p g
+...
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;in my disk the &lt;code&gt;/home&lt;/code&gt; patition is &lt;code&gt;m:&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Still in disklabel, change &lt;code&gt;/home&lt;/code&gt; file system type&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; m m
+offset: [...]
+size: [...]
+FS type: [4.2BSD] RAID
+&amp;gt; w
+&amp;gt; q
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Write random data to avoid data recovery and protect the encrypted data (this
+can be a very time-consuming process, depending on the speed of your CPU and
+disk, as well as the size of the disk)&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# dd if=/dev/random of=/dev/rsdXm bs=1m
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now we attach &lt;code&gt;sdXm&lt;/code&gt; as a crypto volume&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# bioctl -c C -l /dev/sdXm softraid0
+New passphrase:
+Re-type passphrase:
+softraid0: CRYPTO volume attached as sdY
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Note that our crypto volume is now identified as &lt;code&gt;sdY&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Let's now zero the first megabyte of &lt;code&gt;sdY&lt;/code&gt; to clean the master boot record and
+disklabel &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# dd if=/dev/zero of=/dev/rsdYc bs=1m count=1
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now we create a partition on &lt;code&gt;sdY&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# fdisk -iy sdY
+# disklabel -E sdY
+Label editor (enter &amp;#39;?&amp;#39; for help at ane prompt)
+&amp;gt; a
+...
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Format the partition&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# newfs /dev/rsdYa
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Delete or comment &lt;code&gt;/home&lt;/code&gt; entry in &lt;code&gt;/etc/fstab&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Get the disks uid&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# disklabel sdX | grep uid
+duid: 123abc
+# disklabel sdY | grep uid
+duid: 789xyz
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;We need to mount the crypto volume during the boot. Add the following lines to
+start up script &lt;code&gt;/etc/rc.local&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;for i in 1 2 3; do  # tries to mount 3 times
+    bioctl -c C -l 123abc.m softraid0 &amp;amp;&amp;amp; break  # attach sdXm as crypto volume
+    sleep 2  # wait 2 seconds between tries
+done
+fsck /dev/rsdYa  # check crypto volume fs for error
+mount -o rw,nodev,nosuid,softdep 789xyz.a /home  # mount partition
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And we are done! Your system is ready to boot with the &lt;code&gt;/home&lt;/code&gt; partition
+enctypted and ready to mount at boot.&lt;/p&gt;
+&lt;p&gt;Last note: &lt;code&gt;/home&lt;/code&gt; partition is completelly empty, so if you have any user other
+than root on your system, you need to create each user directory and set the
+right permitions.&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>Determinando o preço de um produto</title><link href="http://barbosaaob.github.io/blog/determinando-o-preco-de-um-produto.html" rel="alternate"></link><published>2018-07-06T08:50:00-04:00</published><updated>2018-07-06T08:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-06:/blog/determinando-o-preco-de-um-produto.html</id><summary type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
 mês de junho, durante as festas juninas, ele fez uma promoção e vendeu cada
 paçoca a R&amp;#36; 4,00. Nesse período ele notou que vendeu 30 unidades a mais que as
 100 que costumava …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
