@@ -87,3 +87,5 @@ enctypted and ready to mount at boot.
 Last note: `/home` partition is completelly empty, so if you have any user other
 than root on your system, you need to create each user directory and set the
 right permitions.
+
+Source: [http://astro-gr.org/openbsd-encrypt-home/](http://astro-gr.org/openbsd-encrypt-home/)
