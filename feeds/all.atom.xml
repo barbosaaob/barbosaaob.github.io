@@ -96,7 +96,8 @@ mount -o rw,nodev,nosuid,softdep 789xyz.a /home  # mount partition
 enctypted and ready to mount at boot.&lt;/p&gt;
 &lt;p&gt;Last note: &lt;code&gt;/home&lt;/code&gt; partition is completelly empty, so if you have any user other
 than root on your system, you need to create each user directory and set the
-right permitions.&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>Determinando o preço de um produto</title><link href="http://barbosaaob.github.io/blog/determinando-o-preco-de-um-produto.html" rel="alternate"></link><published>2018-07-06T08:50:00-04:00</published><updated>2018-07-06T08:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-06:/blog/determinando-o-preco-de-um-produto.html</id><summary type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
+right permitions.&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href="http://astro-gr.org/openbsd-encrypt-home/"&gt;http://astro-gr.org/openbsd-encrypt-home/&lt;/a&gt;&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>Determinando o preço de um produto</title><link href="http://barbosaaob.github.io/blog/determinando-o-preco-de-um-produto.html" rel="alternate"></link><published>2018-07-06T08:50:00-04:00</published><updated>2018-07-06T08:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-06:/blog/determinando-o-preco-de-um-produto.html</id><summary type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
 mês de junho, durante as festas juninas, ele fez uma promoção e vendeu cada
 paçoca a R&amp;#36; 4,00. Nesse período ele notou que vendeu 30 unidades a mais que as
 100 que costumava …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
