@@ -41,7 +41,8 @@ _01/06_ | _Feriado_
 ---
 
 ## provas
-[Avaliação AV1]({filename}/provas/2018-1-num-funcoes-profmat-av1.pdf)
+[Avaliação AV1]({filename}/provas/2018-1-num-funcoes-profmat-av1.pdf)  
+[Avaliação AV2]({filename}/provas/2018-1-num-funcoes-profmat-av2.pdf)
 
 ---
 
