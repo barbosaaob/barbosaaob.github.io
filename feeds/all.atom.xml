@@ -1,5 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-07-07T20:24:00-04:00</updated><entry><title>Encrypt partition in OpenBSD 6.3</title><link href="http://barbosaaob.github.io/blog/encrypt-partition-openbsd.html" rel="alternate"></link><published>2018-07-07T20:24:00-04:00</published><updated>2018-07-07T20:24:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-07:/blog/encrypt-partition-openbsd.html</id><summary type="html">&lt;p&gt;This post is meant to guide througt encrypt a specific partition in OpenBSD
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/all.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2018-07-14T22:53:00-04:00</updated><entry><title>OpenBSD 6.3 live USB</title><link href="http://barbosaaob.github.io/blog/openbsd-live.html" rel="alternate"></link><published>2018-07-14T22:53:00-04:00</published><updated>2018-07-14T22:53:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-14:/blog/openbsd-live.html</id><summary type="html">&lt;h2&gt;Using OpenBSD 6.3 and vmd(8)&lt;/h2&gt;
+&lt;p&gt;Create the disk image&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;vmctl create disk.img -s 4G
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Start the virtual machine booting bsd.rd kernel, &lt;code&gt;disk.img&lt;/code&gt; as disk,
+&lt;code&gt;install63.iso&lt;/code&gt; as cdrom and 512M of memory&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;vmctl start &amp;quot;live&amp;quot; -b /bsd.rd -d disk.img -r /path/to/install63 …&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;h2&gt;Using OpenBSD 6.3 and vmd(8)&lt;/h2&gt;
+&lt;p&gt;Create the disk image&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;vmctl create disk.img -s 4G
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Start the virtual machine booting bsd.rd kernel, &lt;code&gt;disk.img&lt;/code&gt; as disk,
+&lt;code&gt;install63.iso&lt;/code&gt; as cdrom and 512M of memory&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;vmctl start &amp;quot;live&amp;quot; -b /bsd.rd -d disk.img -r /path/to/install63.iso -m 512M
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Follow OpenBSD install, but when asked if you would like to change default
+console answer &lt;code&gt;no&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Change the default console to com0? [yes] no
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;and finish the installation.&lt;/p&gt;
+&lt;p&gt;Now we are ready to &lt;code&gt;dd(1)&lt;/code&gt; the disk to our USB stick &lt;code&gt;rsdX&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;dd if=disk.img of=/dev/rsdXc bs=1m
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The USB stick is ready to boot.&lt;/p&gt;
+&lt;h2&gt;Using GNU/Linux and QEMU&lt;/h2&gt;
+&lt;p&gt;Create &lt;code&gt;disk.img&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;qemu-img create disk.img 4G
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Start a virtual machine using &lt;code&gt;disk.img&lt;/code&gt; as hard drive, booting from first
+cdrom, &lt;code&gt;install63.iso&lt;/code&gt; as cdrom and 512M of memory&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;qemu-system-x86_64 -hda disk.img -boot d -cdrom /path/to/install63.iso -m 512
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Follow OpenBSD install to the end.&lt;/p&gt;
+&lt;p&gt;Now we are ready to &lt;code&gt;dd(1)&lt;/code&gt; the disk to our USB stick &lt;code&gt;sdX&lt;/code&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;dd if=disk.img of=/dev/sdX bs=1M
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The USB stick is now ready to boot.&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>Encrypt partition in OpenBSD 6.3</title><link href="http://barbosaaob.github.io/blog/encrypt-partition-openbsd.html" rel="alternate"></link><published>2018-07-07T20:24:00-04:00</published><updated>2018-07-07T20:24:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-07:/blog/encrypt-partition-openbsd.html</id><summary type="html">&lt;p&gt;This post is meant to guide througt encrypt a specific partition in OpenBSD
 6.3. We will encrypt &lt;code&gt;/home&lt;/code&gt; partition:&lt;/p&gt;
 &lt;p&gt;Umount &lt;code&gt;/home&lt;/code&gt; partition&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# umount /home
