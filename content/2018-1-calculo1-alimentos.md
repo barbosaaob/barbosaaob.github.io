@@ -64,7 +64,7 @@ Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
 aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
 mínimo, 75%.  
 **Data:  
-Exame - <strike>24/07/2018</strike> 02/08/2018**
+Exame - <strike>24/07/2018</strike> <strike>02/08/2018</strike> 01/08/2018**
 
 ---
 
