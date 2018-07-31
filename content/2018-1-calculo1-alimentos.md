@@ -3,6 +3,9 @@ tags: 2018.1
 date: 2018-03-17 08:53
 modified: 2018-03-17 08:53
 category: teaching
+
+<h2 style="color:red;">O exame será aplicado na sala 202 do bloco B.</h2>
+
 ## <a id="exercices"></a>listas
 [Lista 01]({filename}/listas/calculo1-01.pdf)  
 [Lista 02]({filename}/listas/calculo1-02.pdf)  
