@@ -45,6 +45,12 @@ AUTHOR_FEED_RSS = None
 SOCIAL = (('feed', SITEURL + '/feeds/all.atom.xml'),
           ('github', 'http://github.com/barbosaaob'),
           ('email', 'mailto:' + EMAIL),)
+SITEFACET = 'https://portal.ufgd.edu.br/faculdade/facet/index'
+SITEUFGD = 'https://portal.ufgd.edu.br'
+SITEUFAL = 'https://ufal.br'
+SITEICMC = 'https://www.icmc.usp.br/'
+SITEUSP = 'http://usp.br'
+SITEIM = 'http://www.ufal.edu.br/unidadeacademica/im/pt-br'
 
 DEFAULT_PAGINATION = False
 
