@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Adriano Barbosa'
 SITENAME = u'Prof. Adriano Barbosa'
 SITEURL = ''
-EMAIL = 'adrianobarbosa@ufgd.edu.br'
+EMAIL = 'hi@adrianobarbosa.xyz'
 
 PATH = 'content'
 
