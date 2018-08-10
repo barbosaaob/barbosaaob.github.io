@@ -1,15 +1,8 @@
-title: Seleção Monitoria 2018.1
+title: Seleção Monitoria 2018.2
 tags: Monitoria
-date: 2018-03/23
-modified: 2018-03/23
+date: 2018-08-10
+modified: 2018-08-10
 category: monitoria
-status: draft
-
-# resultado
-[Ata de seleção do monitor]({filename}/arquivos/resultado-monitoria-2018-1.pdf)
-
----
 
 # edital de seleção
-[Cálculo Diferencial e Integral (Eng. de Alimentos)]({filename}/arquivos/edital-monitoria-2018-1-alimentos.pdf)  
-[Cálculo Diferencial e Integral (Eng. de Energia)]({filename}/arquivos/edital-monitoria-2018-1-energia.pdf)
+[Cálculo Diferencial e Integral II (Eng. de Energia)]({filename}/arquivos/edital-monitoria-2018-2-energia.pdf)

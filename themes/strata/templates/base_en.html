@@ -36,7 +36,9 @@
 				<ul class="actions">
 					<li><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4261539J3" target="_blank" class="button">lattes cv</a></li>
 					{% for category, article in categories %}
-						<li><a href="{{ SITEURL}}/{{ category.url }}" class="button scrolly">{{ category.name }}</a></li>
+						{% if category != "monitoria" or category != "Monitoria" %}
+							<li><a href="{{ SITEURL}}/{{ category.url }}" class="button scrolly">{{ category.name }}</a></li>
+						{% endif %}
 					{% endfor %}
 					<!-- <li><a href="{{ SITEURL }}/blog" class="button scrolly">blog</a></li> -->
 				</ul>
