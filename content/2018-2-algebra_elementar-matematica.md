@@ -4,7 +4,8 @@ date: 2018-08-11
 modified: 2018-08-11
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 01]({filename}/listas/algebra-elementar-01.pdf)
+[Lista 01]({filename}/listas/algebra-elementar-01.pdf)  
+[Lista 02]({filename}/listas/algebra-elementar-02.pdf)
 
 ---
 
