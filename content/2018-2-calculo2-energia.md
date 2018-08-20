@@ -3,6 +3,11 @@ tags: 2018.2
 date: 2018-08-11
 modified: 2018-08-11
 category: teaching
+## escolha do horário da monitoria
+[Vote para escolher o horário de sua preferência.](https://doodle.com/poll/hw8im3zxfc23kh59)
+
+---
+
 ## <a id="exercices"></a>listas
 [Lista 1]({filename}/listas/calculo2-01.pdf)  
 [Lista 2]({filename}/listas/calculo2-02.pdf)
