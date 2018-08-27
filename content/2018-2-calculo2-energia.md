@@ -3,14 +3,10 @@ tags: 2018.2
 date: 2018-08-11
 modified: 2018-08-11
 category: teaching
-## escolha do horário da monitoria
-[Vote para escolher o horário de sua preferência.](https://doodle.com/poll/hw8im3zxfc23kh59)
-
----
-
 ## <a id="exercices"></a>listas
 [Lista 1]({filename}/listas/calculo2-01.pdf)  
-[Lista 2]({filename}/listas/calculo2-02.pdf)
+[Lista 2]({filename}/listas/calculo2-02.pdf)  
+[Lista 3]({filename}/listas/calculo2-03.pdf)
 
 ---
 
@@ -20,9 +16,10 @@ em breve...
 ---
 
 ## <a id="monitoria"></a>monitoria
-Sala: ...  
-Monitor: ...  
-Horário: ...
+Monitor: Matheus Xavier  
+Horário e local:  
+segundas-feiras das 14h às 17h, sala D-255  
+terças-feiras das 14h às 15h, sala D-101
 
 ---
 
