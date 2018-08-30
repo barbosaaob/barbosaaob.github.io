@@ -4,6 +4,11 @@ date: 2018-08-10
 modified: 2018-08-10
 category: monitoria
 
+## resultado da seleção
+[Álgebra Elementar (Matemática)]({filename}/arquivos/resultado-monitoria-2018-2-matematica.pdf)
+
+---
+
 ## edital de seleção
 [Álgebra Elementar (Matemática)]({filename}/arquivos/edital-monitoria-2018-2-matematica.pdf)
 
