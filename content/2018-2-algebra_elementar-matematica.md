@@ -17,6 +17,14 @@ em breve...
 
 ---
 
+## <a id="monitoria"></a>monitoria
+Monitor: João Pedro  
+Horário:  
+terças-feiras das 12h às 13h  
+quintas-feiras das 12h às 15h  
+
+---
+
 ## <a id="exams"></a>avaliação
 Serão realizadas duas provas escritas (P1 e P2), cuja média de
 aproveitamento (MA) será obtida da seguinte maneira:  
