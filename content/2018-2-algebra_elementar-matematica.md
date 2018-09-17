@@ -21,6 +21,7 @@ em breve...
 
 ## <a id="monitoria"></a>monitoria
 Monitor: João Pedro  
+Sala: B210  
 Horário:  
 terças-feiras das 12h às 13h  
 quintas-feiras das 12h às 15h  
