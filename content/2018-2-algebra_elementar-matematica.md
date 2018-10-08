@@ -11,7 +11,8 @@ category: teaching
 [Lista 04]({filename}/listas/algebra-elementar-04.pdf)  
 [Lista 05]({filename}/listas/algebra-elementar-05.pdf)  
 [Lista 06]({filename}/listas/algebra-elementar-06.pdf)  
-[Lista 07]({filename}/listas/algebra-elementar-07.pdf)
+[Lista 07]({filename}/listas/algebra-elementar-07.pdf)  
+[Lista 08]({filename}/listas/algebra-elementar-08.pdf)
 
 ---
 
