@@ -10,7 +10,7 @@ category: teaching
 [Lista 4]({filename}/listas/calculo2-04.pdf)  
 [Lista 5]({filename}/listas/calculo2-05.pdf)  
 [Lista 6]({filename}/listas/calculo2-06.pdf)  
-[Lista 7]({filename}/listas/calculo2-07-b.pdf)
+[Lista 7]({filename}/listas/calculo2-07-b.pdf)  
 [Lista 8]({filename}/listas/calculo2-08-b.pdf)
 
 ---
