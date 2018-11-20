@@ -22,6 +22,11 @@ category: teaching
 
 ---
 
+## <a id="classes"></a>material complementar
+[Desigualdades]({filename}/aulas/desigualdade-20181120.pdf)
+
+---
+
 ## <a id="tests"></a>provas
 [Avaliação P1]({filename}/provas/2018-2-algebra_elementar-matematica-p1.pdf)
 
