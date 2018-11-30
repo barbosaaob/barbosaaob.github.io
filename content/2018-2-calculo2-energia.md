@@ -21,7 +21,8 @@ category: teaching
 
 ## <a id="tests"></a>provas
 [Avaliação P1]({filename}/provas/2018-2-calculo2-energia-p1.pdf)  
-[Avaliação P2]({filename}/provas/2018-2-calculo2-energia-p2.pdf)
+[Avaliação P2]({filename}/provas/2018-2-calculo2-energia-p2.pdf)  
+[Avaliação P3]({filename}/provas/2018-2-calculo2-energia-p3.pdf)
 
 ---
 
