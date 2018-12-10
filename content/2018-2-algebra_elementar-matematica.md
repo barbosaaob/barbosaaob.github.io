@@ -29,7 +29,8 @@ category: teaching
 
 ## <a id="tests"></a>provas
 [Avaliação P1]({filename}/provas/2018-2-algebra_elementar-matematica-p1.pdf)  
-[Avaliação P2]({filename}/provas/2018-2-algebra_elementar-matematica-p2.pdf)
+[Avaliação P2]({filename}/provas/2018-2-algebra_elementar-matematica-p2.pdf)  
+[Avaliação PS]({filename}/provas/2018-2-algebra_elementar-matematica-ps.pdf)
 
 ---
 
