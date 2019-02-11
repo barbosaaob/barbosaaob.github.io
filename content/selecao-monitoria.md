@@ -1,23 +1,19 @@
-title: Seleção Monitoria 2018.2
+title: Seleção Monitoria
 tags: monitoria
 date: 2018-08-10
-modified: 2018-08-10
+modified: 2019-02-11
 category: monitoria
 
-## resultado da seleção
-[Álgebra Elementar (Matemática)]({filename}/arquivos/resultado-monitoria-2018-2-matematica.pdf)
+## 2019.1
+[Edital de seleção - Cálculo III (Eng. Mecânica)]({filename}/arquivos/edital-monitoria-2019-1-mecanica.pdf)
 
 ---
 
-## edital de seleção
-[Álgebra Elementar (Matemática)]({filename}/arquivos/edital-monitoria-2018-2-matematica.pdf)
+## 2018.2
+[Resultado da seleção - Álgebra Elementar (Matemática)]({filename}/arquivos/resultado-monitoria-2018-2-matematica.pdf)
 
----
+[Edital de seleção - Álgebra Elementar (Matemática)]({filename}/arquivos/edital-monitoria-2018-2-matematica.pdf)
 
-## resultado da seleção
-[Cálculo Diferencial e Integral II (Eng. de Energia)]({filename}/arquivos/resultado-monitoria-2018-2-energia.pdf)
+[Resultado da seleção - Cálculo Diferencial e Integral II (Eng. de Energia)]({filename}/arquivos/resultado-monitoria-2018-2-energia.pdf)
 
----
-
-## edital de seleção
-[Cálculo Diferencial e Integral II (Eng. de Energia)]({filename}/arquivos/edital-monitoria-2018-2-energia.pdf)
+[Edital de seleção - Cálculo Diferencial e Integral II (Eng. de Energia)]({filename}/arquivos/edital-monitoria-2018-2-energia.pdf)
