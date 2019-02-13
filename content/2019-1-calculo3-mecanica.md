@@ -19,7 +19,7 @@ aproveitamento (MA) será obtida da seguinte maneira:
 `MA = (P1 + P2) / 2`  
 **Datas:  
 P1 - 11/04/2019  
-P2 - 27/06/2019**
+P2 - 11/06/2019**
 
 Prova Substitutiva:  
 Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
@@ -27,14 +27,14 @@ menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
 obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
 aprovado.  
 **Data:  
-Sub - 04/07/2019**
+Sub - 18/06/2019**
 
 Exame:  
 Terá direito ao exame o acadêmico que obtiver MA maior ou igual a 4,0 (quatro)
 e será aprovado se a nota do exame for maior ou igual a 6,0 e frequência de, no
 mínimo, 75%.  
 **Data:  
-Exame - 11/07/2019**
+Exame - 09/07/2019**
 
 ---
 
