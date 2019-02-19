@@ -4,7 +4,8 @@ date: 2019-02-08
 modified: 2019-02-08
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 0]({filename}/listas/calculo3-00.pdf)
+[Lista 0]({filename}/listas/calculo3-00.pdf)  
+[Lista 1]({filename}/listas/calculo3-01.pdf)
 
 ---
 
