@@ -14,6 +14,13 @@ em breve...
 
 ---
 
+## <a id="monitoria"></a>monitoria
+Escolha o melhor horário para o atendimento da monitoria: <a
+href="https://doodle.com/poll/cn2su73bgm3hhrxu"
+target=_blank>https://doodle.com/poll/cn2su73bgm3hhrxu</a>
+
+---
+
 ## <a id="exams"></a>avaliação
 Serão realizadas duas provas escritas (P1 e P2), cuja média de
 aproveitamento (MA) será obtida da seguinte maneira:  
