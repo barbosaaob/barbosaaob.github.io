@@ -15,9 +15,12 @@ em breve...
 ---
 
 ## <a id="monitoria"></a>monitoria
-Escolha o melhor horário para o atendimento da monitoria: <a
-href="https://doodle.com/poll/cn2su73bgm3hhrxu"
-target=_blank>https://doodle.com/poll/cn2su73bgm3hhrxu</a>
+Monitor: Luiz Felipe  
+Horário:  
+segundas-feiras das 11h às 12h  
+terças-feiras das 11h às 12h  
+quartas-feiras das 15h às 16h  
+sextas-feiras das 11h às 12h
 
 ---
 
