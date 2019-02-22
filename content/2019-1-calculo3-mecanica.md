@@ -16,11 +16,12 @@ em breve...
 
 ## <a id="monitoria"></a>monitoria
 Monitor: Luiz Felipe  
-Horário:  
-segundas-feiras das 11h às 12h  
-terças-feiras das 11h às 12h  
-quartas-feiras das 15h às 16h  
-sextas-feiras das 11h às 12h
+Local e horário:  
+Bloco D, sala 255  
+Segundas-feiras das 11h às 12h  
+Terças-feiras das 11h às 12h  
+Quartas-feiras das 15h às 16h  
+Sextas-feiras das 11h às 12h
 
 ---
 
