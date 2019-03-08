@@ -5,12 +5,24 @@ modified: 2019-02-08
 category: teaching
 ## <a id="exercices"></a>listas
 [Lista 0]({filename}/listas/calculo3-00.pdf)  
-[Lista 1]({filename}/listas/calculo3-01.pdf)
+[Lista 1]({filename}/listas/calculo3-01.pdf)  
+[Lista 2]({filename}/listas/calculo3-02.pdf)
 
 ---
 
 ## <a id="tests"></a>provas
 em breve...
+
+---
+
+## <a id="monitoria"></a>monitoria
+Monitor: Luiz Felipe  
+Local e horário:  
+Bloco D, sala 255  
+Segundas-feiras das 11h às 12h  
+Terças-feiras das 11h às 12h  
+Quartas-feiras das 15h às 16h  
+Sextas-feiras das 11h às 12h
 
 ---
 
