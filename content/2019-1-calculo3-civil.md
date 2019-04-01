@@ -40,7 +40,7 @@ Terá direito ao exame o acadêmico que obtiver MA maior ou igual a 4,0 (quatro)
 e será aprovado se a nota do exame for maior ou igual a 6,0 e frequência de, no
 mínimo, 75%.  
 **Data:  
-Exame - 11/07/2019**
+Exame - <strike>11/07/2019</strike> 04/07/2019**
 
 ---
 
