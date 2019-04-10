@@ -10,7 +10,13 @@ category: teaching
 [Lista 3]({filename}/listas/calculo3-03.pdf)  
 [Lista 4]({filename}/listas/calculo3-04.pdf)  
 [Lista 5]({filename}/listas/calculo3-05.pdf)  
-[Lista 6]({filename}/listas/calculo3-06.pdf)
+[Lista 6]({filename}/listas/calculo3-06.pdf)  
+[Lista 7]({filename}/listas/calculo3-07.pdf)
+
+---
+
+## <a id="tests"></a>aulas
+[Integral dupla]({filename}/aulas/integral-dupla-2019.pdf)
 
 ---
 
