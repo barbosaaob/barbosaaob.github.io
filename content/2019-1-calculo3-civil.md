@@ -16,7 +16,8 @@ category: teaching
 ---
 
 ## <a id="tests"></a>aulas
-[Integral dupla]({filename}/aulas/integral-dupla-2019.pdf)
+[Integral dupla]({filename}/aulas/integral-dupla-2019.pdf)  
+[Integral regiões gerais]({filename}/aulas/integral-regioes-gerais-2019.pdf)
 
 ---
 
