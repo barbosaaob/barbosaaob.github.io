@@ -21,7 +21,8 @@ category: teaching
 [Integral dupla]({filename}/aulas/integral-dupla-2019.pdf)  
 [Integral regiões gerais]({filename}/aulas/integral-regioes-gerais-2019.pdf)  
 [Coordenadas polares]({filename}/aulas/coordenadas-polares-2019.pdf)  
-[Integral tripla]({filename}/aulas/integral-tripla-2019.pdf)
+[Integral tripla]({filename}/aulas/integral-tripla-2019.pdf)  
+[Coordenadas cilíndricas e esféricas]({filename}/aulas/coordenadas-cilindricas-esfericas-2019.pdf)
 
 ---
 
