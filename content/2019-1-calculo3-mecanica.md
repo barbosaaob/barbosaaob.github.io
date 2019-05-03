@@ -13,7 +13,8 @@ category: teaching
 [Lista 6]({filename}/listas/calculo3-06.pdf)  
 [Lista 7]({filename}/listas/calculo3-07.pdf)  
 [Lista 8]({filename}/listas/calculo3-08.pdf)  
-[Lista 9]({filename}/listas/calculo3-09.pdf)
+[Lista 9]({filename}/listas/calculo3-09.pdf)  
+[Lista 10]({filename}/listas/calculo3-10.pdf)
 
 ---
 
@@ -22,7 +23,8 @@ category: teaching
 [Integral regiões gerais]({filename}/aulas/integral-regioes-gerais-2019.pdf)  
 [Coordenadas polares]({filename}/aulas/coordenadas-polares-2019.pdf)  
 [Integral tripla]({filename}/aulas/integral-tripla-2019.pdf)  
-[Coordenadas cilíndricas e esféricas]({filename}/aulas/coordenadas-cilindricas-esfericas-2019.pdf)
+[Coordenadas cilíndricas e esféricas]({filename}/aulas/coordenadas-cilindricas-esfericas-2019.pdf)  
+[Aplicações das integrais]({filename}/aulas/aplicacoes-das-integrais-2019.pdf)
 
 ---
 
