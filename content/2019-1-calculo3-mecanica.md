@@ -24,7 +24,9 @@ category: teaching
 [Coordenadas polares]({filename}/aulas/coordenadas-polares-2019.pdf)  
 [Integral tripla]({filename}/aulas/integral-tripla-2019.pdf)  
 [Coordenadas cilíndricas e esféricas]({filename}/aulas/coordenadas-cilindricas-esfericas-2019.pdf)  
-[Aplicações das integrais]({filename}/aulas/aplicacoes-das-integrais-2019.pdf)
+[Aplicações das integrais]({filename}/aulas/aplicacoes-das-integrais-2019.pdf)  
+[Curvas e campos vetoriais]({filename}/aulas/curvas-e-campos-vetoriais-2019.pdf)  
+[Integral de linha]({filename}/aulas/integral-de-linha-2019.pdf)
 
 ---
 
