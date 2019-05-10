@@ -14,7 +14,8 @@ category: teaching
 [Lista 7]({filename}/listas/calculo3-07.pdf)  
 [Lista 8]({filename}/listas/calculo3-08.pdf)  
 [Lista 9]({filename}/listas/calculo3-09.pdf)  
-[Lista 10]({filename}/listas/calculo3-10.pdf)
+[Lista 10]({filename}/listas/calculo3-10.pdf)  
+[Lista 11]({filename}/listas/calculo3-11.pdf)
 
 ---
 
