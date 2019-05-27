@@ -31,7 +31,8 @@ category: teaching
 [Curvas e campos vetoriais]({filename}/aulas/curvas-e-campos-vetoriais-2019.pdf)  
 [Integral de linha]({filename}/aulas/integral-de-linha-2019.pdf)  
 [Integral de linha de campos vetoriais]({filename}/aulas/integral-de-linha-de-campos-2019.pdf)  
-[Teorema fundamental das integrais de linha]({filename}/aulas/tf-integrais-de-linha-2019.pdf)
+[Teorema fundamental das integrais de linha]({filename}/aulas/tf-integrais-de-linha-2019.pdf)  
+[Teorema de Green]({filename}/aulas/teorema-de-green-2019.pdf)
 
 ---
 
