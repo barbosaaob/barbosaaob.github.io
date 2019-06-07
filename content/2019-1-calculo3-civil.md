@@ -55,7 +55,7 @@ menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
 obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
 aprovado.  
 **Data:  
-Sub - 14/06/2019**
+Sub - <strike>14/06/2019</strike> 13/06/2019**
 
 Exame:  
 Terá direito ao exame o acadêmico que obtiver MA maior ou igual a 4,0 (quatro)
