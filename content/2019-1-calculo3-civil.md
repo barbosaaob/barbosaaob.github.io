@@ -37,7 +37,8 @@ category: teaching
 ---
 
 ## <a id="tests"></a>provas
-[Avaliação P1]({filename}/provas/2019-1-calculo3-civil.pdf)
+[Avaliação P1]({filename}/provas/2019-1-calculo3-civil.pdf)  
+[Avaliação P2]({filename}/provas/2019-1-calculo3-civil-p2.pdf)
 
 ---
 
