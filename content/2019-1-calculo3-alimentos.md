@@ -37,7 +37,8 @@ category: teaching
 ---
 
 ## <a id="tests"></a>provas
-[Avaliação P1]({filename}/provas/2019-1-calculo3-alimentos.pdf)
+[Avaliação P1]({filename}/provas/2019-1-calculo3-alimentos.pdf)  
+[Avaliação P2]({filename}/provas/2019-1-calculo3-alimentos-p2.pdf)
 
 ---
 
