@@ -38,7 +38,8 @@ category: teaching
 
 ## <a id="tests"></a>provas
 [Avaliação P1]({filename}/provas/2019-1-calculo3-mecanica.pdf)  
-[Avaliação P2]({filename}/provas/2019-1-calculo3-mecanica-p2.pdf)
+[Avaliação P2]({filename}/provas/2019-1-calculo3-mecanica-p2.pdf)  
+[Avaliação PS]({filename}/provas/2019-1-calculo3-mecanica-ps.pdf)
 
 ---
 
