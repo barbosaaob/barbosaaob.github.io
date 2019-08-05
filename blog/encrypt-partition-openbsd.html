@@ -1,0 +1,163 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en">
+	<head>
+		<title>Encrypt partition in OpenBSD 6.3 - Prof. Adriano Barbosa</title>
+		<meta charset="utf-8" />
+        <!--<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; script-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none';">-->
+		<link rel="icon" type="image/ico" href="https://adrianobarbosa.xyz/images/favico.ico">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/all.atom.xml" title="Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/publications.atom.xml" title="Publications - Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/teaching.atom.xml" title="Teaching - Prof. Adriano Barbosa">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="https://adrianobarbosa.xyz/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://adrianobarbosa.xyz/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="https://adrianobarbosa.xyz/assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Header -->
+		<header id="header">
+			<a href="https://adrianobarbosa.xyz/" class="image avatar scrolly"><img src="https://adrianobarbosa.xyz/images/avatar.png" alt="" /></a>
+			<h1><strong>I am Adriano</strong>,
+				professor at <a href="https://portal.ufgd.edu.br/faculdade/facet/index" target="_blank">UFGD</a>
+			</h1>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> Encrypt partition in OpenBSD 6.3</h2>
+       <p>comp<br>
+    publication: July 07 2018 20:24<br>
+    last update: July 07 2018 20:24</p>
+<section id="blog">
+	<p>This post is meant to guide througt encrypt a specific partition in OpenBSD
+6.3. We will encrypt <code>/home</code> partition:</p>
+<p>Umount <code>/home</code> partition</p>
+<div class="highlight"><pre><span></span><span class="o">#</span> <span class="n">umount</span> <span class="o">/</span><span class="n">home</span>
+</pre></div>
+
+
+<p>Suppose your system is running on disk sdX.  Discover the identifier of <code>/home</code>
+partition</p>
+<div class="highlight"><pre><span></span># <span class="nv">disklabel</span> <span class="o">-</span><span class="nv">E</span> <span class="nv">sdX</span>
+<span class="nv">Label</span> <span class="nv">editor</span> <span class="ss">(</span><span class="nv">enter</span> <span class="s1">&#39;</span><span class="s">?</span><span class="s1">&#39;</span> <span class="k">for</span> <span class="nv">help</span> <span class="nv">at</span> <span class="nv">ane</span> <span class="nv">prompt</span><span class="ss">)</span>
+<span class="o">&gt;</span> <span class="nv">p</span> <span class="nv">g</span>
+...
+</pre></div>
+
+
+<p>in my disk the <code>/home</code> patition is <code>m:</code>.</p>
+<p>Still in disklabel, change <code>/home</code> file system type</p>
+<div class="highlight"><pre><span></span><span class="o">&gt;</span> <span class="n">m</span> <span class="n">m</span>
+<span class="k">offset</span><span class="p">:</span> <span class="p">[...]</span>
+<span class="k">size</span><span class="p">:</span> <span class="p">[...]</span>
+<span class="n">FS</span> <span class="k">type</span><span class="p">:</span> <span class="p">[</span><span class="mi">4</span><span class="p">.</span><span class="mi">2</span><span class="n">BSD</span><span class="p">]</span> <span class="n">RAID</span>
+<span class="o">&gt;</span> <span class="n">w</span>
+<span class="o">&gt;</span> <span class="n">q</span>
+</pre></div>
+
+
+<p>Write random data to avoid data recovery and protect the encrypted data (this
+can be a very time-consuming process, depending on the speed of your CPU and
+disk, as well as the size of the disk)</p>
+<div class="highlight"><pre><span></span># <span class="nv">dd</span> <span class="k">if</span><span class="o">=/</span><span class="nv">dev</span><span class="o">/</span><span class="k">random</span> <span class="nv">of</span><span class="o">=/</span><span class="nv">dev</span><span class="o">/</span><span class="nv">rsdXm</span> <span class="nv">bs</span><span class="o">=</span><span class="mi">1</span><span class="nv">m</span>
+</pre></div>
+
+
+<p>Now we attach <code>sdXm</code> as a crypto volume</p>
+<div class="highlight"><pre><span></span><span class="o">#</span> <span class="n">bioctl</span> <span class="o">-</span><span class="k">c</span> <span class="k">C</span> <span class="o">-</span><span class="n">l</span> <span class="o">/</span><span class="n">dev</span><span class="o">/</span><span class="n">sdXm</span> <span class="n">softraid0</span>
+<span class="k">New</span> <span class="n">passphrase</span><span class="p">:</span>
+<span class="n">Re</span><span class="o">-</span><span class="k">type</span> <span class="n">passphrase</span><span class="p">:</span>
+<span class="n">softraid0</span><span class="p">:</span> <span class="n">CRYPTO</span> <span class="n">volume</span> <span class="n">attached</span> <span class="k">as</span> <span class="n">sdY</span>
+</pre></div>
+
+
+<p>Note that our crypto volume is now identified as <code>sdY</code>.</p>
+<p>Let's now zero the first megabyte of <code>sdY</code> to clean the master boot record and
+disklabel </p>
+<div class="highlight"><pre><span></span># <span class="nv">dd</span> <span class="k">if</span><span class="o">=/</span><span class="nv">dev</span><span class="o">/</span><span class="nv">zero</span> <span class="nv">of</span><span class="o">=/</span><span class="nv">dev</span><span class="o">/</span><span class="nv">rsdYc</span> <span class="nv">bs</span><span class="o">=</span><span class="mi">1</span><span class="nv">m</span> <span class="nv">count</span><span class="o">=</span><span class="mi">1</span>
+</pre></div>
+
+
+<p>Now we create a partition on <code>sdY</code></p>
+<div class="highlight"><pre><span></span># <span class="nv">fdisk</span> <span class="o">-</span><span class="nv">iy</span> <span class="nv">sdY</span>
+# <span class="nv">disklabel</span> <span class="o">-</span><span class="nv">E</span> <span class="nv">sdY</span>
+<span class="nv">Label</span> <span class="nv">editor</span> <span class="ss">(</span><span class="nv">enter</span> <span class="s1">&#39;</span><span class="s">?</span><span class="s1">&#39;</span> <span class="k">for</span> <span class="nv">help</span> <span class="nv">at</span> <span class="nv">ane</span> <span class="nv">prompt</span><span class="ss">)</span>
+<span class="o">&gt;</span> <span class="nv">a</span>
+...
+</pre></div>
+
+
+<p>Format the partition</p>
+<div class="highlight"><pre><span></span><span class="o">#</span> <span class="n">newfs</span> <span class="o">/</span><span class="n">dev</span><span class="o">/</span><span class="n">rsdYa</span>
+</pre></div>
+
+
+<p>Delete or comment <code>/home</code> entry in <code>/etc/fstab</code>.</p>
+<p>Get the disks uid</p>
+<div class="highlight"><pre><span></span><span class="o">#</span> <span class="n">disklabel</span> <span class="n">sdX</span> <span class="o">|</span> <span class="n">grep</span> <span class="n">uid</span>
+<span class="n">duid</span><span class="p">:</span> <span class="mi">123</span><span class="n">abc</span>
+<span class="o">#</span> <span class="n">disklabel</span> <span class="n">sdY</span> <span class="o">|</span> <span class="n">grep</span> <span class="n">uid</span>
+<span class="n">duid</span><span class="p">:</span> <span class="mi">789</span><span class="n">xyz</span>
+</pre></div>
+
+
+<p>We need to mount the crypto volume during the boot. Add the following lines to
+start up script <code>/etc/rc.local</code></p>
+<div class="highlight"><pre><span></span><span class="k">for</span> <span class="nv">i</span> <span class="nv">in</span> <span class="mi">1</span> <span class="mi">2</span> <span class="mi">3</span><span class="c1">; do  # tries to mount 3 times</span>
+    <span class="nv">bioctl</span> <span class="o">-</span><span class="nv">c</span> <span class="nv">C</span> <span class="o">-</span><span class="nv">l</span> <span class="mi">123</span><span class="nv">abc</span>.<span class="nv">m</span> <span class="nv">softraid0</span> <span class="o">&amp;&amp;</span> <span class="k">break</span>  # <span class="nv">attach</span> <span class="nv">sdXm</span> <span class="nv">as</span> <span class="nv">crypto</span> <span class="nv">volume</span>
+    <span class="nv">sleep</span> <span class="mi">2</span>  # <span class="k">wait</span> <span class="mi">2</span> <span class="nv">seconds</span> <span class="nv">between</span> <span class="nv">tries</span>
+<span class="nv">done</span>
+<span class="nv">fsck</span> <span class="o">/</span><span class="nv">dev</span><span class="o">/</span><span class="nv">rsdYa</span>  # <span class="nv">check</span> <span class="nv">crypto</span> <span class="nv">volume</span> <span class="nv">fs</span> <span class="k">for</span> <span class="nv">error</span>
+<span class="nv">mount</span> <span class="o">-</span><span class="nv">o</span> <span class="nv">rw</span>,<span class="nv">nodev</span>,<span class="nv">nosuid</span>,<span class="nv">softdep</span> <span class="mi">789</span><span class="nv">xyz</span>.<span class="nv">a</span> <span class="o">/</span><span class="nv">home</span>  # <span class="nv">mount</span> <span class="nv">partition</span>
+</pre></div>
+
+
+<p>And we are done! Your system is ready to boot with the <code>/home</code> partition
+enctypted and ready to mount at boot.</p>
+<p>Last note: <code>/home</code> partition is completelly empty, so if you have any user other
+than root on your system, you need to create each user directory and set the
+right permitions.</p>
+<p>Source: <a href="http://astro-gr.org/openbsd-encrypt-home/">http://astro-gr.org/openbsd-encrypt-home/</a></p>
+</section>
+
+			<!-- Contact -->
+			<section id="contact">
+				<h2>get in touch</h2>
+				<ul class="labeled-icons">
+					<li><h3 class="icon fa-envelope-o"><span class="label">Email</span></h3><a href="mailto:hi@adrianobarbosa.xyz">hi@adrianobarbosa.xyz</a></li>
+				</ul>
+			</section>
+		</div>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="icons">
+					<li><a href="/feeds/all.atom.xml" target="_blank" class="icon fa-feed"><span class="label">feed</span></a></li>
+					<li><a href="http://github.com/barbosaaob" target="_blank" class="icon fa-github"><span class="label">github</span></a></li>
+					<li><a href="mailto:hi@adrianobarbosa.xyz" target="_blank" class="icon fa-email"><span class="label">email</span></a></li>
+			</ul>
+			<ul class="copyright">
+				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li>Background: <a href="http://unsplash.com" target="_blank">Unsplash</a></li>
+				<li>Generated with <a href="http://blog.getpelican.com/" target="_blank">Pelican</a></li>
+			</ul>
+		</footer>
+
+		<!-- Scripts -->
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.poptrox.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.scrolly.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/arrow.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/skel.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="https://adrianobarbosa.xyz/assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="https://adrianobarbosa.xyz/assets/js/main.js"></script>
+	</body>
+</html>

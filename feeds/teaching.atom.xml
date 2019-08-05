@@ -1,0 +1,2509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa - teaching</title><link href="https://adrianobarbosa.xyz/" rel="alternate"></link><link href="https://adrianobarbosa.xyz/feeds/teaching.atom.xml" rel="self"></link><id>https://adrianobarbosa.xyz/</id><updated>2019-02-08T00:00:00-03:00</updated><entry><title>cálculo 3 - engenharia de alimentos</title><link href="https://adrianobarbosa.xyz/teaching/2019-1-calculo3-alimentos.html" rel="alternate"></link><published>2019-02-08T00:00:00-03:00</published><updated>2019-02-08T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2019-02-08:/teaching/2019-1-calculo3-alimentos.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-00.pdf"&gt;Lista 0&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/integral-dupla-2019.pdf"&gt;Integral dupla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-regioes-gerais-2019.pdf"&gt;Integral regiões gerais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-polares-2019.pdf"&gt;Coordenadas polares&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-tripla-2019.pdf"&gt;Integral tripla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-cilindricas-esfericas-2019.pdf"&gt;Coordenadas cilíndricas e esféricas&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/aplicacoes-das-integrais-2019.pdf"&gt;Aplicações das integrais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/curvas-e-campos-vetoriais-2019.pdf"&gt;Curvas e campos vetoriais …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-00.pdf"&gt;Lista 0&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/integral-dupla-2019.pdf"&gt;Integral dupla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-regioes-gerais-2019.pdf"&gt;Integral regiões gerais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-polares-2019.pdf"&gt;Coordenadas polares&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-tripla-2019.pdf"&gt;Integral tripla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-cilindricas-esfericas-2019.pdf"&gt;Coordenadas cilíndricas e esféricas&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/aplicacoes-das-integrais-2019.pdf"&gt;Aplicações das integrais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/curvas-e-campos-vetoriais-2019.pdf"&gt;Curvas e campos vetoriais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-de-linha-2019.pdf"&gt;Integral de linha&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-de-linha-de-campos-2019.pdf"&gt;Integral de linha de campos vetoriais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/tf-integrais-de-linha-2019.pdf"&gt;Teorema fundamental das integrais de linha&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/teorema-de-green-2019.pdf"&gt;Teorema de Green&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-alimentos.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-alimentos-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-alimentos-ps.pdf"&gt;Avaliação PS&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 10/04/2019&lt;br&gt;
+P2 - &lt;strike&gt;17/06/2019&lt;/strike&gt; 12/06/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - &lt;strike&gt;24/06/2019&lt;/strike&gt; 26/06/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame o acadêmico que obtiver MA maior ou igual a 4,0 (quatro)
+e será aprovado se a nota do exame for maior ou igual a 6,0 e frequência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - &lt;strike&gt;08/07/2019&lt;/strike&gt; &lt;strike&gt;01/07/2019&lt;/strike&gt; 03/07/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos.
+Fórmula de Taylor.  Multiplicadores de Lagrange. Integral dupla. Integral
+tripla. Mudança de coordenadas. Integral de Linha.  Teorema de Green.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre,
+   RS: Bookman, 2007. v.2.&lt;/li&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;AVILA, G. Calculo. Rio de Janeiro: LTC, 2007&lt;/li&gt;
+&lt;li&gt;HOFFMANN, L. D; BRADLEY, G. L. Calculo. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2019-1-calculo3-alimentos.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2019.1"></category></entry><entry><title>cálculo 3 - engenharia civil</title><link href="https://adrianobarbosa.xyz/teaching/2019-1-calculo3-civil.html" rel="alternate"></link><published>2019-02-08T00:00:00-03:00</published><updated>2019-02-08T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2019-02-08:/teaching/2019-1-calculo3-civil.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-00.pdf"&gt;Lista 0&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/integral-dupla-2019.pdf"&gt;Integral dupla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-regioes-gerais-2019.pdf"&gt;Integral regiões gerais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-polares-2019.pdf"&gt;Coordenadas polares&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-tripla-2019.pdf"&gt;Integral tripla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-cilindricas-esfericas-2019.pdf"&gt;Coordenadas cilíndricas e esféricas&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/aplicacoes-das-integrais-2019.pdf"&gt;Aplicações das integrais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/curvas-e-campos-vetoriais-2019.pdf"&gt;Curvas e campos vetoriais …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-00.pdf"&gt;Lista 0&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/integral-dupla-2019.pdf"&gt;Integral dupla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-regioes-gerais-2019.pdf"&gt;Integral regiões gerais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-polares-2019.pdf"&gt;Coordenadas polares&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-tripla-2019.pdf"&gt;Integral tripla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-cilindricas-esfericas-2019.pdf"&gt;Coordenadas cilíndricas e esféricas&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/aplicacoes-das-integrais-2019.pdf"&gt;Aplicações das integrais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/curvas-e-campos-vetoriais-2019.pdf"&gt;Curvas e campos vetoriais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-de-linha-2019.pdf"&gt;Integral de linha&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-de-linha-de-campos-2019.pdf"&gt;Integral de linha de campos vetoriais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/tf-integrais-de-linha-2019.pdf"&gt;Teorema fundamental das integrais de linha&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/teorema-de-green-2019.pdf"&gt;Teorema de Green&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-civil.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-civil-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-civil-ps.pdf"&gt;Avaliação PS&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 05/04/2019&lt;br&gt;
+P2 - 07/06/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - &lt;strike&gt;14/06/2019&lt;/strike&gt; 13/06/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame o acadêmico que obtiver MA maior ou igual a 4,0 (quatro)
+e será aprovado se a nota do exame for maior ou igual a 6,0 e frequência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - &lt;strike&gt;11/07/2019&lt;/strike&gt; 04/07/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos.
+Fórmula de Taylor.  Multiplicadores de Lagrange. Integral dupla. Integral
+tripla. Mudança de coordenadas. Integral de Linha.  Teorema de Green.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre,
+   RS: Bookman, 2007. v.2.&lt;/li&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;AVILA, G. Calculo. Rio de Janeiro: LTC, 2007&lt;/li&gt;
+&lt;li&gt;HOFFMANN, L. D; BRADLEY, G. L. Calculo. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2019-1-calculo3-civil.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2019.1"></category></entry><entry><title>cálculo 3 - engenharia mecânica</title><link href="https://adrianobarbosa.xyz/teaching/2019-1-calculo3-mecanica.html" rel="alternate"></link><published>2019-02-08T00:00:00-03:00</published><updated>2019-02-08T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2019-02-08:/teaching/2019-1-calculo3-mecanica.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-00.pdf"&gt;Lista 0&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/integral-dupla-2019.pdf"&gt;Integral dupla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-regioes-gerais-2019.pdf"&gt;Integral regiões gerais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-polares-2019.pdf"&gt;Coordenadas polares&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-tripla-2019.pdf"&gt;Integral tripla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-cilindricas-esfericas-2019.pdf"&gt;Coordenadas cilíndricas e esféricas&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/aplicacoes-das-integrais-2019.pdf"&gt;Aplicações das integrais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/curvas-e-campos-vetoriais-2019.pdf"&gt;Curvas e campos vetoriais …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-00.pdf"&gt;Lista 0&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo3-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;aulas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/integral-dupla-2019.pdf"&gt;Integral dupla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-regioes-gerais-2019.pdf"&gt;Integral regiões gerais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-polares-2019.pdf"&gt;Coordenadas polares&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-tripla-2019.pdf"&gt;Integral tripla&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/coordenadas-cilindricas-esfericas-2019.pdf"&gt;Coordenadas cilíndricas e esféricas&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/aplicacoes-das-integrais-2019.pdf"&gt;Aplicações das integrais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/curvas-e-campos-vetoriais-2019.pdf"&gt;Curvas e campos vetoriais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-de-linha-2019.pdf"&gt;Integral de linha&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/integral-de-linha-de-campos-2019.pdf"&gt;Integral de linha de campos vetoriais&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/tf-integrais-de-linha-2019.pdf"&gt;Teorema fundamental das integrais de linha&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/teorema-de-green-2019.pdf"&gt;Teorema de Green&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-mecanica.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-mecanica-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2019-1-calculo3-mecanica-ps.pdf"&gt;Avaliação PS&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Monitor: Luiz Felipe&lt;br&gt;
+Local e horário:&lt;br&gt;
+Bloco D, sala 255&lt;br&gt;
+Segundas-feiras das 11h às 12h&lt;br&gt;
+Terças-feiras das 11h às 12h&lt;br&gt;
+Quartas-feiras das 15h às 16h&lt;br&gt;
+Sextas-feiras das 11h às 12h&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 11/04/2019&lt;br&gt;
+P2 - 11/06/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - &lt;strike&gt;18/06/2019&lt;/strike&gt; 25/06/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame o acadêmico que obtiver MA maior ou igual a 4,0 (quatro)
+e será aprovado se a nota do exame for maior ou igual a 6,0 e frequência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - &lt;strike&gt;09/07/2019&lt;/strike&gt; 02/07/2019&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos.
+Fórmula de Taylor.  Multiplicadores de Lagrange. Integral dupla. Integral
+tripla. Mudança de coordenadas. Integral de Linha.  Teorema de Green.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre,
+   RS: Bookman, 2007. v.2.&lt;/li&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;AVILA, G. Calculo. Rio de Janeiro: LTC, 2007&lt;/li&gt;
+&lt;li&gt;HOFFMANN, L. D; BRADLEY, G. L. Calculo. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2019-1-calculo3-mecanica.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2019.1"></category></entry><entry><title>álgebra elementar - matemática</title><link href="https://adrianobarbosa.xyz/teaching/2018-2-algebra_elementar-matematica.html" rel="alternate"></link><published>2018-08-11T00:00:00-04:00</published><updated>2018-08-11T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-08-11:/teaching/2018-2-algebra_elementar-matematica.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-03.pdf"&gt;Lista 03&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-04.pdf"&gt;Lista 04&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-05.pdf"&gt;Lista 05&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-06.pdf"&gt;Lista 06&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-07.pdf"&gt;Lista 07&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-08.pdf"&gt;Lista 08&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-09.pdf"&gt;Lista 09&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-14.pdf"&gt;Lista 14&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="classes"&gt;&lt;/a&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/desigualdade-20181120.pdf"&gt;Desigualdades&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-algebra_elementar-matematica-p1.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-algebra_elementar-matematica-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-algebra_elementar-matematica-ps.pdf"&gt;Avaliação PS&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Monitor: João Pedro&lt;br&gt;
+Sala: B210&lt;br&gt;
+Horário:&lt;br&gt;
+terças-feiras das 12h às …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-03.pdf"&gt;Lista 03&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-04.pdf"&gt;Lista 04&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-05.pdf"&gt;Lista 05&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-06.pdf"&gt;Lista 06&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-07.pdf"&gt;Lista 07&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-08.pdf"&gt;Lista 08&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-09.pdf"&gt;Lista 09&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-elementar-14.pdf"&gt;Lista 14&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="classes"&gt;&lt;/a&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/desigualdade-20181120.pdf"&gt;Desigualdades&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-algebra_elementar-matematica-p1.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-algebra_elementar-matematica-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-algebra_elementar-matematica-ps.pdf"&gt;Avaliação PS&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Monitor: João Pedro&lt;br&gt;
+Sala: B210&lt;br&gt;
+Horário:&lt;br&gt;
+terças-feiras das 12h às 13h&lt;br&gt;
+quintas-feiras das 12h às 15h  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 05/10/2018&lt;br&gt;
+P2 - 30/11/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 07/12/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e frequência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 14/12/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Proposições. Cálculo proposicional. Implicação e equivalências lógicas.
+Quantificadores. Técnicas de demonstração. Teoria elementar dos conjuntos:
+conceitos iniciais, propriedades, construção de conjuntos, álgebra de
+conjuntos, produto cartesiano. Relações binárias, aplicações e operações.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;ALENCAR FILHO, Edgard de. Iniciação a lógica matemática. São Paulo: Nobel, 1986. 203p.&lt;/li&gt;
+&lt;li&gt;COPI, Irving M. Introdução a lógica. 2. São Paulo: Mestre Jou, 1981. 488p.&lt;/li&gt;
+&lt;li&gt;IEZZI, Gelson; MURAKAMI, Carlos. Fundamentos de matemática elementar:
+   conjuntos e funções. 6 ed. São Paulo: Atual.&lt;/li&gt;
+&lt;li&gt;GERÔNIMO, J. R.; FRANCO, V. S. Fundamentos de matemática. Editora da UEM.
+   Maringá. 2006.&lt;/li&gt;
+&lt;li&gt;LIMA, Elon Lages. Meu professor de matemática e outras histórias. 6 ed. Rio
+   de Janeiro: SBM. 2012.&lt;/li&gt;
+&lt;li&gt;LIMA, E. L.; CARVALHO, P. C. P.; WAGNER, E.; MORGADO, A. C. A
+   matemática do ensino médio, volume 1. 9 ed. Rio de Janeiro: SBM. 2006.&lt;/li&gt;
+&lt;li&gt;OLIVEIRA, Krerley; FERNÁNDEZ, Adán J. C. Iniciação à matemática: um curso
+   com problemas e soluções. Rio de Janeiro: SBM. 2010.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2018-2-algebra_elementar-matematica.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2018.2"></category></entry><entry><title>cálculo 2 - engenharia de energia</title><link href="https://adrianobarbosa.xyz/teaching/2018-2-calculo2-energia.html" rel="alternate"></link><published>2018-08-11T00:00:00-04:00</published><updated>2018-08-11T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-08-11:/teaching/2018-2-calculo2-energia.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-07-b.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-08-b.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-09-b.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-10-b.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-11-b.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-12-b.pdf"&gt;Lista 12&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-calculo2-energia-p1.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-calculo2-energia-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-calculo2-energia-p3.pdf"&gt;Avaliação P3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-calculo2-energia-ps.pdf"&gt;Avaliação PS&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Monitor: Matheus Xavier&lt;br&gt;
+Horário e local:&lt;br&gt;
+segundas-feiras das 14h às 17h, sala D-255&lt;br&gt;
+terças-feiras das …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-07-b.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-08-b.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-09-b.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-10-b.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-11-b.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-12-b.pdf"&gt;Lista 12&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-calculo2-energia-p1.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-calculo2-energia-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-calculo2-energia-p3.pdf"&gt;Avaliação P3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-2-calculo2-energia-ps.pdf"&gt;Avaliação PS&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Monitor: Matheus Xavier&lt;br&gt;
+Horário e local:&lt;br&gt;
+segundas-feiras das 14h às 17h, sala D-255&lt;br&gt;
+terças-feiras das 14h às 15h, sala D-101&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 21/09/2018&lt;br&gt;
+P2 - 26/10/2018&lt;br&gt;
+P3 - 30/11/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 07/12/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e frequência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 14/12/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas.
+Fórmula de Taylor.  Série de potências. Equações diferenciais de 1ª ordem e
+aplicações. Equações diferenciais lineares.  Equações diferenciais lineares de
+2ª ordem e aplicações.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre,
+   RS: Bookman, 2007. v.2.&lt;/li&gt;
+&lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de
+   Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+&lt;li&gt;AVILA, G. Calculo. Rio de Janeiro: LTC, 2007&lt;/li&gt;
+&lt;li&gt;HOFFMANN, L. D; BRADLEY, G. L. Calculo. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2018-2-calculo2-energia.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2018.2"></category></entry><entry><title>números e funções - profmat</title><link href="https://adrianobarbosa.xyz/teaching/2018-1-num-funcoes-profmat.html" rel="alternate"></link><published>2018-03-17T09:13:00-04:00</published><updated>2018-03-17T09:13:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-03-17:/teaching/2018-1-num-funcoes-profmat.html</id><summary type="html">&lt;h1 style="color: red;"&gt;ATENÇÃO: AV2 será na sexta-feira, 06/07, as 14h!&lt;/h1&gt;
+
+&lt;h2&gt;&lt;a id="schedule"&gt;&lt;/a&gt;calendário&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Data&lt;/th&gt;
+&lt;th&gt;Atividade&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;16/03&lt;/td&gt;
+&lt;td&gt;Aula a ser reposta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23/03&lt;/td&gt;
+&lt;td&gt;Cap. 1: Conjuntos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;30/03&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Feriado&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;06/04&lt;/td&gt;
+&lt;td&gt;Cap. 2: Números Naturais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13/04&lt;/td&gt;
+&lt;td&gt;Cap. 3: Números Cardinais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14/04&lt;/td&gt;
+&lt;td&gt;Cap. 4: Números Reais (reposição)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;20/04&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Feriado&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;27/04 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;h1 style="color: red;"&gt;ATENÇÃO: AV2 será na sexta-feira, 06/07, as 14h!&lt;/h1&gt;
+
+&lt;h2&gt;&lt;a id="schedule"&gt;&lt;/a&gt;calendário&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Data&lt;/th&gt;
+&lt;th&gt;Atividade&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;16/03&lt;/td&gt;
+&lt;td&gt;Aula a ser reposta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;23/03&lt;/td&gt;
+&lt;td&gt;Cap. 1: Conjuntos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;30/03&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Feriado&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;06/04&lt;/td&gt;
+&lt;td&gt;Cap. 2: Números Naturais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13/04&lt;/td&gt;
+&lt;td&gt;Cap. 3: Números Cardinais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;14/04&lt;/td&gt;
+&lt;td&gt;Cap. 4: Números Reais (reposição)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;20/04&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Feriado&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;27/04&lt;/td&gt;
+&lt;td&gt;Cap. 4: Números Reais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;04/05&lt;/td&gt;
+&lt;td&gt;Cap. 5: Função Afim&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;11/05&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Avaliação 1&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;18/05&lt;/td&gt;
+&lt;td&gt;Cap. 6: Função Quadrática&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;25/05&lt;/td&gt;
+&lt;td&gt;Paralização&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;01/06&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Feriado&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08/06&lt;/td&gt;
+&lt;td&gt;Cap. 7: Funções Polinomiais&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;15/06&lt;/td&gt;
+&lt;td&gt;Cap. 8: Função Exponencial&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;22/06&lt;/td&gt;
+&lt;td&gt;Cap. 8: Função Exponencial&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;29/06&lt;/td&gt;
+&lt;td&gt;Cap. 9: Funções Trigonométricas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;06/07&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Avaliação 2&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;13/07&lt;/td&gt;
+&lt;td&gt;Cap. 9: Funções Trigonométricas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;20/07&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Exame Final&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://ggbm.at/aWtCtaN4"&gt;Parábola&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://ggbm.at/jYAXAqt6"&gt;Gráfico da função quadrática&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://ggbm.at/xBaG5dVR"&gt;Reflexão na parábola&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-num-funcoes-profmat-av1.pdf"&gt;Avaliação AV1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-num-funcoes-profmat-av2.pdf"&gt;Avaliação AV2&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;exercícios&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="http://www.profmat-sbm.org.br/provas-nacionais/"&gt;Provas nacionais&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.profmat-sbm.org.br/exame-nacional-de-qualificacao/"&gt;Exames de qualificação&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Conjuntos. Números naturais. Números cardinais. Números reais. Funções afins.
+Funções quadráticas. Funções polinomiais. Funções exponenciais e logarítmicas.
+Funções trigonométricas.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;bibliografia&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;LIMA, E. L. Números e funções reais. SBM, 2014 (Coleção PROFMAT).&lt;/li&gt;
+&lt;li&gt;PROFMAT, MA11 - Números  e  funções  reais. Disponível  em:
+   &lt;a href="http://www.profmat-sbm.org.br/ma11"&gt;http://www.profmat-sbm.org.br/ma11&lt;/a&gt;. Acesso: 17 mar. 2018.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2018-1-num-funcoes-profmat.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2018.1"></category></entry><entry><title>cálculo 1 - engenharia de alimentos</title><link href="https://adrianobarbosa.xyz/teaching/2018-1-calculo1-alimentos.html" rel="alternate"></link><published>2018-03-17T08:53:00-04:00</published><updated>2018-03-17T08:53:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-03-17:/teaching/2018-1-calculo1-alimentos.html</id><summary type="html">&lt;h2 style="color:red;"&gt;O exame será aplicado na sala 202 do bloco B.&lt;/h2&gt;
+
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-03.pdf"&gt;Lista 03&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-04.pdf"&gt;Lista 04&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-05.pdf"&gt;Lista 05&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-06.pdf"&gt;Lista 06&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-07.pdf"&gt;Lista 07&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-08.pdf"&gt;Lista 08&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-09.pdf"&gt;Lista 09&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-14.pdf"&gt;Lista 14&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-15.pdf"&gt;Lista 15&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://ggbm.at/HYyH5SrC"&gt;Gráficos de Funções Reais&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-calculo1-alimentos-p1.pdf"&gt;Avaliação P1 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2 style="color:red;"&gt;O exame será aplicado na sala 202 do bloco B.&lt;/h2&gt;
+
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-03.pdf"&gt;Lista 03&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-04.pdf"&gt;Lista 04&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-05.pdf"&gt;Lista 05&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-06.pdf"&gt;Lista 06&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-07.pdf"&gt;Lista 07&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-08.pdf"&gt;Lista 08&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-09.pdf"&gt;Lista 09&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-14.pdf"&gt;Lista 14&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-15.pdf"&gt;Lista 15&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://ggbm.at/HYyH5SrC"&gt;Gráficos de Funções Reais&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-calculo1-alimentos-p1.pdf"&gt;Avaliação P1&lt;/a&gt; [Atualizado em: seg 21 mai 2018 17:29:16]&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-calculo1-alimentos-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-calculo1-alimentos-ps.pdf"&gt;Avaliação PS&lt;/a&gt; [Atualizado em: seg 30 jul 2018 10:11:18]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Monitor: Halisson Tagara&lt;br&gt;
+Horário:&lt;br&gt;
+quinta-feira das 8h às 9h&lt;br&gt;
+sexta-feira das 7h às 9h e das 13h às 14h&lt;br&gt;
+Sala: 101, bloco D  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 17/05/2018&lt;br&gt;
+P2 - &lt;strike&gt;10/07/2018&lt;/strike&gt; 19/07/2018&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - &lt;strike&gt;17/07/2018&lt;/strike&gt; 26/07/2018&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - &lt;strike&gt;24/07/2018&lt;/strike&gt; &lt;strike&gt;02/08/2018&lt;/strike&gt; 01/08/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Números Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo
+Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;WEIR, Maurice D.; THOMAS, Joel Hass George B. Cálculo. Vol 1. 12º edição.
+   São Paulo: Pearson Makron Boocks.&lt;/li&gt;
+&lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vol. 1. 5ª ed. Rio de Janeiro: LTC,
+   2001.&lt;/li&gt;
+&lt;li&gt;ÁVILA, Geraldo. Cálculo 1: funções de uma variável, editora LTC.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2018-1-calculo1-alimentos.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2018.1"></category></entry><entry><title>cálculo 1 - engenharia de energia</title><link href="https://adrianobarbosa.xyz/teaching/2018-1-calculo1-energia.html" rel="alternate"></link><published>2018-03-17T08:53:00-04:00</published><updated>2018-03-17T08:53:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-03-17:/teaching/2018-1-calculo1-energia.html</id><summary type="html">&lt;h2 style="color:red;"&gt;O exame será aplicado na sala 202 do bloco B.&lt;/h2&gt;
+
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-03.pdf"&gt;Lista 03&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-04.pdf"&gt;Lista 04&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-05.pdf"&gt;Lista 05&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-06.pdf"&gt;Lista 06&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-07.pdf"&gt;Lista 07&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-08.pdf"&gt;Lista 08&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-09.pdf"&gt;Lista 09&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-14.pdf"&gt;Lista 14&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-15.pdf"&gt;Lista 15&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://ggbm.at/HYyH5SrC"&gt;Gráficos de Funções Reais&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-calculo1-energia-p1.pdf"&gt;Avaliação P1 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2 style="color:red;"&gt;O exame será aplicado na sala 202 do bloco B.&lt;/h2&gt;
+
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-01.pdf"&gt;Lista 01&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-02.pdf"&gt;Lista 02&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-03.pdf"&gt;Lista 03&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-04.pdf"&gt;Lista 04&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-05.pdf"&gt;Lista 05&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-06.pdf"&gt;Lista 06&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-07.pdf"&gt;Lista 07&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-08.pdf"&gt;Lista 08&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-09.pdf"&gt;Lista 09&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-14.pdf"&gt;Lista 14&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo1-15.pdf"&gt;Lista 15&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://ggbm.at/HYyH5SrC"&gt;Gráficos de Funções Reais&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-calculo1-energia-p1.pdf"&gt;Avaliação P1&lt;/a&gt; [Atualizado em: 23 mai 2018 14:04:13]&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-calculo1-energia-p2.pdf"&gt;Avaliação P2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2018-1-calculo1-energia-ps.pdf"&gt;Avaliação PS&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Monitor: Matheus Xavier&lt;br&gt;
+Horário:&lt;br&gt;
+quinta-feira das 16h às 18h, sala 16, bloco B&lt;br&gt;
+sexta-feira das 14h às 16h, sala 101, bloco D&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 17/05/2018&lt;br&gt;
+P2 - &lt;strike&gt;09/07/2018&lt;/strike&gt; 19/07/2018&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - &lt;strike&gt;16/07/2018&lt;/strike&gt; 26/07/2018&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - &lt;strike&gt;23/07/2018&lt;/strike&gt; &lt;strike&gt;02/08/2018&lt;/strike&gt; 01/08/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Números Reais, Funções Reais de uma Variável. Limite e Continuidade. Cálculo
+Diferencial. Cálculo Integral. Aplicações.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;WEIR, Maurice D.; THOMAS, Joel Hass George B. Cálculo. Vol 1. 12º edição.
+   São Paulo: Pearson Makron Boocks.&lt;/li&gt;
+&lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vol. 1. 5ª ed. Rio de Janeiro: LTC,
+   2001.&lt;/li&gt;
+&lt;li&gt;ÁVILA, Geraldo. Cálculo 1: funções de uma variável, editora LTC.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2018-1-calculo1-energia.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2018.1"></category></entry><entry><title>fundamentos 3 - matemática</title><link href="https://adrianobarbosa.xyz/teaching/2017-2-fundamentos3-mat.html" rel="alternate"></link><published>2017-09-17T00:00:00-04:00</published><updated>2017-09-17T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2017-09-17:/teaching/2017-2-fundamentos3-mat.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://ggbm.at/TT25WNwm"&gt;Gráfico da função polinomial quadrática&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://ggbm.at/MRM67U5W"&gt;Gráfico da função polinomial quadrática (forma canônica)&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://ggbm.at/vGrnS9eC"&gt;Gráfico da função polinomial cúbica&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/bissecao-fundamentos.pdf"&gt;Método da Bisseção&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/pages/adivinhe-o-numero.html"&gt;Jogo: adivinhe o número&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-fundamentos3-p1.pdf"&gt;P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-fundamentos3-p2.pdf"&gt;P2 …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/fundamentos3-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://ggbm.at/TT25WNwm"&gt;Gráfico da função polinomial quadrática&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://ggbm.at/MRM67U5W"&gt;Gráfico da função polinomial quadrática (forma canônica)&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://ggbm.at/vGrnS9eC"&gt;Gráfico da função polinomial cúbica&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/aulas/bissecao-fundamentos.pdf"&gt;Método da Bisseção&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/pages/adivinhe-o-numero.html"&gt;Jogo: adivinhe o número&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-fundamentos3-p1.pdf"&gt;P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-fundamentos3-p2.pdf"&gt;P2&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Local: Bloco B, sala 10/2&lt;br&gt;
+Monitor: Marcello Almeida&lt;br&gt;
+Horário:&lt;br&gt;
+terça-feira das 13h às 15h&lt;br&gt;
+quinta-feira das 13h às 15h&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 16/11/2017&lt;br&gt;
+P2 - 20/02/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 27/02/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 06/03/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Números complexos e polinômios.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;IEZZI, Gelson. Fundamentos de matematica elementar: complexos : polinomios : equacoes. 7. Sao Paulo: Atual, . 2005p.&lt;/li&gt;
+&lt;li&gt;CARMO, Manfredo Perdigão do. Trigonometria e números complexos. Rio de Janeiro, RJ: Sociedade Brasileira de Matemática, 1985. 101p.&lt;/li&gt;
+&lt;li&gt;HEFEZ, Abramo e VILELLA, Maria Lúcia. Polinômios e Equações Algébricas. Rio de Janeiro: SBM, 2012 (Coleção PROFMAT)&lt;/li&gt;
+&lt;li&gt;DANTE, Luiz Roberto. Matemática contexto &amp;amp; Aplicações Volume Único. Editora Ática.&lt;/li&gt;
+&lt;li&gt;GARBI, Gilberto Geraldo. O romance das equações algébricas. São Paulo, SP: Makron Books, 1997. 255p.&lt;/li&gt;
+&lt;li&gt;CALDEIRA, Andre Machado. Pré-calculo. 3.ed. Sao Paulo: Cengage Learning, 2013. 558p.&lt;/li&gt;
+&lt;li&gt;LIMA, Elon Lages et al. A Matemática do Ensino Médio, vol. 1. Rio de Janeiro: SBM, 2006. (Coleção do Professor de Matemática)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2017-2-fundamentos3-mat.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2017.2"></category></entry><entry><title>cálculo 2 - engenharia civil</title><link href="https://adrianobarbosa.xyz/teaching/2017-2-calculo2-civil.html" rel="alternate"></link><published>2017-09-16T00:00:00-04:00</published><updated>2017-09-16T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2017-09-16:/teaching/2017-2-calculo2-civil.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-00.pdf"&gt;Lista 0&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-calculo2-civil-p1.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-calculo2-civil-p2.pdf"&gt;Avaliação P2&lt;/a&gt; (Atualizado: sex dez 15 10:02:49)&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-calculo2-civil-p3.pdf"&gt;Avaliação P3&lt;/a&gt; (Atualizado: sex fev 23 06:33:02)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="videos"&gt;&lt;/a&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6UqtOVdnet4"&gt;Regra de L'Hospital&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.youtube.com/watch?v=Rwq_aSsfS1k&amp;amp;list=PLxI8Can9yAHcXiEq9tNy7oYOMhuYYdRrP"&gt;Curso de Cálculo …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-00.pdf"&gt;Lista 0&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/calculo2-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="tests"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-calculo2-civil-p1.pdf"&gt;Avaliação P1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-calculo2-civil-p2.pdf"&gt;Avaliação P2&lt;/a&gt; (Atualizado: sex dez 15 10:02:49)&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/provas/2017-2-calculo2-civil-p3.pdf"&gt;Avaliação P3&lt;/a&gt; (Atualizado: sex fev 23 06:33:02)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="videos"&gt;&lt;/a&gt;material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6UqtOVdnet4"&gt;Regra de L'Hospital&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://www.youtube.com/watch?v=Rwq_aSsfS1k&amp;amp;list=PLxI8Can9yAHcXiEq9tNy7oYOMhuYYdRrP"&gt;Curso de Cálculo I&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Bloco D sala 255&lt;br&gt;
+Monitor: Victor Freitas&lt;br&gt;
+Horário:&lt;br&gt;
+quarta-feira das 11h às 13h&lt;br&gt;
+sexta-feira das 9h às 11h&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 09/11/2017&lt;br&gt;
+P2 - 14/12/2017&lt;br&gt;
+P3 - &lt;del&gt;20/02/2018&lt;/del&gt; 22/02/2018&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 27/02/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 06/03/2018&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas.
+Fórmula de Taylor.  Série de potências. Equações diferenciais de 1ª ordem e
+aplicações. Equações diferenciais lineares.  Equações diferenciais lineares de
+2ª ordem e aplicações.&lt;/p&gt;
+&lt;h3&gt;bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;STEWART, James. Cálculo. São Paulo: Cengage Learning, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo. 10. ed. Porto Alegre,
+   RS: Bookman, 2014. v.1.&lt;/li&gt;
+&lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre,
+   RS: Bookman, 2007. v.2.&lt;/li&gt;
+&lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de
+   Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+&lt;li&gt;AVILA, G. Calculo. Rio de Janeiro: LTC, 2007&lt;/li&gt;
+&lt;li&gt;HOFFMANN, L. D; BRADLEY, G. L. Calculo. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+&lt;li&gt;ROCHA, L. M. Calculo 2. São Paulo: ATLAS, 1987.&lt;/li&gt;
+&lt;li&gt;ROMANO, R. Calculo diferencial e integral. São Paulo: ATLAS, 1981.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;plano de ensino&lt;/h2&gt;
+&lt;p&gt;As informações acima constam no &lt;a href="https://adrianobarbosa.xyz/planos/2017-2-calculo2-civil.pdf"&gt;plano de ensino do
+curso&lt;/a&gt;.&lt;/p&gt;</content><category term="2017.2"></category></entry><entry><title>álgebra linear e geometria analítica - física</title><link href="https://adrianobarbosa.xyz/teaching/2017-1-algebra_linear-fisica.html" rel="alternate"></link><published>2017-05-10T00:00:00-04:00</published><updated>2017-05-10T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2017-05-10:/teaching/2017-1-algebra_linear-fisica.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="grades"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;P1: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-fisica-p1.pdf"&gt;Solução&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 30/06/2017&lt;br&gt;
+P2 - 22 …&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="grades"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;P1: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-fisica-p1.pdf"&gt;Solução&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 30/06/2017&lt;br&gt;
+P2 - 22/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 29/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 05/09/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Matrizes e determinantes. Sistemas de equações lineares. Álgebra vetorial.
+Equação da reta no plano e no espaço. Equações do plano. Transformação linear
+e matrizes. Autovalores e autove tores. Diagonalização de matrizes e
+operadores. Produto interno.  &lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações. 10.ed. Wiley, 2012.&lt;/li&gt;
+&lt;li&gt;BOLDRINI, J.L. Álgebra linear. 3.ed. São Paulo: Harbra, 1986.&lt;/li&gt;
+&lt;li&gt;LIMA, ELON LAGES. Geometria Analítica e Álgebra Linear. 2.ed. Rio de Janeiro: IMPA, 2008. 324pp.&lt;/li&gt;
+&lt;li&gt;WINTERLE, Paulo. Vetores e Geometria. São Paulo: Editora Pearson Markron Books.&lt;/li&gt;
+&lt;li&gt;BOULOS,P.; CAMARGO, I. Geometria Analítica: um tratamento vetorial. 3.ed. São Paulo: Person Makron Books do Brasil&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFRAEDO; STEINBRUCH, ALFREDO: Geometria Analítica, Editora: Person Makron Books&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFREDO; STEINBRUCH, ALFREDO: Álgebra Linear, Editora: Person Makron Books&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2017.1"></category></entry><entry><title>álgebra linear - matemática</title><link href="https://adrianobarbosa.xyz/teaching/2017-1-algebra_linear-ic.html" rel="alternate"></link><published>2017-05-10T00:00:00-04:00</published><updated>2017-05-10T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2017-05-10:/teaching/2017-1-algebra_linear-ic.html</id><summary type="html">&lt;h2&gt;&lt;a id="grades"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;P1: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-topicos-p1.pdf"&gt;Solução&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 07/07/2017&lt;br&gt;
+P2 - ...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="grades"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;P1: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-topicos-p1.pdf"&gt;Solução&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 07/07/2017&lt;br&gt;
+P2 - ...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - ...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - ...&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Espaços vetoriais, Transformações lineares, Auto-valores e auto-vetores,
+Diagonalização de operadores, Adjunta de uma transformação linear.  &lt;/p&gt;
+&lt;h3&gt;bibliografia&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;LIMA, E. L. Algebra linear. 2. Rio de Janeiro: Instituto de Matematica Pura e Aplicada, 1996. 357p.&lt;/li&gt;
+&lt;li&gt;HOFFMAN, K.; KUNZE, R. Algebra linear. . Sao Paulo: Poligono - Edusp, 1971. 354p.&lt;/li&gt;
+&lt;li&gt;BOLDRINI. Álgebra linear. 3. ed. São Paulo, SP: Harbra, 1986. 411p.&lt;/li&gt;
+&lt;li&gt;LANG, S. Algebra linear. São Paulo, SP: Blucher, 1971. 271p.&lt;/li&gt;
+&lt;li&gt;ANTON, H.; RORRES, I. Álgebra Linear com Aplicações, 10a ed. Bookman, 2012.&lt;/li&gt;
+&lt;li&gt;CALLIOLI, C. A.; DOMINGUES, H. H.; COSTA, R. C. F. Álgebra Linear e Aplicações. São Paulo: Atual, 1990.&lt;/li&gt;
+&lt;li&gt;ANTON, H.; BUSBY, N. Álgebra Linear Contemporânea. Porto Alegre: Bookman, 2006.&lt;/li&gt;
+&lt;li&gt;LIPSCHUTZ, S.; LIPSON, M.. Teoria e problemas de algebra linear. 3. Porto Alegre: Bookman, 2004. 400p.&lt;/li&gt;
+&lt;li&gt;COELHO, F.; LOURENCO, M. L. Um curso de algebra linear. 2. Sao Paulo: Edusp, 2007. 261p.&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2017.1"></category></entry><entry><title>álgebra linear e geometria analítica - eng. civil</title><link href="https://adrianobarbosa.xyz/teaching/2017-1-algebra_linear-civil.html" rel="alternate"></link><published>2017-05-01T00:00:00-04:00</published><updated>2017-05-01T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2017-05-01:/teaching/2017-1-algebra_linear-civil.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="grades"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;P1: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-civil-p1.pdf"&gt;Solução&lt;/a&gt;&lt;br&gt;
+P2: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-civil-p2.pdf"&gt;Solução&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Sala 255 do bloco D&lt;br&gt;
+Monitor: Lucas Dias Vieira&lt;br&gt;
+Horário: Quintas-feiras, das 7h às 11h&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="grades"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;P1: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-civil-p1.pdf"&gt;Solução&lt;/a&gt;&lt;br&gt;
+P2: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-civil-p2.pdf"&gt;Solução&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="monitoria"&gt;&lt;/a&gt;monitoria&lt;/h2&gt;
+&lt;p&gt;Sala 255 do bloco D&lt;br&gt;
+Monitor: Lucas Dias Vieira&lt;br&gt;
+Horário: Quintas-feiras, das 7h às 11h&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - &lt;strike&gt;28/06/2017&lt;/strike&gt; 05/07/2017&lt;br&gt;
+P2 - &lt;strike&gt;23/08/2017&lt;/strike&gt; 16/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 30/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 06/09/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Matrizes e determinantes. Sistemas de equações lineares. Álgebra vetorial.
+Equação da reta no plano e no espaço. Equações do plano. Transformação linear
+e matrizes. Autovalores e autove tores. Diagonalização de matrizes e
+operadores. Produto interno.  &lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações. 10.ed. Wiley, 2012.&lt;/li&gt;
+&lt;li&gt;BOLDRINI, J.L. Álgebra linear. 3.ed. São Paulo: Harbra, 1986.&lt;/li&gt;
+&lt;li&gt;LIMA, ELON LAGES. Geometria Analítica e Álgebra Linear. 2.ed. Rio de Janeiro: IMPA, 2008. 324pp.&lt;/li&gt;
+&lt;li&gt;WINTERLE, Paulo. Vetores e Geometria. São Paulo: Editora Pearson Markron Books.&lt;/li&gt;
+&lt;li&gt;BOULOS,P.; CAMARGO, I. Geometria Analítica: um tratamento vetorial. 3.ed. São Paulo: Person Makron Books do Brasil&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFRAEDO; STEINBRUCH, ALFREDO: Geometria Analítica, Editora: Person Makron Books&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFREDO; STEINBRUCH, ALFREDO: Álgebra Linear, Editora: Person Makron Books&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2017.1"></category></entry><entry><title>álgebra linear e geometria analítica - matemática</title><link href="https://adrianobarbosa.xyz/teaching/2017-1-algebra_linear-mat.html" rel="alternate"></link><published>2017-05-01T00:00:00-04:00</published><updated>2017-05-01T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2017-05-01:/teaching/2017-1-algebra_linear-mat.html</id><summary type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="grades"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;P1: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-mat-p1.pdf"&gt;Solução&lt;/a&gt;&lt;br&gt;
+P2: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-mat-p2.pdf"&gt;Solução&lt;/a&gt;&lt;br&gt;
+P2 2ª chamada: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-mat-p2-2.pdf"&gt;Prova&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;a id="exercices"&gt;&lt;/a&gt;listas&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-01.pdf"&gt;Lista 1&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-02.pdf"&gt;Lista 2&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-03.pdf"&gt;Lista 3&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-04.pdf"&gt;Lista 4&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-05.pdf"&gt;Lista 5&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-06.pdf"&gt;Lista 6&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-07.pdf"&gt;Lista 7&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-08.pdf"&gt;Lista 8&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-09.pdf"&gt;Lista 9&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-10.pdf"&gt;Lista 10&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-11.pdf"&gt;Lista 11&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-12.pdf"&gt;Lista 12&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://adrianobarbosa.xyz/listas/algebra-linear-13.pdf"&gt;Lista 13&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="grades"&gt;&lt;/a&gt;provas&lt;/h2&gt;
+&lt;p&gt;P1: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-mat-p1.pdf"&gt;Solução&lt;/a&gt;&lt;br&gt;
+P2: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-mat-p2.pdf"&gt;Solução&lt;/a&gt;&lt;br&gt;
+P2 2ª chamada: &lt;a href="https://adrianobarbosa.xyz/provas/2017-1-algebra_linear-mat-p2-2.pdf"&gt;Prova&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - 28/06/2017&lt;br&gt;
+P2 - 23/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma. Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 30/08/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 06/09/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Matrizes e determinantes. Sistemas de equações lineares. Álgebra vetorial.
+Equação da reta no plano e no espaço. Equações do plano. Transformação linear
+e matrizes. Autovalores e autove tores. Diagonalização de matrizes e
+operadores. Produto interno.  &lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações. 10.ed. Wiley, 2012.&lt;/li&gt;
+&lt;li&gt;BOLDRINI, J.L. Álgebra linear. 3.ed. São Paulo: Harbra, 1986.&lt;/li&gt;
+&lt;li&gt;LIMA, ELON LAGES. Geometria Analítica e Álgebra Linear. 2.ed. Rio de Janeiro: IMPA, 2008. 324pp.&lt;/li&gt;
+&lt;li&gt;WINTERLE, Paulo. Vetores e Geometria. São Paulo: Editora Pearson Markron Books.&lt;/li&gt;
+&lt;li&gt;BOULOS,P.; CAMARGO, I. Geometria Analítica: um tratamento vetorial. 3.ed. São Paulo: Person Makron Books do Brasil&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFRAEDO; STEINBRUCH, ALFREDO: Geometria Analítica, Editora: Person Makron Books&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFREDO; STEINBRUCH, ALFREDO: Álgebra Linear, Editora: Person Makron Books&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2017.1"></category></entry><entry><title>álgebra linear e geometria analítica - química</title><link href="https://adrianobarbosa.xyz/teaching/2016-2-algebra_linear.html" rel="alternate"></link><published>2017-02-01T00:00:00-03:00</published><updated>2017-02-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2017-02-01:/teaching/2016-2-algebra_linear.html</id><summary type="html">&lt;ul class="actions"&gt;
+&lt;!-- &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt; --&gt;
+&lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+&lt;h1 style="color: red;"&gt;AVISO: responder a P2 e entregar dia 06/04! Mais detalhes no email.&lt;/h1&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="classes"&gt;&lt;/a&gt;aulas e material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/operacoes-vetores.pdf"&gt;Propriedades das opreções com vetores&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 …&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;ul class="actions"&gt;
+&lt;!-- &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt; --&gt;
+&lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr&gt;
+&lt;h1 style="color: red;"&gt;AVISO: responder a P2 e entregar dia 06/04! Mais detalhes no email.&lt;/h1&gt;
+
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="classes"&gt;&lt;/a&gt;aulas e material complementar&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://adrianobarbosa.xyz/aulas/operacoes-vetores.pdf"&gt;Propriedades das opreções com vetores&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="exams"&gt;&lt;/a&gt;avaliação&lt;/h2&gt;
+&lt;p&gt;Serão realizadas duas provas escritas (P1 e P2), cuja média de
+aproveitamento (MA) será obtida da seguinte maneira:&lt;br&gt;
+&lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br&gt;
+&lt;strong&gt;Datas:&lt;br&gt;
+P1 - feita com professor substituto&lt;br&gt;
+P2 - 30/03/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prova Substitutiva:&lt;br&gt;
+Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de
+menor nota e substituirá a mesma.  Após todas as avaliações, o acadêmico que
+obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará
+aprovado.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Sub - 06/04/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Exame:&lt;br&gt;
+Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no
+mínimo, 75%.&lt;br&gt;
+&lt;strong&gt;Data:&lt;br&gt;
+Exame - 13/04/2017&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;a id="silabus"&gt;&lt;/a&gt;ementa&lt;/h2&gt;
+&lt;p&gt;Matrizes e determinantes. Sistemas de equações lineares. Álgebra vetorial.
+Equação da reta no plano e no espaço.  Equações do plano. Transformação linear
+e matrizes. Autovalores e autove tores. Diagonalização de matrizes e
+operadores.  Produto interno.  &lt;/p&gt;
+&lt;h3&gt;Bibliografia:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações. 10.ed. Wiley, 2012.&lt;/li&gt;
+&lt;li&gt;BOLDRINI, J.L. Álgebra linear. 3.ed. São Paulo: Harbra, 1986.&lt;/li&gt;
+&lt;li&gt;LIMA, ELON LAGES. Geometria Analítica e Álgebra Linear. 2.ed. Rio de Janeiro: IMPA, 2008. 324pp.&lt;/li&gt;
+&lt;li&gt;WINTERLE, Paulo. Vetores e Geometria. São Paulo: Editora Pearson Markron Books.&lt;/li&gt;
+&lt;li&gt;BOULOS,P.; CAMARGO, I. Geometria Analítica: um tratamento vetorial. 3.ed. São Paulo: Person Makron Books do Brasil&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFRAEDO; STEINBRUCH, ALFREDO: Geometria Analítica, Editora: Person Makron Books&lt;/li&gt;
+&lt;li&gt;STEINBRUCH, ALFREDO; STEINBRUCH, ALFREDO: Álgebra Linear, Editora: Person Makron Books&lt;/li&gt;
+&lt;/ol&gt;</content><category term="2016.2"></category></entry><entry><title>análise numérica - engenharia mecânica</title><link href="https://adrianobarbosa.xyz/teaching/2016-2-analise_num-mec.html" rel="alternate"></link><published>2016-11-01T00:00:00-03:00</published><updated>2016-11-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2016-11-01:/teaching/2016-2-analise_num-mec.html</id><summary type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;b&gt;AVISO:&lt;/b&gt; Todas as implementações disponíveis aqui estão
+            seguindo os algoritmos apresentados na bibliografia do curso, cujo objetivo não
+            obter o melhor desempenho e sim facilitar o entendimento dos métodos. Além disso, podem conter &lt;a href="https://pt.wikipedia.org/wiki/Bug" target="_blank"&gt;bugs&lt;/a&gt;, use por sua conta e risco.&lt;br&gt;&lt;br&gt;
+            Aula 1 - Erro e Algoritmos …&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;b&gt;AVISO:&lt;/b&gt; Todas as implementações disponíveis aqui estão
+            seguindo os algoritmos apresentados na bibliografia do curso, cujo objetivo não
+            obter o melhor desempenho e sim facilitar o entendimento dos métodos. Além disso, podem conter &lt;a href="https://pt.wikipedia.org/wiki/Bug" target="_blank"&gt;bugs&lt;/a&gt;, use por sua conta e risco.&lt;br&gt;&lt;br&gt;
+            Aula 1 - Erro e Algoritmos: 
+            &lt;a href="https://adrianobarbosa.xyz/aulas/01-erro-algoritmo.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/01-exemplos-algoritmo.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 2 - Método da bisseção:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/02-bissecao.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/02-bissecao.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 3 - Método de Newton:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/03-newton.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/03-newton.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 4 - Método de Horner:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/04-horner.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/04-horner.m" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 5 - Interpolação de Lagrange:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/05-lagrange.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 6 - Spline:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/06-spline.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 7 - Eliminação de Gauss:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/07-eliminacao-gauss.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/07-gauss.m" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 8 - Decomposição LU:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/08-decomposicao-lu.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/08-lu2.m" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 9 - Métodos de Jacobi e Gauss-Seidel:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/09-jacobi-gauss-seidel.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/09-jacobi-gauss_seidel.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 10 - EDO e Método de Euler:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/10-edo-euler.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/10-euler.m" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+            Aula 11 - Métodos de Runge-Kutta:
+            &lt;a href="https://adrianobarbosa.xyz/aulas/11-rk-ordem-2.pdf" class="icon fa-file-pdf-o"&gt;&lt;span class="label"&gt;pdf&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/11-rk-ordem-2.zip" class="icon fa-file-code-o"&gt;&lt;span class="label"&gt;codigo&lt;/span&gt;&lt;/a&gt;
+            &lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/erro-bissecao.pdf"&gt;Lista 1 - Erro, algoritmo e Bisseção&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/newton.pdf"&gt;Lista 2 - Método de Newton&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/horner.pdf"&gt;Lista 3 - Método de Horner&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/lagrange.pdf"&gt;Lista 4 - Interpolação de Lagrange&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/spline.pdf"&gt;Lista 5 - Spline&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas duas provas escritas (P1 e P2), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - 30/01/2017&lt;br /&gt;
+                P2 - 27/03/2017&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de menor nota e substituirá a mesma.
+            Após todas as avaliações, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado. &lt;br/&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 03/04/2017&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - 13/04/2017&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;div align="justify"&gt;Soluções de equações de uma variável. Interpolação e aproximação polinomial. Derivação e
+                integração numérica. Problemas de valor inicial para equações diferenciais ordinárias. Métodos
+                diretos para resolução de sistemas lineares. Técnicas iterativas na álgebra das matrizes. Teoria
+                da aproximação. Aproximação de autovalores. Soluções numéricas de sistemas de equações
+                não-lineares. Problemas de contorno para equações diferenciais ordinárias. Soluções numéricas
+                de equações diferenciais parciais.&lt;/div&gt;
+            &lt;br /&gt;&lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;BURDEN, R.L.; FAIRES, J.D. Análise numérica. 8a ed., São Paulo: Cengage Learning, 2008. 736p.&lt;/li&gt;
+                &lt;li&gt;BORCHE, A. Métodos numéricos. 1a ed., Porto Alegre: Ed. UFRGS, 2008. 206p.&lt;/li&gt;
+                &lt;li&gt;AYRES, Jr., F.; MENDELSON, E. Cálculo – coleção Schaum. 5a ed., Porto Alegre: Ed. Bookman (Grupo A), 2012. 544p.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2016.2"></category></entry><entry><title>cálculo 2 - matemática</title><link href="https://adrianobarbosa.xyz/teaching/2016-2-calculo2-mat.html" rel="alternate"></link><published>2016-11-01T00:00:00-03:00</published><updated>2016-11-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2016-11-01:/teaching/2016-2-calculo2-mat.html</id><summary type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas e material complementar&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/volume.pdf"&gt;Volume&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;!-- em breve... --&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais.pdf"&gt;Lista 1 - Integrais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais-sol.pdf"&gt;Respostas Lista 1 - Integrais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/substituicao.pdf"&gt;Lista 2 - Substituição&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/por-partes.pdf"&gt;Lista 3 - Integração por partes&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sub-trigonometrica.pdf"&gt;Lista 4 - Substituição trigonométrica&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/fracoes-parciais.pdf"&gt;Lista 5 - Frações Parciais&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas duas provas escritas (P1 e P2), cuja média de
+            aproveitamento (MA) será obtida da …&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas e material complementar&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/volume.pdf"&gt;Volume&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;!-- em breve... --&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais.pdf"&gt;Lista 1 - Integrais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais-sol.pdf"&gt;Respostas Lista 1 - Integrais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/substituicao.pdf"&gt;Lista 2 - Substituição&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/por-partes.pdf"&gt;Lista 3 - Integração por partes&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sub-trigonometrica.pdf"&gt;Lista 4 - Substituição trigonométrica&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/fracoes-parciais.pdf"&gt;Lista 5 - Frações Parciais&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas duas provas escritas (P1 e P2), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - 01/02/2017&lt;br /&gt;
+                P2 - 29/03/2017&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de menor nota e substituirá a mesma.
+            Após todas as avaliações, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado. &lt;br/&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 05/04/2017&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - 13/04/2017&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;div align="justify"&gt;Antiderivadas e a Integral Indefinida. Tabela Sumária de Integrais Indefinidas. Notação de Somação e
+                Área. Definição de Integral Definida. Propriedades da Integral definida. Teorema Fundamental do
+                Cálculo. Técnicas de Integração: Método de Substituição ou mudança de variáveis. Integração por
+                partes. Integração de Funções Racionais por Frações Parciais. Integrais que envolvem produtos e
+                potências de funções trigonométricas. Substituição trigonométrica. Aplicações da Integral Definida:
+                Cálculo de Áreas, Volume de Sólidos de Revolução, Trabalho e Pressão de fluidos. Integrais
+                Impróprias.&lt;/div&gt;
+            &lt;br /&gt;&lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 1 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 2 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vols.1 e 4, 5a ed. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+                &lt;li&gt;ANTON, H. Cálculo. Vol. 1,2, 8a. Edição. Editora Bookman, 2007.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2016.2"></category></entry><entry><title>cálculo 2 - engenharia mecânica</title><link href="https://adrianobarbosa.xyz/teaching/2016-2-calculo2-mec.html" rel="alternate"></link><published>2016-11-01T00:00:00-03:00</published><updated>2016-11-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2016-11-01:/teaching/2016-2-calculo2-mec.html</id><summary type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#tutor" class="button scrolly"&gt;monitoria&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/substituicao.pdf"&gt;Lista 1 - Substituição&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/substituicao-sol.pdf"&gt;Respostas Lista 1 - Substituição&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/por-partes.pdf"&gt;Lista 2 - Integração por partes&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sub-trigonometrica.pdf"&gt;Lista 3 - Substituição trigonométrica&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/fracoes-parciais.pdf"&gt;Lista 4 - Frações parciais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series.pdf"&gt;Lista 5 - Sequências e séries&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series-sol.pdf"&gt;Respostas Lista 5 - Sequências e séries&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/edo-mec.pdf"&gt;Lista 6 - Equações diferenciais&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Tutor --&gt;
+
+&lt;section id="tutor"&gt;
+    &lt;h2&gt;monitoria&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;table&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;Segunda&lt;/td&gt;
+                    &lt;td&gt;Terça&lt;/td&gt;
+                    &lt;td&gt;Quarta&lt;/td&gt;
+                    &lt;td&gt;Quinta&lt;/td&gt;
+                    &lt;td&gt;Sexta&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;7h20 - 11h20&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;FACALE, Sala …&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#tutor" class="button scrolly"&gt;monitoria&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/substituicao.pdf"&gt;Lista 1 - Substituição&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/substituicao-sol.pdf"&gt;Respostas Lista 1 - Substituição&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/por-partes.pdf"&gt;Lista 2 - Integração por partes&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sub-trigonometrica.pdf"&gt;Lista 3 - Substituição trigonométrica&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/fracoes-parciais.pdf"&gt;Lista 4 - Frações parciais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series.pdf"&gt;Lista 5 - Sequências e séries&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series-sol.pdf"&gt;Respostas Lista 5 - Sequências e séries&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/edo-mec.pdf"&gt;Lista 6 - Equações diferenciais&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Tutor --&gt;
+
+&lt;section id="tutor"&gt;
+    &lt;h2&gt;monitoria&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;table&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;Segunda&lt;/td&gt;
+                    &lt;td&gt;Terça&lt;/td&gt;
+                    &lt;td&gt;Quarta&lt;/td&gt;
+                    &lt;td&gt;Quinta&lt;/td&gt;
+                    &lt;td&gt;Sexta&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;7h20 - 11h20&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;FACALE, Sala 6&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;12h - 13h&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 9&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 11&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 9&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 9&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;13h - 15h&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 9&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;17h - 19h&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 9&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 9&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 9&lt;/td&gt;
+                    &lt;td&gt;Bloco C, Sala 9&lt;/td&gt;
+                    &lt;td&gt;&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - 03/02/2017&lt;br /&gt;
+                P2 - &lt;strike&gt;07/03/2017&lt;/strike&gt; 10/03/2017&lt;br /&gt;
+                P3 - 31/03/2017&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de menor nota e substituirá a mesma.
+            Após todas as avaliações, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado. &lt;br/&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 07/04/2017&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - 13/04/2017&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula de Taylor.
+            Série de potências. Equações diferenciais de 1a ordem e aplicações. Equações diferenciais lineares.
+            Equações diferenciais lineares de 2a ordem e aplicações.
+            &lt;br /&gt;&lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 1 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 2 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vols.1 e 4, 5a ed. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+                &lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2016.2"></category></entry><entry><title>cálculo 2 - engenharia de computação</title><link href="https://adrianobarbosa.xyz/teaching/2016-1-calculo2-comp.html" rel="alternate"></link><published>2016-06-01T00:00:00-04:00</published><updated>2016-06-01T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2016-06-01:/teaching/2016-1-calculo2-comp.html</id><summary type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - 03 de Agosto&lt;br /&gt;
+                P2 - 31 de Agosto&lt;br /&gt;
+                P3 - 28 de Setembro&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual abrangerá o …&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - 03 de Agosto&lt;br /&gt;
+                P2 - 31 de Agosto&lt;br /&gt;
+                P3 - 28 de Setembro&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de menor nota e substituirá a mesma.
+            Após todas as avaliações, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado. &lt;br/&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 05 de Outubro&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame o acadêmico que alcançar MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - &lt;strike&gt;13 de Outubro&lt;/strike&gt; 14 de Outubro&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula de Taylor.
+            Série de potências. Equações diferenciais de 1a ordem e aplicações. Equações diferenciais lineares.
+            Equações diferenciais lineares de 2a ordem e aplicações.
+            &lt;br /&gt;&lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 1 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 2 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vols.1 e 4, 5a ed. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+                &lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2016.1"></category></entry><entry><title>cálculo 3 - engenharia de energia</title><link href="https://adrianobarbosa.xyz/teaching/2016-1-calculo3-energ.html" rel="alternate"></link><published>2016-06-01T00:00:00-04:00</published><updated>2016-06-01T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2016-06-01:/teaching/2016-1-calculo3-energ.html</id><summary type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;header class="major"&gt;
+        &lt;h2&gt;&lt;a href="/ensino"&gt;ensino&lt;/a&gt;&lt;/h2&gt;
+    &lt;/header&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integral-dupla-tripla.pdf"&gt;Lista 1 - Integral dupla e tripla&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/mudanca-variaveis.pdf"&gt;Lista 2 - Mudança de variáveis&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integral-linha.pdf"&gt;Lista 3 - Integral de linha&lt;/a&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="aulas/integral-dupla.pdf"&gt;Integral dupla&lt;/a&gt;
+        &lt;/article&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Integral tripla:&lt;br&gt;
+            Estudar os exemplos 1, 2, 3 e 4 da seção 15.7&lt;br&gt;
+            Os três vídeos podem ser úteis como material complementar:
+            &lt;a href="https://www.youtube.com/watch?v=AHibqQhnsUg" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://www.youtube.com/watch?v=rOy9OGw344s" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video2 …&lt;/span&gt;&lt;/a&gt;&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;header class="major"&gt;
+        &lt;h2&gt;&lt;a href="/ensino"&gt;ensino&lt;/a&gt;&lt;/h2&gt;
+    &lt;/header&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integral-dupla-tripla.pdf"&gt;Lista 1 - Integral dupla e tripla&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/mudanca-variaveis.pdf"&gt;Lista 2 - Mudança de variáveis&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integral-linha.pdf"&gt;Lista 3 - Integral de linha&lt;/a&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="aulas/integral-dupla.pdf"&gt;Integral dupla&lt;/a&gt;
+        &lt;/article&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Integral tripla:&lt;br&gt;
+            Estudar os exemplos 1, 2, 3 e 4 da seção 15.7&lt;br&gt;
+            Os três vídeos podem ser úteis como material complementar:
+            &lt;a href="https://www.youtube.com/watch?v=AHibqQhnsUg" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://www.youtube.com/watch?v=rOy9OGw344s" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://www.youtube.com/watch?v=D_g2DAGa_cQ" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video3&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
+            A lista com todos os vídeos do curso está disponível &lt;a
+                href="https://www.youtube.com/playlist?list=PLxI8Can9yAHdSstaijzbnJp405wWmRLnD"
+                target="_blank"&gt;aqui&lt;/a&gt;.
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas duas provas escritas (P1 e P2), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - &lt;strike&gt;05 de Agosto&lt;/strike&gt; 12 de Agosto&lt;br /&gt;
+                P2 - 30 de Setembro&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de menor nota e substituirá a mesma.
+            Após todas as avaliações, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado. &lt;br/&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 07 de Outubro&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame o acadêmico que alcançar MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - 14 de Outubro&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos. Fórmula de Taylor.
+            Multiplicadores de Lagrange. Integral dupla. Integral tripla. Mudança de coordenadas. Integral de Linha.
+            Teorema de Green.
+            &lt;br /&gt;&lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+                &lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. 5. ed. Rio de Janeiro, RJ: LTC, 2015. v.3.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. 5. ed. Rio de Janeiro, RJ: LTC, 2014. v.2p.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2016.1"></category></entry><entry><title>cálculo 3 - engenharia mecânica</title><link href="https://adrianobarbosa.xyz/teaching/2016-1-calculo3-mec.html" rel="alternate"></link><published>2016-06-01T00:00:00-04:00</published><updated>2016-06-01T00:00:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2016-06-01:/teaching/2016-1-calculo3-mec.html</id><summary type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;header class="major"&gt;
+        &lt;h2&gt;&lt;a href="/ensino"&gt;ensino&lt;/a&gt;&lt;/h2&gt;
+    &lt;/header&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integral-dupla-tripla.pdf"&gt;Lista 1 - Integral dupla e tripla&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/mudanca-variaveis.pdf"&gt;Lista 2 - Mudança de variáveis&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integral-linha.pdf"&gt;Lista 3 - Integral de linha&lt;/a&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/integral-dupla.pdf"&gt;Integral dupla&lt;/a&gt;
+        &lt;/article&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Integral tripla:&lt;br&gt;
+            Estudar os exemplos 1, 2, 3 e 4 da seção 15.7&lt;br&gt;
+            Os três vídeos podem ser úteis como material complementar:
+            &lt;a href="https://www.youtube.com/watch?v=AHibqQhnsUg" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://www.youtube.com/watch?v=rOy9OGw344s" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video2 …&lt;/span&gt;&lt;/a&gt;&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;header class="major"&gt;
+        &lt;h2&gt;&lt;a href="/ensino"&gt;ensino&lt;/a&gt;&lt;/h2&gt;
+    &lt;/header&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#classes" class="button scrolly"&gt;aulas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integral-dupla-tripla.pdf"&gt;Lista 1 - Integral dupla e tripla&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/mudanca-variaveis.pdf"&gt;Lista 2 - Mudança de variáveis&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integral-linha.pdf"&gt;Lista 3 - Integral de linha&lt;/a&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Classes --&gt;
+
+&lt;section id="classes"&gt;
+    &lt;h2&gt;aulas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/aulas/integral-dupla.pdf"&gt;Integral dupla&lt;/a&gt;
+        &lt;/article&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Integral tripla:&lt;br&gt;
+            Estudar os exemplos 1, 2, 3 e 4 da seção 15.7&lt;br&gt;
+            Os três vídeos podem ser úteis como material complementar:
+            &lt;a href="https://www.youtube.com/watch?v=AHibqQhnsUg" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://www.youtube.com/watch?v=rOy9OGw344s" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="https://www.youtube.com/watch?v=D_g2DAGa_cQ" target="_blank" class="icon fa-video-camera"&gt;&lt;span class="label"&gt;video3&lt;/span&gt;&lt;/a&gt;&lt;br&gt;
+            A lista com todos os vídeos do curso está disponível &lt;a
+                href="https://www.youtube.com/playlist?list=PLxI8Can9yAHdSstaijzbnJp405wWmRLnD"
+                target="_blank"&gt;aqui&lt;/a&gt;.
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas duas provas escritas (P1 e P2), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2) / 2&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - &lt;strike&gt;04 de Agosto&lt;/strike&gt; 09 de Agosto&lt;br /&gt;
+                P2 - 29 de Setembro&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual abrangerá o conteúdo da avaliação de menor nota e substituirá a mesma.
+            Após todas as avaliações, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75% estará aprovado. &lt;br/&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 06 de Outubro&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame o acadêmico que alcançar MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 (seis) e frequência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - 13 de Outubro&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Funções de várias variáveis reais. Diferenciabilidade. Máximos e mínimos. Fórmula de Taylor.
+            Multiplicadores de Lagrange. Integral dupla. Integral tripla. Mudança de coordenadas. Integral de Linha.
+            Teorema de Green.
+            &lt;br /&gt;&lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;STEWART, James. Cálculo. 7. ed. São Paulo, SP: Cengage Learning, 2013. v.2.&lt;/li&gt;
+                &lt;li&gt;ANTON, Howard; DAVIS, Stephen; BIVENS, Irl. Cálculo . 8. ed. Porto Alegre, RS: Bookman, 2007. v.2.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. 5. ed. Rio de Janeiro, RJ: LTC, 2015. v.3.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. 5. ed. Rio de Janeiro, RJ: LTC, 2014. v.2p.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2016.1"></category></entry><entry><title>álgebra linear e geometria analítica - engenharia mecânica</title><link href="https://adrianobarbosa.xyz/teaching/2015-2-algebra_linear-mec.html" rel="alternate"></link><published>2015-12-01T00:00:00-03:00</published><updated>2015-12-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2015-12-01:/teaching/2015-2-algebra_linear-mec.html</id><summary type="html">&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/matrizes-e-sistemas_lineares.pdf"&gt;Lista1 - Matrizes e sistemas lineares&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/matrizes-e-sistemas_lineares-sol.pdf"&gt;Lista1 - Matrizes e sistemas lineares (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/vetores-reta-plano.pdf"&gt;Lista2 - Vetores e eq. da reta e do plano&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/espaco-vetorial_transf-linear.pdf"&gt;Lista3 - Espaços vetoriais e transformações lineares&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira …&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/matrizes-e-sistemas_lineares.pdf"&gt;Lista1 - Matrizes e sistemas lineares&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/matrizes-e-sistemas_lineares-sol.pdf"&gt;Lista1 - Matrizes e sistemas lineares (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/vetores-reta-plano.pdf"&gt;Lista2 - Vetores e eq. da reta e do plano&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/espaco-vetorial_transf-linear.pdf"&gt;Lista3 - Espaços vetoriais e transformações lineares&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - 18 de Fevereiro&lt;br /&gt;
+                P2 - 04 de Abril&lt;br /&gt;
+                P3 - 05 de Maio&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual substituirá a prova de menor nota.
+            A prova substitutiva abrangerá todo o conteúdo da disciplina ministrado no
+            semestre letivo. Quem obter MA maior ou igual a 6,0 (seis) e frequência de,
+            no mínimo, 75% estará aprovado.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 12 de Maio&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - 19 de Maio&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Matrizes e determinantes. Sistemas de equações lineares. Álgebra vetorial. Equação da reta no plano e no espaço.
+            Equações do plano. Transformação linear e matrizes. Autovalores e autove tores. Diagonalização de matrizes e operadores.
+            Produto interno.&lt;br /&gt;
+            &lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;BOLDRINI, J.L. Álgebra linear. 3.ed. São Paulo: Harbra, 1986.&lt;/li&gt;
+                &lt;li&gt;LIMA, ELON LAGES. Geometria Analítica e Álgebra Linear. 2.ed. Rio de Janeiro: IMPA, 2008. 324pp.&lt;/li&gt;
+                &lt;li&gt;WINTERLE, Paulo. Vetores e Geometria. São Paulo: Editora Pearson Markron Books.&lt;/li&gt;
+                &lt;li&gt;BOULOS,P.; CAMARGO, I. Geometria Analítica: um tratamento vetorial. 3.ed. São Paulo: Person Makron Books do Brasil&lt;/li&gt;
+                &lt;li&gt;STEINBRUCH, ALFRAEDO; STEINBRUCH, ALFREDO: Geometria Analítica, Editora: Person Makron Books&lt;/li&gt;
+                &lt;li&gt;STEINBRUCH, ALFREDO; STEINBRUCH, ALFREDO: Álgebra Linear, Editora: Person Makron Books&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2015.2"></category></entry><entry><title>cálculo 2 - engenharia de alimentos</title><link href="https://adrianobarbosa.xyz/teaching/2015-2-calculo2-alim.html" rel="alternate"></link><published>2015-12-01T00:00:00-03:00</published><updated>2015-12-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2015-12-01:/teaching/2015-2-calculo2-alim.html</id><summary type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais.pdf"&gt;Lista 1 - Integrais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais-sol.pdf"&gt;Lista 1 - Integrais (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series.pdf"&gt;Lista 2 - Sequências e séries&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series-sol.pdf"&gt;Lista 2 - Sequências e séries (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/edo-alim.pdf"&gt;Lista 3 - Equações diferenciais&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2 + P3 …&lt;/code&gt;&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais.pdf"&gt;Lista 1 - Integrais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais-sol.pdf"&gt;Lista 1 - Integrais (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series.pdf"&gt;Lista 2 - Sequências e séries&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series-sol.pdf"&gt;Lista 2 - Sequências e séries (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/edo-alim.pdf"&gt;Lista 3 - Equações diferenciais&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - 01 de Março&lt;br /&gt;
+                P2 - 05 de Abril&lt;br /&gt;
+                P3 - 05 de Maio&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual substituirá a prova de menor nota.
+            A prova substitutiva abrangerá todo o conteúdo da disciplina ministrado no
+            semestre letivo. Quem obter MA maior ou igual a 6,0 (seis) e frequência de,
+            no mínimo, 75% estará aprovado.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 12 de Maio&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - 19 de Maio&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula de Taylor.
+            Série de potências. Equações diferenciais de 1a ordem e aplicações. Equações diferenciais lineares.
+            Equações diferenciais lineares de 2a ordem e aplicações.
+            &lt;br /&gt;&lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 1 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 2 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vols.1 e 4, 5a ed. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+                &lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2015.2"></category></entry><entry><title>cálculo 2 - engenharia mecânica</title><link href="https://adrianobarbosa.xyz/teaching/2015-2-calculo2-mec.html" rel="alternate"></link><published>2015-12-01T00:00:00-03:00</published><updated>2015-12-01T00:00:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2015-12-01:/teaching/2015-2-calculo2-mec.html</id><summary type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais.pdf"&gt;Lista 1 - Integrais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais-sol.pdf"&gt;Lista 1 - Integrais (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series.pdf"&gt;Lista 2 - Sequências e séries&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series-sol.pdf"&gt;Lista 2 - Sequências e séries (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/edo-mec.pdf"&gt;Lista 3 - Equações diferenciais&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2 + P3 …&lt;/code&gt;&lt;/article&gt;&lt;/div&gt;&lt;/section&gt;</summary><content type="html">&lt;!-- Header --&gt;
+
+&lt;section&gt;
+    &lt;ul class="actions"&gt;
+        &lt;li&gt;&lt;a href="#exercises" class="button scrolly"&gt;listas&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#exams" class="button scrolly"&gt;avaliação&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#silabus" class="button scrolly"&gt;ementa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/section&gt;
+
+&lt;!-- Exercises --&gt;
+
+&lt;section id="exercises"&gt;
+    &lt;h2&gt;listas&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais.pdf"&gt;Lista 1 - Integrais&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/integrais-sol.pdf"&gt;Lista 1 - Integrais (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series.pdf"&gt;Lista 2 - Sequências e séries&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/sequencias-series-sol.pdf"&gt;Lista 2 - Sequências e séries (respostas)&lt;/a&gt;&lt;br&gt;
+            &lt;a href="https://adrianobarbosa.xyz/listas/edo-mec.pdf"&gt;Lista 3 - Equações diferenciais&lt;/a&gt;&lt;br&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Exams --&gt;
+
+&lt;section id="exams"&gt;
+    &lt;h2&gt;avaliação&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Serão realizadas três provas escritas (P1, P2 e P3), cuja média de
+            aproveitamento (MA) será obtida da seguinte maneira:&lt;br /&gt;
+            &lt;code&gt;MA = (P1 + P2 + P3) / 3&lt;/code&gt;&lt;br /&gt;
+            &lt;b&gt;Datas:&lt;br /&gt;
+                P1 - 01 de Março&lt;br /&gt;
+                P2 - 05 de Abril&lt;br /&gt;
+                P3 - 06 de Maio&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Prova Substitutiva:&lt;br /&gt;
+            Haverá uma prova substitutiva, a qual substituirá a prova de menor nota.
+            A prova substitutiva abrangerá todo o conteúdo da disciplina ministrado no
+            semestre letivo. Quem obter MA maior ou igual a 6,0 (seis) e frequência de,
+            no mínimo, 75% estará aprovado.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Sub - 13 de Maio&lt;/b&gt;&lt;br /&gt;
+            &lt;br /&gt;
+            Exame:&lt;br /&gt;
+            Terá direito ao exame quem tiver MA maior ou igual a 4,0 (quatro) e será
+            aprovado se a nota do exame for maior ou igual a 6,0 e freqüência de, no mínimo, 75%.&lt;br /&gt;
+            &lt;b&gt;Data:&lt;br /&gt;
+                Exame - 20 de Maio&lt;/b&gt;&lt;br /&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;!-- Silabus --&gt;
+
+&lt;section id="silabus"&gt;
+    &lt;h2&gt;ementa&lt;/h2&gt;
+    &lt;div class="row"&gt;
+        &lt;article class="12u 12u$(xsmall) work-item"&gt;
+            Técnicas de Integração. Integrais impróprias. Seqüências e séries infinitas. Fórmula de Taylor.
+            Série de potências. Equações diferenciais de 1a ordem e aplicações. Equações diferenciais lineares.
+            Equações diferenciais lineares de 2a ordem e aplicações.
+            &lt;br /&gt;&lt;br /&gt;
+            &lt;h3&gt;Bibliografia:&lt;/h3&gt;
+            &lt;ol&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 1 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;SETEWART. James. Cálculo - Vol. 2 - 6 Ed. Editora: Cengage Learning.&lt;/li&gt;
+                &lt;li&gt;GUIDORIZZI, H. L. Um Curso de Cálculo. Vols.1 e 4, 5a ed. Rio de Janeiro: LTC, 2002.&lt;/li&gt;
+                &lt;li&gt;BOYCE, W.E.; DI PRIMA, R.C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8a ed. Rio de Janeiro. LTC. 2006.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/article&gt;
+    &lt;/div&gt;
+&lt;/section&gt;</content><category term="2015.2"></category></entry></feed>

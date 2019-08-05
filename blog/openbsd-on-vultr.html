@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en">
+	<head>
+		<title>Running OpenBSD on Vultr, check your clock! - Prof. Adriano Barbosa</title>
+		<meta charset="utf-8" />
+        <!--<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; script-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none';">-->
+		<link rel="icon" type="image/ico" href="https://adrianobarbosa.xyz/images/favico.ico">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/all.atom.xml" title="Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/publications.atom.xml" title="Publications - Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/teaching.atom.xml" title="Teaching - Prof. Adriano Barbosa">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="https://adrianobarbosa.xyz/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://adrianobarbosa.xyz/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="https://adrianobarbosa.xyz/assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Header -->
+		<header id="header">
+			<a href="https://adrianobarbosa.xyz/" class="image avatar scrolly"><img src="https://adrianobarbosa.xyz/images/avatar.png" alt="" /></a>
+			<h1><strong>I am Adriano</strong>,
+				professor at <a href="https://portal.ufgd.edu.br/faculdade/facet/index" target="_blank">UFGD</a>
+			</h1>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> Running OpenBSD on Vultr, check your clock!</h2>
+       <p>comp<br>
+    publication: November 06 2018 16:40<br>
+    last update: November 06 2018 16:40</p>
+<section id="blog">
+	<p>Recently I noticed a problem with the clock on my OpenBSD virtual machine
+running on Vultr. The clock on the virtual machine was off by days frequently.
+Investigating the problem, I noticed that <code>top</code> was not updating the
+information each 5s as it should and <code>sleep 1</code> was taking more than 1s to run.</p>
+<p>After some research, Google lead me to this <a href="https://www.reddit.com/r/openbsd/comments/7yg56t/have_openbsd_in_vultr_check_your_clock/">Reddit
+post</a>.</p>
+<p>The problem is related with some configuration on the virtualization software
+Vultr uses. After calling the support, they fixed it for me <strong>very fast</strong>!</p>
+<p>As I'm a n00b, <strong>it was my fault</strong>... I decided to install my virtual machine
+as a custom OS using an uploaded image of OpenBSD while Vultr provides an
+OpenBSD virtual machine wich runs without this problem as described by their
+support "deploying with one of our images from the Vultr control panel would
+automatically apply the necessary adjustments".</p>
+</section>
+
+			<!-- Contact -->
+			<section id="contact">
+				<h2>get in touch</h2>
+				<ul class="labeled-icons">
+					<li><h3 class="icon fa-envelope-o"><span class="label">Email</span></h3><a href="mailto:hi@adrianobarbosa.xyz">hi@adrianobarbosa.xyz</a></li>
+				</ul>
+			</section>
+		</div>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="icons">
+					<li><a href="/feeds/all.atom.xml" target="_blank" class="icon fa-feed"><span class="label">feed</span></a></li>
+					<li><a href="http://github.com/barbosaaob" target="_blank" class="icon fa-github"><span class="label">github</span></a></li>
+					<li><a href="mailto:hi@adrianobarbosa.xyz" target="_blank" class="icon fa-email"><span class="label">email</span></a></li>
+			</ul>
+			<ul class="copyright">
+				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li>Background: <a href="http://unsplash.com" target="_blank">Unsplash</a></li>
+				<li>Generated with <a href="http://blog.getpelican.com/" target="_blank">Pelican</a></li>
+			</ul>
+		</footer>
+
+		<!-- Scripts -->
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.poptrox.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.scrolly.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/arrow.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/skel.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="https://adrianobarbosa.xyz/assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="https://adrianobarbosa.xyz/assets/js/main.js"></script>
+	</body>
+</html>

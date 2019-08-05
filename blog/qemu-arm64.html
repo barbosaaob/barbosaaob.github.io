@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="en">
+	<head>
+		<title>OpenBSD 6.5 arm64 (aarch64) on QEMU - Prof. Adriano Barbosa</title>
+		<meta charset="utf-8" />
+        <!--<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; script-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none';">-->
+		<link rel="icon" type="image/ico" href="https://adrianobarbosa.xyz/images/favico.ico">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/all.atom.xml" title="Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/publications.atom.xml" title="Publications - Prof. Adriano Barbosa">
+		<link rel="alternate" type="application/rss+xml" href="https://adrianobarbosa.xyz/feeds/teaching.atom.xml" title="Teaching - Prof. Adriano Barbosa">
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="https://adrianobarbosa.xyz/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://adrianobarbosa.xyz/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="https://adrianobarbosa.xyz/assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Header -->
+		<header id="header">
+			<a href="https://adrianobarbosa.xyz/" class="image avatar scrolly"><img src="https://adrianobarbosa.xyz/images/avatar.png" alt="" /></a>
+			<h1><strong>I am Adriano</strong>,
+				professor at <a href="https://portal.ufgd.edu.br/faculdade/facet/index" target="_blank">UFGD</a>
+			</h1>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> OpenBSD 6.5 arm64 (aarch64) on QEMU</h2>
+       <p>comp<br>
+    publication: May 19 2019 17:02<br>
+    last update: May 20 2019 20:20</p>
+<section id="blog">
+	<h2>Using OpenBSD 6.5 arm64 (aarch64) on QEMU</h2>
+<p>Install QEMU</p>
+<div class="highlight"><pre><span></span><span class="n">doas</span> <span class="n">pkg_add</span> <span class="n">qemu</span>
+</pre></div>
+
+
+<p>Download QEMU EFI</p>
+<div class="highlight"><pre><span></span><span class="n">ftp</span> <span class="n">http</span><span class="p">:</span><span class="o">//</span><span class="n">releases</span><span class="p">.</span><span class="n">linaro</span><span class="p">.</span><span class="n">org</span><span class="o">/</span><span class="n">components</span><span class="o">/</span><span class="n">kernel</span><span class="o">/</span><span class="n">uefi</span><span class="o">-</span><span class="n">linaro</span><span class="o">/</span><span class="n">latest</span><span class="o">/</span><span class="n">release</span><span class="o">/</span><span class="n">qemu64</span><span class="o">/</span><span class="n">QEMU_EFI</span><span class="p">.</span><span class="n">fd</span>
+</pre></div>
+
+
+<p>Download OpenBSD 6.5 arm64 install media</p>
+<div class="highlight"><pre><span></span><span class="n">ftp</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">cdn</span><span class="p">.</span><span class="n">openbsd</span><span class="p">.</span><span class="n">org</span><span class="o">/</span><span class="n">pub</span><span class="o">/</span><span class="n">OpenBSD</span><span class="o">/</span><span class="mi">6</span><span class="p">.</span><span class="mi">5</span><span class="o">/</span><span class="n">arm64</span><span class="o">/</span><span class="n">miniroot65</span><span class="p">.</span><span class="n">fs</span>
+</pre></div>
+
+
+<p>Create the disk image</p>
+<div class="highlight"><pre><span></span><span class="n">qemu</span><span class="o">-</span><span class="n">img</span> <span class="k">create</span> <span class="o">-</span><span class="n">f</span> <span class="n">qcow2</span> <span class="n">obsd</span><span class="o">-</span><span class="n">arm64</span><span class="p">.</span><span class="n">qcow2</span> <span class="mi">10</span><span class="k">G</span>
+</pre></div>
+
+
+<p>Start the virtual machine</p>
+<div class="highlight"><pre><span></span><span class="nv">qemu</span><span class="o">-</span><span class="nv">system</span><span class="o">-</span><span class="nv">aarch64</span> \
+<span class="o">-</span><span class="nv">M</span> <span class="nv">virt</span> \
+<span class="o">-</span><span class="nv">m</span> <span class="mi">512</span> \
+<span class="o">-</span><span class="nv">cpu</span> <span class="nv">cortex</span><span class="o">-</span><span class="nv">a57</span> \
+<span class="o">-</span><span class="nv">bios</span> <span class="nv">QEMU_EFI</span>.<span class="nv">fd</span> \
+<span class="o">-</span><span class="nv">drive</span> <span class="nv">file</span><span class="o">=</span><span class="nv">miniroot65</span>.<span class="nv">fs</span>,<span class="nv">format</span><span class="o">=</span><span class="nv">raw</span>,<span class="nv">id</span><span class="o">=</span><span class="nv">drive1</span> \
+<span class="o">-</span><span class="nv">drive</span> <span class="nv">file</span><span class="o">=</span><span class="nv">obsd</span><span class="o">-</span><span class="nv">arm64</span>.<span class="nv">qcow2</span>,<span class="k">if</span><span class="o">=</span><span class="nv">none</span>,<span class="nv">id</span><span class="o">=</span><span class="nv">drive0</span>,<span class="nv">format</span><span class="o">=</span><span class="nv">qcow2</span> \
+<span class="o">-</span><span class="nv">device</span> <span class="nv">virtio</span><span class="o">-</span><span class="nv">blk</span><span class="o">-</span><span class="nv">device</span>,<span class="nv">drive</span><span class="o">=</span><span class="nv">drive0</span> \
+<span class="o">-</span><span class="nv">nographic</span> \
+<span class="o">-</span><span class="nv">serial</span> <span class="nv">tcp</span>::<span class="mi">4450</span>,<span class="nv">server</span>,<span class="nv">telnet</span>,<span class="k">wait</span>
+</pre></div>
+
+
+<p>In another terminal, connect to the virtual machine serial console</p>
+<div class="highlight"><pre><span></span><span class="n">telnet</span> <span class="n">localhost</span> <span class="mi">4450</span>
+</pre></div>
+
+
+<p>Follow OpenBSD install and finish the installation.</p>
+<p>From now on we can start the virtual machine without the install media</p>
+<div class="highlight"><pre><span></span><span class="nv">qemu</span><span class="o">-</span><span class="nv">system</span><span class="o">-</span><span class="nv">aarch64</span> \
+<span class="o">-</span><span class="nv">M</span> <span class="nv">virt</span> \
+<span class="o">-</span><span class="nv">m</span> <span class="mi">512</span> \
+<span class="o">-</span><span class="nv">cpu</span> <span class="nv">cortex</span><span class="o">-</span><span class="nv">a57</span> \
+<span class="o">-</span><span class="nv">bios</span> <span class="nv">QEMU_EFI</span>.<span class="nv">fd</span> \
+<span class="o">-</span><span class="nv">drive</span> <span class="nv">file</span><span class="o">=</span><span class="nv">obsd</span><span class="o">-</span><span class="nv">arm64</span>.<span class="nv">qcow2</span>,<span class="k">if</span><span class="o">=</span><span class="nv">none</span>,<span class="nv">id</span><span class="o">=</span><span class="nv">drive0</span>,<span class="nv">format</span><span class="o">=</span><span class="nv">qcow2</span> \
+<span class="o">-</span><span class="nv">device</span> <span class="nv">virtio</span><span class="o">-</span><span class="nv">blk</span><span class="o">-</span><span class="nv">device</span>,<span class="nv">drive</span><span class="o">=</span><span class="nv">drive0</span> \
+<span class="o">-</span><span class="nv">nographic</span> \
+<span class="o">-</span><span class="nv">serial</span> <span class="nv">tcp</span>::<span class="mi">4450</span>,<span class="nv">server</span>,<span class="nv">telnet</span>,<span class="k">wait</span>
+</pre></div>
+
+
+<p>Source: https://cryogenix.net/OpenBSD_arm64_qemu.html</p>
+</section>
+
+			<!-- Contact -->
+			<section id="contact">
+				<h2>get in touch</h2>
+				<ul class="labeled-icons">
+					<li><h3 class="icon fa-envelope-o"><span class="label">Email</span></h3><a href="mailto:hi@adrianobarbosa.xyz">hi@adrianobarbosa.xyz</a></li>
+				</ul>
+			</section>
+		</div>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="icons">
+					<li><a href="/feeds/all.atom.xml" target="_blank" class="icon fa-feed"><span class="label">feed</span></a></li>
+					<li><a href="http://github.com/barbosaaob" target="_blank" class="icon fa-github"><span class="label">github</span></a></li>
+					<li><a href="mailto:hi@adrianobarbosa.xyz" target="_blank" class="icon fa-email"><span class="label">email</span></a></li>
+			</ul>
+			<ul class="copyright">
+				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				<li>Background: <a href="http://unsplash.com" target="_blank">Unsplash</a></li>
+				<li>Generated with <a href="http://blog.getpelican.com/" target="_blank">Pelican</a></li>
+			</ul>
+		</footer>
+
+		<!-- Scripts -->
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.poptrox.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/jquery.scrolly.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/arrow.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/skel.min.js"></script>
+		<script src="https://adrianobarbosa.xyz/assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="https://adrianobarbosa.xyz/assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="https://adrianobarbosa.xyz/assets/js/main.js"></script>
+	</body>
+</html>
