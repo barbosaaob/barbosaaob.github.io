@@ -2,7 +2,11 @@ title: Compile Nextcloud client on OpenBSD 6.3
 category: blog
 tags: comp
 date: 2018-06-06 16:23
-modified: 2018-06-06 17:50
+modified: 2019-11-19 07:58:15
+
+nextcloudclient is now available on OpenBSD ports tree \o/
+[(discussion on miling list)](https://marc.info/?l=openbsd-ports&w=2&r=1&s=nextcloudclient&q=b)
+
 
 Installing dependencies (other dependencies are dependencies of those packages):
 
