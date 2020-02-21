@@ -6,7 +6,7 @@
 -->
 <html lang="en">
 	<head>
-		<title>Prof. Adriano Barbosa</title>
+		<title>Installing scipy and sklearn on OpenBSD using pip - Prof. Adriano Barbosa</title>
 		<meta charset="utf-8" />
         <!--<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; script-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none';">-->
 		<link rel="icon" type="image/ico" href="https://adrianobarbosa.xyz/images/favico.ico">
@@ -30,24 +30,32 @@
 
 		<!-- Main -->
 		<div id="main">
-			<!-- Menu -->
-			<section id="menu">
-				<ul class="actions">
-					<li><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4261539J3" target="_blank" class="button">lattes cv</a></li>
-							<li><a href="https://adrianobarbosa.xyz/category/blog.html" class="button scrolly">blog</a></li>
-							<li><a href="https://adrianobarbosa.xyz/category/publications.html" class="button scrolly">publications</a></li>
-							<li><a href="https://adrianobarbosa.xyz/category/teaching.html" class="button scrolly">teaching</a></li>
-					<!-- <li><a href="https://adrianobarbosa.xyz/blog" class="button scrolly">blog</a></li> -->
-				</ul>
-			</section>
 
-<section id="math">
-	<h2>math</h2>
-		<div class="row">
-			<article class="work-item">
-				<h3><a href="https://adrianobarbosa.xyz/blog/determinando-o-preco-de-um-produto.html">Determinando o preço de um produto</a></h3>
-			</article>
-		</div>
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> Installing scipy and sklearn on OpenBSD using pip</h2>
+       <p>comp<br>
+    publication: November 19 2019 07:59<br>
+    last update: November 19 2019 07:59</p>
+<section id="blog">
+	<p>Before we begin, both are available from OpenBSD ports tree! But if you need to
+compile them for any purpose, you can use the following.</p>
+<p>scipy needs Fortran compiler and Lapack</p>
+<div class="highlight"><pre><span></span><span class="n">doas</span> <span class="n">pkg_add</span> <span class="n">g95</span> <span class="n">lapack</span>
+<span class="n">ln</span> <span class="o">-</span><span class="n">s</span> <span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="k">local</span><span class="o">/</span><span class="n">bin</span><span class="o">/</span><span class="n">egfortran</span> <span class="o">~/</span><span class="n">bin</span><span class="o">/</span><span class="n">f95</span>
+<span class="n">pip</span> <span class="n">install</span> <span class="c1">--user scipy</span>
+</pre></div>
+
+
+<p>sklearn needs to be built <a href="https://github.com/scikit-learn/scikit-learn/issues/14332">from source without
+OpenMP</a>. <a href="https://github.com/scikit-learn/scikit-learn/releases">Download
+from GitHub</a>.</p>
+<div class="highlight"><pre><span></span><span class="n">pip</span> <span class="n">install</span> <span class="c1">--user Cython</span>
+<span class="n">cd</span> <span class="o">~/</span><span class="p">.</span><span class="k">local</span><span class="o">/</span><span class="n">lib</span><span class="o">/</span><span class="n">python3</span><span class="p">.</span><span class="mi">7</span><span class="o">/</span><span class="n">site</span><span class="o">-</span><span class="n">packages</span>
+<span class="n">tar</span> <span class="n">zxf</span> <span class="o">~/</span><span class="n">Downloads</span><span class="o">/</span><span class="n">scikit</span><span class="o">-</span><span class="n">learn</span><span class="o">-</span><span class="mi">0</span><span class="p">.</span><span class="mi">20</span><span class="p">.</span><span class="mi">4</span><span class="p">.</span><span class="n">tar</span><span class="p">.</span><span class="n">gz</span>
+<span class="n">cd</span> <span class="n">scikit</span><span class="o">-</span><span class="n">learn</span><span class="o">-</span><span class="mi">0</span><span class="p">.</span><span class="mi">20</span><span class="p">.</span><span class="mi">4</span>
+<span class="n">export</span> <span class="n">SKLEARN_NO_OPENMP</span><span class="o">=</span><span class="k">TRUE</span>
+<span class="n">python</span> <span class="n">setup</span><span class="p">.</span><span class="n">py</span> <span class="n">build</span>
+<span class="n">python</span> <span class="n">setup</span><span class="p">.</span><span class="n">py</span> <span class="n">install</span> <span class="c1">--prefix=~/.local</span>
+</pre></div>
 </section>
 
 			<!-- Contact -->

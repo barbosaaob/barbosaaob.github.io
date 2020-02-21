@@ -6,7 +6,7 @@
 -->
 <html lang="en">
 	<head>
-		<title>Prof. Adriano Barbosa</title>
+		<title>Using Let's Encrypt DNS-01 challenge on OpenBSD - Prof. Adriano Barbosa</title>
 		<meta charset="utf-8" />
         <!--<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; script-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none';">-->
 		<link rel="icon" type="image/ico" href="https://adrianobarbosa.xyz/images/favico.ico">
@@ -30,24 +30,36 @@
 
 		<!-- Main -->
 		<div id="main">
-			<!-- Menu -->
-			<section id="menu">
-				<ul class="actions">
-					<li><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4261539J3" target="_blank" class="button">lattes cv</a></li>
-							<li><a href="https://adrianobarbosa.xyz/category/blog.html" class="button scrolly">blog</a></li>
-							<li><a href="https://adrianobarbosa.xyz/category/publications.html" class="button scrolly">publications</a></li>
-							<li><a href="https://adrianobarbosa.xyz/category/teaching.html" class="button scrolly">teaching</a></li>
-					<!-- <li><a href="https://adrianobarbosa.xyz/blog" class="button scrolly">blog</a></li> -->
-				</ul>
-			</section>
 
-<section id="math">
-	<h2>math</h2>
-		<div class="row">
-			<article class="work-item">
-				<h3><a href="https://adrianobarbosa.xyz/blog/determinando-o-preco-de-um-produto.html">Determinando o preço de um produto</a></h3>
-			</article>
-		</div>
+<h2><a href="javascript:history.back();" class="icon fa-arrow-circle-o-left"><span class="label">back</span></a> Using Let's Encrypt DNS-01 challenge on OpenBSD</h2>
+       <p>comp<br>
+    publication: August 30 2019 09:52<br>
+    last update: August 30 2019 09:52</p>
+<section id="blog">
+	<p>So, my ISP is blocking port 80... I could redirect traffic to my server using another port, but was not able to renew my Let's Encrypt certificates using HTTP-01 challenge. This is how one could use DNS-01 challenge to get/renew certificates.</p>
+<p>First install certbot:</p>
+<div class="highlight"><pre><span></span><span class="n">doas</span> <span class="n">pkg_add</span> <span class="n">certbot</span>
+</pre></div>
+
+
+<p>Now ask for the challenge:</p>
+<div class="highlight"><pre><span></span><span class="n">certbot</span> <span class="n">certonly</span> <span class="c1">--manual --preferred-challenges dns --server https://acme-v02.api.letsencrypt.org/directory --manual-public-ip-logging-ok -d your.domain</span>
+</pre></div>
+
+
+<p>Change <code>your.domain</code> with yout domain, <code>adrianobarbosa.xyz</code> in my case.</p>
+<p>Certbot will return:</p>
+<div class="highlight"><pre><span></span><span class="n">Please</span> <span class="n">deploy</span> <span class="n">a</span> <span class="n">DNS</span> <span class="n">TXT</span> <span class="n">record</span> <span class="k">under</span> <span class="n">the</span> <span class="n">name</span>
+<span class="n">_acme</span><span class="o">-</span><span class="n">challenge</span><span class="p">.</span><span class="n">your</span><span class="p">.</span><span class="k">domain</span> <span class="k">with</span> <span class="n">the</span> <span class="n">following</span> <span class="n">value</span><span class="p">:</span>
+
+<span class="n">aCMe</span><span class="o">-</span><span class="n">cHaLlenGe</span><span class="o">-</span><span class="n">vAluE</span>
+</pre></div>
+
+
+<p>where <code>aCMe-cHaLlenGe-vAluE</code> is a string you will set on your DNS server as a
+TXT record value under the name <code>_acme-challenge</code>.</p>
+<p>Wait for DNS propagation and press Enter.</p>
+<p>Source: <a href="https://dev.to/nabbisen/let-s-encrypt-wildcard-certificate-with-certbot-plo">DEV</a></p>
 </section>
 
 			<!-- Contact -->

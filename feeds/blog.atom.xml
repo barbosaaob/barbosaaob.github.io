@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa - blog</title><link href="http://barbosaaob.github.io/" rel="alternate"></link><link href="http://barbosaaob.github.io/feeds/blog.atom.xml" rel="self"></link><id>http://barbosaaob.github.io/</id><updated>2019-05-20T20:20:00-04:00</updated><entry><title>OpenBSD 6.5 arm64 (aarch64) on QEMU</title><link href="http://barbosaaob.github.io/blog/qemu-arm64.html" rel="alternate"></link><published>2019-05-19T17:02:00-04:00</published><updated>2019-05-20T20:20:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2019-05-19:/blog/qemu-arm64.html</id><summary type="html">&lt;h2&gt;Using OpenBSD 6.5 arm64 (aarch64) on QEMU&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Prof. Adriano Barbosa - blog</title><link href="https://adrianobarbosa.xyz/" rel="alternate"></link><link href="https://adrianobarbosa.xyz/feeds/blog.atom.xml" rel="self"></link><id>https://adrianobarbosa.xyz/</id><updated>2019-11-19T07:59:10-04:00</updated><entry><title>Installing scipy and sklearn on OpenBSD using pip</title><link href="https://adrianobarbosa.xyz/blog/scipy-sklearn-openbsd.html" rel="alternate"></link><published>2019-11-19T07:59:10-04:00</published><updated>2019-11-19T07:59:10-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2019-11-19:/blog/scipy-sklearn-openbsd.html</id><summary type="html">&lt;p&gt;Before we begin, both are available from OpenBSD ports tree! But if you need to
+compile them for any purpose, you can use the following.&lt;/p&gt;
+&lt;p&gt;scipy needs Fortran compiler and Lapack&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;doas&lt;/span&gt; &lt;span class="n"&gt;pkg_add&lt;/span&gt; &lt;span class="n"&gt;g95&lt;/span&gt; &lt;span class="n"&gt;lapack&lt;/span&gt;
+&lt;span class="n"&gt;ln&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="k"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;bin&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;egfortran&lt;/span&gt; &lt;span class="o"&gt;~/&lt;/span&gt;&lt;span class="n"&gt;bin&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;f95&lt;/span&gt;
+&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="c1"&gt;--user scipy&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;sklearn needs to …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Before we begin, both are available from OpenBSD ports tree! But if you need to
+compile them for any purpose, you can use the following.&lt;/p&gt;
+&lt;p&gt;scipy needs Fortran compiler and Lapack&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;doas&lt;/span&gt; &lt;span class="n"&gt;pkg_add&lt;/span&gt; &lt;span class="n"&gt;g95&lt;/span&gt; &lt;span class="n"&gt;lapack&lt;/span&gt;
+&lt;span class="n"&gt;ln&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;usr&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="k"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;bin&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;egfortran&lt;/span&gt; &lt;span class="o"&gt;~/&lt;/span&gt;&lt;span class="n"&gt;bin&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;f95&lt;/span&gt;
+&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="c1"&gt;--user scipy&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;sklearn needs to be built &lt;a href="https://github.com/scikit-learn/scikit-learn/issues/14332"&gt;from source without
+OpenMP&lt;/a&gt;. &lt;a href="https://github.com/scikit-learn/scikit-learn/releases"&gt;Download
+from GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="c1"&gt;--user Cython&lt;/span&gt;
+&lt;span class="n"&gt;cd&lt;/span&gt; &lt;span class="o"&gt;~/&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;local&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lib&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;python3&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;site&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;packages&lt;/span&gt;
+&lt;span class="n"&gt;tar&lt;/span&gt; &lt;span class="n"&gt;zxf&lt;/span&gt; &lt;span class="o"&gt;~/&lt;/span&gt;&lt;span class="n"&gt;Downloads&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;scikit&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;learn&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;tar&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;gz&lt;/span&gt;
+&lt;span class="n"&gt;cd&lt;/span&gt; &lt;span class="n"&gt;scikit&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;learn&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;
+&lt;span class="n"&gt;export&lt;/span&gt; &lt;span class="n"&gt;SKLEARN_NO_OPENMP&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="k"&gt;TRUE&lt;/span&gt;
+&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="n"&gt;setup&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;py&lt;/span&gt; &lt;span class="n"&gt;build&lt;/span&gt;
+&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="n"&gt;setup&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;py&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="c1"&gt;--prefix=~/.local&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="blog"></category><category term="comp"></category></entry><entry><title>Using Let's Encrypt DNS-01 challenge on OpenBSD</title><link href="https://adrianobarbosa.xyz/blog/letsencrypt-dns-challenge.html" rel="alternate"></link><published>2019-08-30T09:52:00-04:00</published><updated>2019-08-30T09:52:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2019-08-30:/blog/letsencrypt-dns-challenge.html</id><summary type="html">&lt;p&gt;So, my ISP is blocking port 80... I could redirect traffic to my server using another port, but was not able to renew my Let's Encrypt certificates using HTTP-01 challenge. This is how one could use DNS-01 challenge to get/renew certificates.&lt;/p&gt;
+&lt;p&gt;First install certbot:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;doas&lt;/span&gt; &lt;span class="n"&gt;pkg_add&lt;/span&gt; &lt;span class="n"&gt;certbot&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now ask …&lt;/p&gt;</summary><content type="html">&lt;p&gt;So, my ISP is blocking port 80... I could redirect traffic to my server using another port, but was not able to renew my Let's Encrypt certificates using HTTP-01 challenge. This is how one could use DNS-01 challenge to get/renew certificates.&lt;/p&gt;
+&lt;p&gt;First install certbot:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;doas&lt;/span&gt; &lt;span class="n"&gt;pkg_add&lt;/span&gt; &lt;span class="n"&gt;certbot&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now ask for the challenge:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;certbot&lt;/span&gt; &lt;span class="n"&gt;certonly&lt;/span&gt; &lt;span class="c1"&gt;--manual --preferred-challenges dns --server https://acme-v02.api.letsencrypt.org/directory --manual-public-ip-logging-ok -d your.domain&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Change &lt;code&gt;your.domain&lt;/code&gt; with yout domain, &lt;code&gt;adrianobarbosa.xyz&lt;/code&gt; in my case.&lt;/p&gt;
+&lt;p&gt;Certbot will return:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;Please&lt;/span&gt; &lt;span class="n"&gt;deploy&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;DNS&lt;/span&gt; &lt;span class="n"&gt;TXT&lt;/span&gt; &lt;span class="n"&gt;record&lt;/span&gt; &lt;span class="k"&gt;under&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;name&lt;/span&gt;
+&lt;span class="n"&gt;_acme&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;challenge&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;your&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="k"&gt;domain&lt;/span&gt; &lt;span class="k"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;following&lt;/span&gt; &lt;span class="n"&gt;value&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+
+&lt;span class="n"&gt;aCMe&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;cHaLlenGe&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;vAluE&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;where &lt;code&gt;aCMe-cHaLlenGe-vAluE&lt;/code&gt; is a string you will set on your DNS server as a
+TXT record value under the name &lt;code&gt;_acme-challenge&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Wait for DNS propagation and press Enter.&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href="https://dev.to/nabbisen/let-s-encrypt-wildcard-certificate-with-certbot-plo"&gt;DEV&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category><category term="comp"></category></entry><entry><title>OpenBSD 6.5 arm64 (aarch64) on QEMU</title><link href="https://adrianobarbosa.xyz/blog/qemu-arm64.html" rel="alternate"></link><published>2019-05-19T17:02:00-04:00</published><updated>2019-05-20T20:20:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2019-05-19:/blog/qemu-arm64.html</id><summary type="html">&lt;h2&gt;Using OpenBSD 6.5 arm64 (aarch64) on QEMU&lt;/h2&gt;
 &lt;p&gt;Install QEMU&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;doas&lt;/span&gt; &lt;span class="n"&gt;pkg_add&lt;/span&gt; &lt;span class="n"&gt;qemu&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
@@ -69,7 +126,7 @@
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;Source: https://cryogenix.net/OpenBSD_arm64_qemu.html&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>Running OpenBSD on Vultr, check your clock!</title><link href="http://barbosaaob.github.io/blog/openbsd-on-vultr.html" rel="alternate"></link><published>2018-11-06T16:40:00-03:00</published><updated>2018-11-06T16:40:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-11-06:/blog/openbsd-on-vultr.html</id><summary type="html">&lt;p&gt;Recently I noticed a problem with the clock on my OpenBSD virtual machine
+&lt;p&gt;Source: https://cryogenix.net/OpenBSD_arm64_qemu.html&lt;/p&gt;</content><category term="blog"></category><category term="comp"></category></entry><entry><title>Running OpenBSD on Vultr, check your clock!</title><link href="https://adrianobarbosa.xyz/blog/openbsd-on-vultr.html" rel="alternate"></link><published>2018-11-06T16:40:00-03:00</published><updated>2018-11-06T16:40:00-03:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-11-06:/blog/openbsd-on-vultr.html</id><summary type="html">&lt;p&gt;Recently I noticed a problem with the clock on my OpenBSD virtual machine
 running on Vultr. The clock on the virtual machine was off by days frequently.
 Investigating the problem, I noticed that &lt;code&gt;top&lt;/code&gt; was not updating the
 information each 5s as it should and &lt;code&gt;sleep 1&lt;/code&gt; was taking more …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Recently I noticed a problem with the clock on my OpenBSD virtual machine
@@ -84,7 +141,7 @@ Vultr uses. After calling the support, they fixed it for me &lt;strong&gt;very f
 as a custom OS using an uploaded image of OpenBSD while Vultr provides an
 OpenBSD virtual machine wich runs without this problem as described by their
 support "deploying with one of our images from the Vultr control panel would
-automatically apply the necessary adjustments".&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>OpenBSD 6.3 live USB</title><link href="http://barbosaaob.github.io/blog/openbsd-live.html" rel="alternate"></link><published>2018-07-14T22:53:00-04:00</published><updated>2018-07-14T22:53:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-14:/blog/openbsd-live.html</id><summary type="html">&lt;h2&gt;Using OpenBSD 6.3 and vmd(8)&lt;/h2&gt;
+automatically apply the necessary adjustments".&lt;/p&gt;</content><category term="blog"></category><category term="comp"></category></entry><entry><title>OpenBSD 6.3 live USB</title><link href="https://adrianobarbosa.xyz/blog/openbsd-live.html" rel="alternate"></link><published>2018-07-14T22:53:00-04:00</published><updated>2018-07-14T22:53:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-07-14:/blog/openbsd-live.html</id><summary type="html">&lt;h2&gt;Using OpenBSD 6.3 and vmd(8)&lt;/h2&gt;
 &lt;p&gt;Create the disk image&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;vmctl&lt;/span&gt; &lt;span class="k"&gt;create&lt;/span&gt; &lt;span class="n"&gt;disk&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;img&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="k"&gt;G&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
@@ -135,7 +192,7 @@ cdrom, &lt;code&gt;install63.iso&lt;/code&gt; as cdrom and 512M of memory&lt;/p&
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;The USB stick is now ready to boot.&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>Encrypt partition in OpenBSD 6.3</title><link href="http://barbosaaob.github.io/blog/encrypt-partition-openbsd.html" rel="alternate"></link><published>2018-07-07T20:24:00-04:00</published><updated>2018-07-07T20:24:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-07:/blog/encrypt-partition-openbsd.html</id><summary type="html">&lt;p&gt;This post is meant to guide througt encrypt a specific partition in OpenBSD
+&lt;p&gt;The USB stick is now ready to boot.&lt;/p&gt;</content><category term="blog"></category><category term="comp"></category></entry><entry><title>Encrypt partition in OpenBSD 6.3</title><link href="https://adrianobarbosa.xyz/blog/encrypt-partition-openbsd.html" rel="alternate"></link><published>2018-07-07T20:24:00-04:00</published><updated>2018-07-07T20:24:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-07-07:/blog/encrypt-partition-openbsd.html</id><summary type="html">&lt;p&gt;This post is meant to guide througt encrypt a specific partition in OpenBSD
 6.3. We will encrypt &lt;code&gt;/home&lt;/code&gt; partition:&lt;/p&gt;
 &lt;p&gt;Umount &lt;code&gt;/home&lt;/code&gt; partition&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;#&lt;/span&gt; &lt;span class="n"&gt;umount&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;home&lt;/span&gt;
@@ -233,7 +290,7 @@ enctypted and ready to mount at boot.&lt;/p&gt;
 &lt;p&gt;Last note: &lt;code&gt;/home&lt;/code&gt; partition is completelly empty, so if you have any user other
 than root on your system, you need to create each user directory and set the
 right permitions.&lt;/p&gt;
-&lt;p&gt;Source: &lt;a href="http://astro-gr.org/openbsd-encrypt-home/"&gt;http://astro-gr.org/openbsd-encrypt-home/&lt;/a&gt;&lt;/p&gt;</content><category term="comp"></category></entry><entry><title>Determinando o preço de um produto</title><link href="http://barbosaaob.github.io/blog/determinando-o-preco-de-um-produto.html" rel="alternate"></link><published>2018-07-06T08:50:00-04:00</published><updated>2018-07-06T08:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-07-06:/blog/determinando-o-preco-de-um-produto.html</id><summary type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
+&lt;p&gt;Source: &lt;a href="http://astro-gr.org/openbsd-encrypt-home/"&gt;http://astro-gr.org/openbsd-encrypt-home/&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category><category term="comp"></category></entry><entry><title>Determinando o preço de um produto</title><link href="https://adrianobarbosa.xyz/blog/determinando-o-preco-de-um-produto.html" rel="alternate"></link><published>2018-07-06T08:50:00-04:00</published><updated>2018-07-06T08:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-07-06:/blog/determinando-o-preco-de-um-produto.html</id><summary type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
 mês de junho, durante as festas juninas, ele fez uma promoção e vendeu cada
 paçoca a R&amp;#36; 4,00. Nesse período ele notou que vendeu 30 unidades a mais que as
 100 que costumava …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Suponha que um vendedor de paçoca venda seu produto a R&amp;#36; 5,00 e que no
@@ -362,15 +419,17 @@ R&amp;#36; 4,17, nosso amigo vendedor obterá o maior faturamento possível ao f
         "}";
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
-&lt;/script&gt;</content><category term="math"></category></entry><entry><title>Acesso a biblioteca virtual UFGD</title><link href="http://barbosaaob.github.io/blog/biblioteca-virtual-ufgd.html" rel="alternate"></link><published>2018-06-26T14:50:00-04:00</published><updated>2018-06-26T14:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-06-26:/blog/biblioteca-virtual-ufgd.html</id><summary type="html">&lt;p&gt;Você sabia que a UFGD dispobiliza diversos livros através de uma biblioteca virtual?&lt;/p&gt;
+&lt;/script&gt;</content><category term="blog"></category><category term="math"></category></entry><entry><title>Acesso a biblioteca virtual UFGD</title><link href="https://adrianobarbosa.xyz/blog/biblioteca-virtual-ufgd.html" rel="alternate"></link><published>2018-06-26T14:50:00-04:00</published><updated>2018-06-26T14:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-06-26:/blog/biblioteca-virtual-ufgd.html</id><summary type="html">&lt;p&gt;Você sabia que a UFGD dispobiliza diversos livros através de uma biblioteca virtual?&lt;/p&gt;
 &lt;p&gt;Basta acessar o &lt;a href="https://biblioteca.ufgd.edu.br/"&gt;site da biblioteca&lt;/a&gt;, efetuar login com seu usuário e senha e acessar o menu "Bases" e em seguida "Minha Biblioteca".&lt;/p&gt;
-&lt;p&gt;&lt;image alt="Menu de acesso a biblioteca virtual" src="http://barbosaaob.github.io/images/blog/biblioteca-virtual-ufgd-1.png" class="image fit thumb"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image alt="Menu de acesso a biblioteca virtual" src="https://adrianobarbosa.xyz/images/blog/biblioteca-virtual-ufgd-1.png" class="image fit thumb"&gt;&lt;/p&gt;
 &lt;p&gt;Após aceitar os termos de uso do serviço (leia os termos para ter ciência …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Você sabia que a UFGD dispobiliza diversos livros através de uma biblioteca virtual?&lt;/p&gt;
 &lt;p&gt;Basta acessar o &lt;a href="https://biblioteca.ufgd.edu.br/"&gt;site da biblioteca&lt;/a&gt;, efetuar login com seu usuário e senha e acessar o menu "Bases" e em seguida "Minha Biblioteca".&lt;/p&gt;
-&lt;p&gt;&lt;image alt="Menu de acesso a biblioteca virtual" src="http://barbosaaob.github.io/images/blog/biblioteca-virtual-ufgd-1.png" class="image fit thumb"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;image alt="Menu de acesso a biblioteca virtual" src="https://adrianobarbosa.xyz/images/blog/biblioteca-virtual-ufgd-1.png" class="image fit thumb"&gt;&lt;/p&gt;
 &lt;p&gt;Após aceitar os termos de uso do serviço (leia os termos para ter ciência dos dados que eles coletam sobre seu acesso!) você terá acesso a diversos títulos em qualquer lugar ;-)&lt;/p&gt;
-&lt;p&gt;&lt;image alt="Alguns dos títulos disponíveis na biblioteca virtual" src="http://barbosaaob.github.io/images/blog/biblioteca-virtual-ufgd-2.png" class="image fit thumb"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Agradecimento a Thalia pela dica.&lt;/em&gt;&lt;/p&gt;</content><category term="ufgd"></category></entry><entry><title>Compile Nextcloud client on OpenBSD 6.3</title><link href="http://barbosaaob.github.io/blog/compile-nextcloud-client.html" rel="alternate"></link><published>2018-06-06T16:23:00-04:00</published><updated>2018-06-06T17:50:00-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:barbosaaob.github.io,2018-06-06:/blog/compile-nextcloud-client.html</id><summary type="html">&lt;p&gt;Installing dependencies (other dependencies are dependencies of those packages):&lt;/p&gt;
+&lt;p&gt;&lt;image alt="Alguns dos títulos disponíveis na biblioteca virtual" src="https://adrianobarbosa.xyz/images/blog/biblioteca-virtual-ufgd-2.png" class="image fit thumb"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Agradecimento a Thalia pela dica.&lt;/em&gt;&lt;/p&gt;</content><category term="blog"></category><category term="ufgd"></category></entry><entry><title>Compile Nextcloud client on OpenBSD 6.3</title><link href="https://adrianobarbosa.xyz/blog/compile-nextcloud-client.html" rel="alternate"></link><published>2018-06-06T16:23:00-04:00</published><updated>2019-11-19T07:58:15-04:00</updated><author><name>Adriano Barbosa</name></author><id>tag:adrianobarbosa.xyz,2018-06-06:/blog/compile-nextcloud-client.html</id><summary type="html">&lt;p&gt;nextcloudclient is now available on OpenBSD ports tree \o/
+&lt;a href="https://marc.info/?l=openbsd-ports&amp;amp;w=2&amp;amp;r=1&amp;amp;s=nextcloudclient&amp;amp;q=b"&gt;(discussion on miling list)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Installing dependencies (other dependencies are dependencies of those packages):&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;#&lt;/span&gt; &lt;span class="n"&gt;pkg_add&lt;/span&gt; &lt;span class="n"&gt;qtwebkit&lt;/span&gt; &lt;span class="n"&gt;qtkeychain&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;qt5&lt;/span&gt; &lt;span class="n"&gt;cmake&lt;/span&gt; &lt;span class="n"&gt;libinotify&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -383,11 +442,9 @@ $ git clone https://github.com/nextcloud/client_theming.git nextcloud-client
 
 
 &lt;p&gt;Compiling:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ &lt;span class="nv"&gt;cd&lt;/span&gt; &lt;span class="nv"&gt;nextcloud&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;client&lt;/span&gt;
-$ &lt;span class="nv"&gt;git&lt;/span&gt; &lt;span class="nv"&gt;submodule&lt;/span&gt; &lt;span class="nv"&gt;update&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="nv"&gt;init&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="nv"&gt;recursive&lt;/span&gt;
-$ &lt;span class="nv"&gt;mkdir&lt;/span&gt; &lt;span class="nv"&gt;build&lt;/span&gt;
-$ &lt;span class="nv"&gt;cd&lt;/span&gt; &lt;span class="nv"&gt;build&lt;/span&gt;
-$ &lt;span class="nv"&gt;cmake&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;DOEM_THEME_DIR&lt;/span&gt;&lt;span class="o"&gt;=/&lt;/span&gt;&lt;span class="nv"&gt;home&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;$&lt;span class="nv"&gt;USER …&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Installing dependencies (other dependencies are dependencies of those packages):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ &lt;span class="nv"&gt;cd&lt;/span&gt; &lt;span class="nv"&gt;nextcloud&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nv"&gt;client …&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;nextcloudclient is now available on OpenBSD ports tree \o/
+&lt;a href="https://marc.info/?l=openbsd-ports&amp;amp;w=2&amp;amp;r=1&amp;amp;s=nextcloudclient&amp;amp;q=b"&gt;(discussion on miling list)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Installing dependencies (other dependencies are dependencies of those packages):&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;#&lt;/span&gt; &lt;span class="n"&gt;pkg_add&lt;/span&gt; &lt;span class="n"&gt;qtwebkit&lt;/span&gt; &lt;span class="n"&gt;qtkeychain&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;qt5&lt;/span&gt; &lt;span class="n"&gt;cmake&lt;/span&gt; &lt;span class="n"&gt;libinotify&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -426,4 +483,4 @@ $ nextcloud
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;Increase the &lt;code&gt;ulimit&lt;/code&gt; as your necessity.&lt;/p&gt;</content><category term="comp"></category></entry></feed>
+&lt;p&gt;Increase the &lt;code&gt;ulimit&lt;/code&gt; as your necessity.&lt;/p&gt;</content><category term="blog"></category><category term="comp"></category></entry></feed>
