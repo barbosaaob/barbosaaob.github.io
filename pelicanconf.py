@@ -51,6 +51,8 @@ SITEUFAL = 'https://ufal.br'
 SITEICMC = 'https://www.icmc.usp.br/'
 SITEUSP = 'http://usp.br'
 SITEIM = 'http://www.ufal.edu.br/unidadeacademica/im/pt-br'
+SITETJ = 'http://www.tjal.jus.br/comunicacao2.php?pag=verNoticia&not=16361'
+SITELED = '#'
 
 DEFAULT_PAGINATION = False
 
