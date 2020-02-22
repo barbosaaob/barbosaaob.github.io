@@ -23,46 +23,46 @@ tags: 2016.2
 			seguindo os algoritmos apresentados na bibliografia do curso, cujo objetivo não
 			obter o melhor desempenho e sim facilitar o entendimento dos métodos. Além disso, podem conter <a href="https://pt.wikipedia.org/wiki/Bug" target="_blank">bugs</a>, use por sua conta e risco.<br><br>
 			Aula 1 - Erro e Algoritmos: 
-			<a href="{filename}/aulas/01-erro-algoritmo.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/01-exemplos-algoritmo.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/01-erro-algoritmo.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/01-exemplos-algoritmo.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 2 - Método da bisseção:
-			<a href="{filename}/aulas/02-bissecao.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/02-bissecao.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/02-bissecao.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/02-bissecao.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 3 - Método de Newton:
-			<a href="{filename}/aulas/03-newton.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/03-newton.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/03-newton.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/03-newton.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 4 - Método de Horner:
-			<a href="{filename}/aulas/04-horner.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/04-horner.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/04-horner.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/04-horner.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 5 - Interpolação de Lagrange:
-			<a href="{filename}/aulas/05-lagrange.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/05-lagrange.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
 			<br>
 			Aula 6 - Spline:
-			<a href="{filename}/aulas/06-spline.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/06-spline.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
 			<br>
 			Aula 7 - Eliminação de Gauss:
-			<a href="{filename}/aulas/07-eliminacao-gauss.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/07-gauss.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/07-eliminacao-gauss.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/07-gauss.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 8 - Decomposição LU:
-			<a href="{filename}/aulas/08-decomposicao-lu.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/08-lu2.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/08-decomposicao-lu.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/08-lu2.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 9 - Métodos de Jacobi e Gauss-Seidel:
-			<a href="{filename}/aulas/09-jacobi-gauss-seidel.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/09-jacobi-gauss_seidel.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/09-jacobi-gauss-seidel.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/09-jacobi-gauss_seidel.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 10 - EDO e Método de Euler:
-			<a href="{filename}/aulas/10-edo-euler.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/10-euler.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/10-edo-euler.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/10-euler.m" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 			Aula 11 - Métodos de Runge-Kutta:
-			<a href="{filename}/aulas/11-rk-ordem-2.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
-			<a href="{filename}/aulas/11-rk-ordem-2.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
+			<a href="{static}/aulas/11-rk-ordem-2.pdf" class="icon fa-file-pdf-o"><span class="label">pdf</span></a>
+			<a href="{static}/aulas/11-rk-ordem-2.zip" class="icon fa-file-code-o"><span class="label">codigo</span></a>
 			<br>
 		</article>
 	</div>
@@ -73,11 +73,11 @@ tags: 2016.2
 	<h2>listas</h2>
 	<div class="row">
 		<article class="12u 12u$(xsmall) work-item">
-			<a href="{filename}/listas/erro-bissecao.pdf">Lista 1 - Erro, algoritmo e Bisseção</a><br>
-			<a href="{filename}/listas/newton.pdf">Lista 2 - Método de Newton</a><br>
-			<a href="{filename}/listas/horner.pdf">Lista 3 - Método de Horner</a><br>
-			<a href="{filename}/listas/lagrange.pdf">Lista 4 - Interpolação de Lagrange</a><br>
-			<a href="{filename}/listas/spline.pdf">Lista 5 - Spline</a><br>
+			<a href="{static}/listas/erro-bissecao.pdf">Lista 1 - Erro, algoritmo e Bisseção</a><br>
+			<a href="{static}/listas/newton.pdf">Lista 2 - Método de Newton</a><br>
+			<a href="{static}/listas/horner.pdf">Lista 3 - Método de Horner</a><br>
+			<a href="{static}/listas/lagrange.pdf">Lista 4 - Interpolação de Lagrange</a><br>
+			<a href="{static}/listas/spline.pdf">Lista 5 - Spline</a><br>
 		</article>
 	</div>
 </section>

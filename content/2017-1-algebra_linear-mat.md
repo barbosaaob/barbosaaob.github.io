@@ -5,26 +5,26 @@ modified: 2017-05-01
 category: teaching
 
 ## <a id="exercices"></a>listas
-[Lista 1]({filename}/listas/algebra-linear-01.pdf)  
-[Lista 2]({filename}/listas/algebra-linear-02.pdf)  
-[Lista 3]({filename}/listas/algebra-linear-03.pdf)  
-[Lista 4]({filename}/listas/algebra-linear-04.pdf)  
-[Lista 5]({filename}/listas/algebra-linear-05.pdf)  
-[Lista 6]({filename}/listas/algebra-linear-06.pdf)  
-[Lista 7]({filename}/listas/algebra-linear-07.pdf)  
-[Lista 8]({filename}/listas/algebra-linear-08.pdf)  
-[Lista 9]({filename}/listas/algebra-linear-09.pdf)  
-[Lista 10]({filename}/listas/algebra-linear-10.pdf)  
-[Lista 11]({filename}/listas/algebra-linear-11.pdf)  
-[Lista 12]({filename}/listas/algebra-linear-12.pdf)  
-[Lista 13]({filename}/listas/algebra-linear-13.pdf)
+[Lista 1]({static}/listas/algebra-linear-01.pdf)  
+[Lista 2]({static}/listas/algebra-linear-02.pdf)  
+[Lista 3]({static}/listas/algebra-linear-03.pdf)  
+[Lista 4]({static}/listas/algebra-linear-04.pdf)  
+[Lista 5]({static}/listas/algebra-linear-05.pdf)  
+[Lista 6]({static}/listas/algebra-linear-06.pdf)  
+[Lista 7]({static}/listas/algebra-linear-07.pdf)  
+[Lista 8]({static}/listas/algebra-linear-08.pdf)  
+[Lista 9]({static}/listas/algebra-linear-09.pdf)  
+[Lista 10]({static}/listas/algebra-linear-10.pdf)  
+[Lista 11]({static}/listas/algebra-linear-11.pdf)  
+[Lista 12]({static}/listas/algebra-linear-12.pdf)  
+[Lista 13]({static}/listas/algebra-linear-13.pdf)
 
 ---
 
 ## <a id="grades"></a>provas
-P1: [Solução]({filename}/provas/2017-1-algebra_linear-mat-p1.pdf)  
-P2: [Solução]({filename}/provas/2017-1-algebra_linear-mat-p2.pdf)  
-P2 2ª chamada: [Prova]({filename}/provas/2017-1-algebra_linear-mat-p2-2.pdf)
+P1: [Solução]({static}/provas/2017-1-algebra_linear-mat-p1.pdf)  
+P2: [Solução]({static}/provas/2017-1-algebra_linear-mat-p2.pdf)  
+P2 2ª chamada: [Prova]({static}/provas/2017-1-algebra_linear-mat-p2-2.pdf)
 
 ---
 

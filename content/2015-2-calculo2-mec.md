@@ -18,11 +18,11 @@ modified: 2015-12-01
 	<h2>listas</h2>
 	<div class="row">
 		<article class="12u 12u$(xsmall) work-item">
-			<a href="{filename}/listas/integrais.pdf">Lista 1 - Integrais</a><br>
-			<a href="{filename}/listas/integrais-sol.pdf">Lista 1 - Integrais (respostas)</a><br>
-			<a href="{filename}/listas/sequencias-series.pdf">Lista 2 - Sequências e séries</a><br>
-			<a href="{filename}/listas/sequencias-series-sol.pdf">Lista 2 - Sequências e séries (respostas)</a><br>
-			<a href="{filename}/listas/edo-mec.pdf">Lista 3 - Equações diferenciais</a><br>
+			<a href="{static}/listas/integrais.pdf">Lista 1 - Integrais</a><br>
+			<a href="{static}/listas/integrais-sol.pdf">Lista 1 - Integrais (respostas)</a><br>
+			<a href="{static}/listas/sequencias-series.pdf">Lista 2 - Sequências e séries</a><br>
+			<a href="{static}/listas/sequencias-series-sol.pdf">Lista 2 - Sequências e séries (respostas)</a><br>
+			<a href="{static}/listas/edo-mec.pdf">Lista 3 - Equações diferenciais</a><br>
 		</article>
 	</div>
 </section>

@@ -5,32 +5,32 @@ modified: 2018-08-11
 category: teaching
 
 ## <a id="exercices"></a>listas
-[Lista 01]({filename}/listas/algebra-elementar-01.pdf)  
-[Lista 02]({filename}/listas/algebra-elementar-02.pdf)  
-[Lista 03]({filename}/listas/algebra-elementar-03.pdf)  
-[Lista 04]({filename}/listas/algebra-elementar-04.pdf)  
-[Lista 05]({filename}/listas/algebra-elementar-05.pdf)  
-[Lista 06]({filename}/listas/algebra-elementar-06.pdf)  
-[Lista 07]({filename}/listas/algebra-elementar-07.pdf)  
-[Lista 08]({filename}/listas/algebra-elementar-08.pdf)  
-[Lista 09]({filename}/listas/algebra-elementar-09.pdf)  
-[Lista 10]({filename}/listas/algebra-elementar-10.pdf)  
-[Lista 11]({filename}/listas/algebra-elementar-11.pdf)  
-[Lista 12]({filename}/listas/algebra-elementar-12.pdf)  
-[Lista 13]({filename}/listas/algebra-elementar-13.pdf)  
-[Lista 14]({filename}/listas/algebra-elementar-14.pdf)
+[Lista 01]({static}/listas/algebra-elementar-01.pdf)  
+[Lista 02]({static}/listas/algebra-elementar-02.pdf)  
+[Lista 03]({static}/listas/algebra-elementar-03.pdf)  
+[Lista 04]({static}/listas/algebra-elementar-04.pdf)  
+[Lista 05]({static}/listas/algebra-elementar-05.pdf)  
+[Lista 06]({static}/listas/algebra-elementar-06.pdf)  
+[Lista 07]({static}/listas/algebra-elementar-07.pdf)  
+[Lista 08]({static}/listas/algebra-elementar-08.pdf)  
+[Lista 09]({static}/listas/algebra-elementar-09.pdf)  
+[Lista 10]({static}/listas/algebra-elementar-10.pdf)  
+[Lista 11]({static}/listas/algebra-elementar-11.pdf)  
+[Lista 12]({static}/listas/algebra-elementar-12.pdf)  
+[Lista 13]({static}/listas/algebra-elementar-13.pdf)  
+[Lista 14]({static}/listas/algebra-elementar-14.pdf)
 
 ---
 
 ## <a id="classes"></a>material complementar
-[Desigualdades]({filename}/aulas/desigualdade-20181120.pdf)
+[Desigualdades]({static}/aulas/desigualdade-20181120.pdf)
 
 ---
 
 ## <a id="tests"></a>provas
-[Avaliação P1]({filename}/provas/2018-2-algebra_elementar-matematica-p1.pdf)  
-[Avaliação P2]({filename}/provas/2018-2-algebra_elementar-matematica-p2.pdf)  
-[Avaliação PS]({filename}/provas/2018-2-algebra_elementar-matematica-ps.pdf)
+[Avaliação P1]({static}/provas/2018-2-algebra_elementar-matematica-p1.pdf)  
+[Avaliação P2]({static}/provas/2018-2-algebra_elementar-matematica-p2.pdf)  
+[Avaliação PS]({static}/provas/2018-2-algebra_elementar-matematica-ps.pdf)
 
 ---
 
@@ -92,4 +92,4 @@ conjuntos, produto cartesiano. Relações binárias, aplicações e operações.
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso]({filename}/planos/2018-2-algebra_elementar-matematica.pdf).
+curso]({static}/planos/2018-2-algebra_elementar-matematica.pdf).

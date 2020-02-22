@@ -7,21 +7,21 @@ category: teaching
 <h2 style="color:red;">O exame será aplicado na sala 202 do bloco B.</h2>
 
 ## <a id="exercices"></a>listas
-[Lista 01]({filename}/listas/calculo1-01.pdf)  
-[Lista 02]({filename}/listas/calculo1-02.pdf)  
-[Lista 03]({filename}/listas/calculo1-03.pdf)  
-[Lista 04]({filename}/listas/calculo1-04.pdf)  
-[Lista 05]({filename}/listas/calculo1-05.pdf)  
-[Lista 06]({filename}/listas/calculo1-06.pdf)  
-[Lista 07]({filename}/listas/calculo1-07.pdf)  
-[Lista 08]({filename}/listas/calculo1-08.pdf)  
-[Lista 09]({filename}/listas/calculo1-09.pdf)  
-[Lista 10]({filename}/listas/calculo1-10.pdf)  
-[Lista 11]({filename}/listas/calculo1-11.pdf)  
-[Lista 12]({filename}/listas/calculo1-12.pdf)  
-[Lista 13]({filename}/listas/calculo1-13.pdf)  
-[Lista 14]({filename}/listas/calculo1-14.pdf)  
-[Lista 15]({filename}/listas/calculo1-15.pdf)
+[Lista 01]({static}/listas/calculo1-01.pdf)  
+[Lista 02]({static}/listas/calculo1-02.pdf)  
+[Lista 03]({static}/listas/calculo1-03.pdf)  
+[Lista 04]({static}/listas/calculo1-04.pdf)  
+[Lista 05]({static}/listas/calculo1-05.pdf)  
+[Lista 06]({static}/listas/calculo1-06.pdf)  
+[Lista 07]({static}/listas/calculo1-07.pdf)  
+[Lista 08]({static}/listas/calculo1-08.pdf)  
+[Lista 09]({static}/listas/calculo1-09.pdf)  
+[Lista 10]({static}/listas/calculo1-10.pdf)  
+[Lista 11]({static}/listas/calculo1-11.pdf)  
+[Lista 12]({static}/listas/calculo1-12.pdf)  
+[Lista 13]({static}/listas/calculo1-13.pdf)  
+[Lista 14]({static}/listas/calculo1-14.pdf)  
+[Lista 15]({static}/listas/calculo1-15.pdf)
 
 ---
 
@@ -31,9 +31,9 @@ category: teaching
 ---
 
 ## <a id="tests"></a>provas
-[Avaliação P1]({filename}/provas/2018-1-calculo1-energia-p1.pdf) [Atualizado em: 23 mai 2018 14:04:13]  
-[Avaliação P2]({filename}/provas/2018-1-calculo1-energia-p2.pdf)  
-[Avaliação PS]({filename}/provas/2018-1-calculo1-energia-ps.pdf)
+[Avaliação P1]({static}/provas/2018-1-calculo1-energia-p1.pdf) [Atualizado em: 23 mai 2018 14:04:13]  
+[Avaliação P2]({static}/provas/2018-1-calculo1-energia-p2.pdf)  
+[Avaliação PS]({static}/provas/2018-1-calculo1-energia-ps.pdf)
 
 ---
 
@@ -88,4 +88,4 @@ Diferencial. Cálculo Integral. Aplicações.
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso]({filename}/planos/2018-1-calculo1-energia.pdf).
+curso]({static}/planos/2018-1-calculo1-energia.pdf).

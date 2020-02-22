@@ -4,19 +4,19 @@ date: 2017-05-10
 modified: 2017-05-10
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 1]({filename}/listas/algebra-linear-01.pdf)  
-[Lista 2]({filename}/listas/algebra-linear-02.pdf)  
-[Lista 3]({filename}/listas/algebra-linear-03.pdf)  
-[Lista 4]({filename}/listas/algebra-linear-04.pdf)  
-[Lista 5]({filename}/listas/algebra-linear-05.pdf)  
-[Lista 6]({filename}/listas/algebra-linear-06.pdf)  
-[Lista 7]({filename}/listas/algebra-linear-07.pdf)  
-[Lista 8]({filename}/listas/algebra-linear-08.pdf)
+[Lista 1]({static}/listas/algebra-linear-01.pdf)  
+[Lista 2]({static}/listas/algebra-linear-02.pdf)  
+[Lista 3]({static}/listas/algebra-linear-03.pdf)  
+[Lista 4]({static}/listas/algebra-linear-04.pdf)  
+[Lista 5]({static}/listas/algebra-linear-05.pdf)  
+[Lista 6]({static}/listas/algebra-linear-06.pdf)  
+[Lista 7]({static}/listas/algebra-linear-07.pdf)  
+[Lista 8]({static}/listas/algebra-linear-08.pdf)
 
 ---
 
 ## <a id="grades"></a>provas
-P1: [Solução]({filename}/provas/2017-1-algebra_linear-fisica-p1.pdf)
+P1: [Solução]({static}/provas/2017-1-algebra_linear-fisica-p1.pdf)
 
 ---
 

@@ -4,30 +4,30 @@ date: 2017-09-17
 modified: 2017-09-17
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 1]({filename}/listas/fundamentos3-01.pdf)  
-[Lista 2]({filename}/listas/fundamentos3-02.pdf)  
-[Lista 3]({filename}/listas/fundamentos3-03.pdf)  
-[Lista 4]({filename}/listas/fundamentos3-04.pdf)  
-[Lista 5]({filename}/listas/fundamentos3-05.pdf)  
-[Lista 6]({filename}/listas/fundamentos3-06.pdf)  
-[Lista 7]({filename}/listas/fundamentos3-07.pdf)  
-[Lista 8]({filename}/listas/fundamentos3-08.pdf)  
-[Lista 9]({filename}/listas/fundamentos3-09.pdf)  
-[Lista 10]({filename}/listas/fundamentos3-10.pdf)
+[Lista 1]({static}/listas/fundamentos3-01.pdf)  
+[Lista 2]({static}/listas/fundamentos3-02.pdf)  
+[Lista 3]({static}/listas/fundamentos3-03.pdf)  
+[Lista 4]({static}/listas/fundamentos3-04.pdf)  
+[Lista 5]({static}/listas/fundamentos3-05.pdf)  
+[Lista 6]({static}/listas/fundamentos3-06.pdf)  
+[Lista 7]({static}/listas/fundamentos3-07.pdf)  
+[Lista 8]({static}/listas/fundamentos3-08.pdf)  
+[Lista 9]({static}/listas/fundamentos3-09.pdf)  
+[Lista 10]({static}/listas/fundamentos3-10.pdf)
 
 ---
 ## <a id="exercices"></a>material complementar
 [Gráfico da função polinomial quadrática](https://ggbm.at/TT25WNwm)  
 [Gráfico da função polinomial quadrática (forma canônica)](https://ggbm.at/MRM67U5W)  
 [Gráfico da função polinomial cúbica](https://ggbm.at/vGrnS9eC)  
-[Método da Bisseção]({filename}/aulas/bissecao-fundamentos.pdf)  
-[Jogo: adivinhe o número]({filename}/pages/adivinhe-o-numero.html)
+[Método da Bisseção]({static}/aulas/bissecao-fundamentos.pdf)  
+[Jogo: adivinhe o número]({static}/pages/adivinhe-o-numero.html)
 
 ---
 
 ## <a id="tests"></a>provas
-[P1]({filename}/provas/2017-2-fundamentos3-p1.pdf)  
-[P2]({filename}/provas/2017-2-fundamentos3-p2.pdf)
+[P1]({static}/provas/2017-2-fundamentos3-p1.pdf)  
+[P2]({static}/provas/2017-2-fundamentos3-p2.pdf)
 
 ---
 
@@ -81,4 +81,4 @@ Números complexos e polinômios.
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso]({filename}/planos/2017-2-fundamentos3-mat.pdf).
+curso]({static}/planos/2017-2-fundamentos3-mat.pdf).

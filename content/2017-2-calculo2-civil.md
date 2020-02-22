@@ -4,23 +4,23 @@ date: 2017-09-16
 modified: 2017-09-16
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 0]({filename}/listas/calculo2-00.pdf)  
-[Lista 1]({filename}/listas/calculo2-01.pdf)  
-[Lista 2]({filename}/listas/calculo2-02.pdf)  
-[Lista 3]({filename}/listas/calculo2-03.pdf)  
-[Lista 4]({filename}/listas/calculo2-04.pdf)  
-[Lista 5]({filename}/listas/calculo2-05.pdf)  
-[Lista 6]({filename}/listas/calculo2-06.pdf)  
-[Lista 7]({filename}/listas/calculo2-07.pdf)  
-[Lista 8]({filename}/listas/calculo2-08.pdf)  
-[Lista 9]({filename}/listas/calculo2-09.pdf)
+[Lista 0]({static}/listas/calculo2-00.pdf)  
+[Lista 1]({static}/listas/calculo2-01.pdf)  
+[Lista 2]({static}/listas/calculo2-02.pdf)  
+[Lista 3]({static}/listas/calculo2-03.pdf)  
+[Lista 4]({static}/listas/calculo2-04.pdf)  
+[Lista 5]({static}/listas/calculo2-05.pdf)  
+[Lista 6]({static}/listas/calculo2-06.pdf)  
+[Lista 7]({static}/listas/calculo2-07.pdf)  
+[Lista 8]({static}/listas/calculo2-08.pdf)  
+[Lista 9]({static}/listas/calculo2-09.pdf)
 
 ---
 
 ## <a id="tests"></a>provas
-[Avaliação P1]({filename}/provas/2017-2-calculo2-civil-p1.pdf)  
-[Avaliação P2]({filename}/provas/2017-2-calculo2-civil-p2.pdf) (Atualizado: sex dez 15 10:02:49)  
-[Avaliação P3]({filename}/provas/2017-2-calculo2-civil-p3.pdf) (Atualizado: sex fev 23 06:33:02)
+[Avaliação P1]({static}/provas/2017-2-calculo2-civil-p1.pdf)  
+[Avaliação P2]({static}/provas/2017-2-calculo2-civil-p2.pdf) (Atualizado: sex dez 15 10:02:49)  
+[Avaliação P3]({static}/provas/2017-2-calculo2-civil-p3.pdf) (Atualizado: sex fev 23 06:33:02)
 
 ---
 
@@ -89,4 +89,4 @@ aplicações. Equações diferenciais lineares.  Equações diferenciais lineare
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso]({filename}/planos/2017-2-calculo2-civil.pdf).
+curso]({static}/planos/2017-2-calculo2-civil.pdf).

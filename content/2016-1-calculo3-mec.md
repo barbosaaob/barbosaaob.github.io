@@ -22,9 +22,9 @@ category: teaching
 	<h2>listas</h2>
 	<div class="row">
 		<article class="12u 12u$(xsmall) work-item">
-			<a href="{filename}/listas/integral-dupla-tripla.pdf">Lista 1 - Integral dupla e tripla</a><br>
-			<a href="{filename}/listas/mudanca-variaveis.pdf">Lista 2 - Mudança de variáveis</a><br>
-			<a href="{filename}/listas/integral-linha.pdf">Lista 3 - Integral de linha</a>
+			<a href="{static}/listas/integral-dupla-tripla.pdf">Lista 1 - Integral dupla e tripla</a><br>
+			<a href="{static}/listas/mudanca-variaveis.pdf">Lista 2 - Mudança de variáveis</a><br>
+			<a href="{static}/listas/integral-linha.pdf">Lista 3 - Integral de linha</a>
 		</article>
 	</div>
 </section>
@@ -34,7 +34,7 @@ category: teaching
 	<h2>aulas</h2>
 	<div class="row">
 		<article class="12u 12u$(xsmall) work-item">
-			<a href="{filename}/aulas/integral-dupla.pdf">Integral dupla</a>
+			<a href="{static}/aulas/integral-dupla.pdf">Integral dupla</a>
 		</article>
 		<article class="12u 12u$(xsmall) work-item">
 			Integral tripla:<br>

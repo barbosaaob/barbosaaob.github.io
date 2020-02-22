@@ -19,7 +19,7 @@ category: teaching
 	<h2>aulas e material complementar</h2>
 	<div class="row">
 		<article class="12u 12u$(xsmall) work-item">
-			<a href="{filename}/aulas/volume.pdf">Volume</a><br>
+			<a href="{static}/aulas/volume.pdf">Volume</a><br>
 		</article>
 	</div>
 </section>
@@ -30,12 +30,12 @@ category: teaching
 	<div class="row">
 		<article class="12u 12u$(xsmall) work-item">
 			<!-- em breve... -->
-			<a href="{filename}/listas/integrais.pdf">Lista 1 - Integrais</a><br>
-			<a href="{filename}/listas/integrais-sol.pdf">Respostas Lista 1 - Integrais</a><br>
-			<a href="{filename}/listas/substituicao.pdf">Lista 2 - Substituição</a><br>
-			<a href="{filename}/listas/por-partes.pdf">Lista 3 - Integração por partes</a><br>
-			<a href="{filename}/listas/sub-trigonometrica.pdf">Lista 4 - Substituição trigonométrica</a><br>
-			<a href="{filename}/listas/fracoes-parciais.pdf">Lista 5 - Frações Parciais</a><br>
+			<a href="{static}/listas/integrais.pdf">Lista 1 - Integrais</a><br>
+			<a href="{static}/listas/integrais-sol.pdf">Respostas Lista 1 - Integrais</a><br>
+			<a href="{static}/listas/substituicao.pdf">Lista 2 - Substituição</a><br>
+			<a href="{static}/listas/por-partes.pdf">Lista 3 - Integração por partes</a><br>
+			<a href="{static}/listas/sub-trigonometrica.pdf">Lista 4 - Substituição trigonométrica</a><br>
+			<a href="{static}/listas/fracoes-parciais.pdf">Lista 5 - Frações Parciais</a><br>
 		</article>
 	</div>
 </section>

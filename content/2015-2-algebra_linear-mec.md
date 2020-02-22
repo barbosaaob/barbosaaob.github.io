@@ -17,10 +17,10 @@ category: teaching
 	<h2>listas</h2>
 	<div class="row">
 		<article class="12u 12u$(xsmall) work-item">
-			<a href="{filename}/listas/matrizes-e-sistemas_lineares.pdf">Lista1 - Matrizes e sistemas lineares</a><br>
-			<a href="{filename}/listas/matrizes-e-sistemas_lineares-sol.pdf">Lista1 - Matrizes e sistemas lineares (respostas)</a><br>
-			<a href="{filename}/listas/vetores-reta-plano.pdf">Lista2 - Vetores e eq. da reta e do plano</a><br>
-			<a href="{filename}/listas/espaco-vetorial_transf-linear.pdf">Lista3 - Espaços vetoriais e transformações lineares</a><br>
+			<a href="{static}/listas/matrizes-e-sistemas_lineares.pdf">Lista1 - Matrizes e sistemas lineares</a><br>
+			<a href="{static}/listas/matrizes-e-sistemas_lineares-sol.pdf">Lista1 - Matrizes e sistemas lineares (respostas)</a><br>
+			<a href="{static}/listas/vetores-reta-plano.pdf">Lista2 - Vetores e eq. da reta e do plano</a><br>
+			<a href="{static}/listas/espaco-vetorial_transf-linear.pdf">Lista3 - Espaços vetoriais e transformações lineares</a><br>
 		</article>
 	</div>
 </section>

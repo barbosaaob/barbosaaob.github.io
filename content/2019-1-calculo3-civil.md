@@ -4,42 +4,42 @@ date: 2019-02-08
 modified: 2019-02-08
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 0]({filename}/listas/calculo3-00.pdf)  
-[Lista 1]({filename}/listas/calculo3-01.pdf)  
-[Lista 2]({filename}/listas/calculo3-02.pdf)  
-[Lista 3]({filename}/listas/calculo3-03.pdf)  
-[Lista 4]({filename}/listas/calculo3-04.pdf)  
-[Lista 5]({filename}/listas/calculo3-05.pdf)  
-[Lista 6]({filename}/listas/calculo3-06.pdf)  
-[Lista 7]({filename}/listas/calculo3-07.pdf)  
-[Lista 8]({filename}/listas/calculo3-08.pdf)  
-[Lista 9]({filename}/listas/calculo3-09.pdf)  
-[Lista 10]({filename}/listas/calculo3-10.pdf)  
-[Lista 11]({filename}/listas/calculo3-11.pdf)  
-[Lista 12]({filename}/listas/calculo3-12.pdf)  
-[Lista 13]({filename}/listas/calculo3-13.pdf)
+[Lista 0]({static}/listas/calculo3-00.pdf)  
+[Lista 1]({static}/listas/calculo3-01.pdf)  
+[Lista 2]({static}/listas/calculo3-02.pdf)  
+[Lista 3]({static}/listas/calculo3-03.pdf)  
+[Lista 4]({static}/listas/calculo3-04.pdf)  
+[Lista 5]({static}/listas/calculo3-05.pdf)  
+[Lista 6]({static}/listas/calculo3-06.pdf)  
+[Lista 7]({static}/listas/calculo3-07.pdf)  
+[Lista 8]({static}/listas/calculo3-08.pdf)  
+[Lista 9]({static}/listas/calculo3-09.pdf)  
+[Lista 10]({static}/listas/calculo3-10.pdf)  
+[Lista 11]({static}/listas/calculo3-11.pdf)  
+[Lista 12]({static}/listas/calculo3-12.pdf)  
+[Lista 13]({static}/listas/calculo3-13.pdf)
 
 ---
 
 ## <a id="tests"></a>aulas
-[Integral dupla]({filename}/aulas/integral-dupla-2019.pdf)  
-[Integral regiões gerais]({filename}/aulas/integral-regioes-gerais-2019.pdf)  
-[Coordenadas polares]({filename}/aulas/coordenadas-polares-2019.pdf)  
-[Integral tripla]({filename}/aulas/integral-tripla-2019.pdf)  
-[Coordenadas cilíndricas e esféricas]({filename}/aulas/coordenadas-cilindricas-esfericas-2019.pdf)  
-[Aplicações das integrais]({filename}/aulas/aplicacoes-das-integrais-2019.pdf)  
-[Curvas e campos vetoriais]({filename}/aulas/curvas-e-campos-vetoriais-2019.pdf)  
-[Integral de linha]({filename}/aulas/integral-de-linha-2019.pdf)  
-[Integral de linha de campos vetoriais]({filename}/aulas/integral-de-linha-de-campos-2019.pdf)  
-[Teorema fundamental das integrais de linha]({filename}/aulas/tf-integrais-de-linha-2019.pdf)  
-[Teorema de Green]({filename}/aulas/teorema-de-green-2019.pdf)
+[Integral dupla]({static}/aulas/integral-dupla-2019.pdf)  
+[Integral regiões gerais]({static}/aulas/integral-regioes-gerais-2019.pdf)  
+[Coordenadas polares]({static}/aulas/coordenadas-polares-2019.pdf)  
+[Integral tripla]({static}/aulas/integral-tripla-2019.pdf)  
+[Coordenadas cilíndricas e esféricas]({static}/aulas/coordenadas-cilindricas-esfericas-2019.pdf)  
+[Aplicações das integrais]({static}/aulas/aplicacoes-das-integrais-2019.pdf)  
+[Curvas e campos vetoriais]({static}/aulas/curvas-e-campos-vetoriais-2019.pdf)  
+[Integral de linha]({static}/aulas/integral-de-linha-2019.pdf)  
+[Integral de linha de campos vetoriais]({static}/aulas/integral-de-linha-de-campos-2019.pdf)  
+[Teorema fundamental das integrais de linha]({static}/aulas/tf-integrais-de-linha-2019.pdf)  
+[Teorema de Green]({static}/aulas/teorema-de-green-2019.pdf)
 
 ---
 
 ## <a id="tests"></a>provas
-[Avaliação P1]({filename}/provas/2019-1-calculo3-civil.pdf)  
-[Avaliação P2]({filename}/provas/2019-1-calculo3-civil-p2.pdf)  
-[Avaliação PS]({filename}/provas/2019-1-calculo3-civil-ps.pdf)
+[Avaliação P1]({static}/provas/2019-1-calculo3-civil.pdf)  
+[Avaliação P2]({static}/provas/2019-1-calculo3-civil-p2.pdf)  
+[Avaliação PS]({static}/provas/2019-1-calculo3-civil-ps.pdf)
 
 ---
 
@@ -87,4 +87,4 @@ tripla. Mudança de coordenadas. Integral de Linha.  Teorema de Green.
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso]({filename}/planos/2019-1-calculo3-civil.pdf).
+curso]({static}/planos/2019-1-calculo3-civil.pdf).

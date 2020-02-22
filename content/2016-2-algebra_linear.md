@@ -18,7 +18,7 @@ category: teaching
 ---
 
 ## <a id="classes"></a>aulas e material complementar
-[Propriedades das opreções com vetores]({filename}/aulas/operacoes-vetores.pdf)
+[Propriedades das opreções com vetores]({static}/aulas/operacoes-vetores.pdf)
 
 ---
 

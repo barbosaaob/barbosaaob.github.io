@@ -5,7 +5,7 @@ modified: 2017-05-10
 category: teaching
 
 ## <a id="grades"></a>provas
-P1: [Solução]({filename}/provas/2017-1-algebra_linear-topicos-p1.pdf)
+P1: [Solução]({static}/provas/2017-1-algebra_linear-topicos-p1.pdf)
 
 ---
 

@@ -6,9 +6,9 @@ category: publications
 
 <div class="row">
 <article class="6u 12u$(xsmall) work-item">
-<a href="{filename}/images/fulls/kelp.png" class="image fit thumb"><img src="{filename}/images/thumbs/kelp.png" class="image fit thumb" alt="Kelp" /></a>
+<a href="{static}/images/fulls/kelp.png" class="image fit thumb"><img src="{static}/images/thumbs/kelp.png" class="image fit thumb" alt="Kelp" /></a>
 <h3>Visualizing and Interacting with Kernelized Data</h3>
 <p>A. Barbosa, F. V. Paulovich, A. Paiva, S. Goldenstein, F. Petronetto and L. G. Nonato</p>
-<p>[<a href="{filename}/papers/2016/kelp.pdf">pdf</a>] [<a href="{filename}/papers/2016/kelp.bib">bib</a>]</p>
+<p>[<a href="{static}/papers/2016/kelp.pdf">pdf</a>] [<a href="{static}/papers/2016/kelp.bib">bib</a>]</p>
 </article>
 </div>

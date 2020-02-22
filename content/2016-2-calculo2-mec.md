@@ -19,14 +19,14 @@ category: teaching
 	<h2>listas</h2>
 	<div class="row">
 		<article class="12u 12u$(xsmall) work-item">
-			<a href="{filename}/listas/substituicao.pdf">Lista 1 - Substituição</a><br>
-			<a href="{filename}/listas/substituicao-sol.pdf">Respostas Lista 1 - Substituição</a><br>
-			<a href="{filename}/listas/por-partes.pdf">Lista 2 - Integração por partes</a><br>
-			<a href="{filename}/listas/sub-trigonometrica.pdf">Lista 3 - Substituição trigonométrica</a><br>
-			<a href="{filename}/listas/fracoes-parciais.pdf">Lista 4 - Frações parciais</a><br>
-			<a href="{filename}/listas/sequencias-series.pdf">Lista 5 - Sequências e séries</a><br>
-			<a href="{filename}/listas/sequencias-series-sol.pdf">Respostas Lista 5 - Sequências e séries</a><br>
-			<a href="{filename}/listas/edo-mec.pdf">Lista 6 - Equações diferenciais</a><br>
+			<a href="{static}/listas/substituicao.pdf">Lista 1 - Substituição</a><br>
+			<a href="{static}/listas/substituicao-sol.pdf">Respostas Lista 1 - Substituição</a><br>
+			<a href="{static}/listas/por-partes.pdf">Lista 2 - Integração por partes</a><br>
+			<a href="{static}/listas/sub-trigonometrica.pdf">Lista 3 - Substituição trigonométrica</a><br>
+			<a href="{static}/listas/fracoes-parciais.pdf">Lista 4 - Frações parciais</a><br>
+			<a href="{static}/listas/sequencias-series.pdf">Lista 5 - Sequências e séries</a><br>
+			<a href="{static}/listas/sequencias-series-sol.pdf">Respostas Lista 5 - Sequências e séries</a><br>
+			<a href="{static}/listas/edo-mec.pdf">Lista 6 - Equações diferenciais</a><br>
 		</article>
 	</div>
 </section>

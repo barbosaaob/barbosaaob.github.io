@@ -4,26 +4,26 @@ date: 2018-08-11
 modified: 2018-08-11
 category: teaching
 ## <a id="exercices"></a>listas
-[Lista 1]({filename}/listas/calculo2-01.pdf)  
-[Lista 2]({filename}/listas/calculo2-02.pdf)  
-[Lista 3]({filename}/listas/calculo2-03.pdf)  
-[Lista 4]({filename}/listas/calculo2-04.pdf)  
-[Lista 5]({filename}/listas/calculo2-05.pdf)  
-[Lista 6]({filename}/listas/calculo2-06.pdf)  
-[Lista 7]({filename}/listas/calculo2-07-b.pdf)  
-[Lista 8]({filename}/listas/calculo2-08-b.pdf)  
-[Lista 9]({filename}/listas/calculo2-09-b.pdf)  
-[Lista 10]({filename}/listas/calculo2-10-b.pdf)  
-[Lista 11]({filename}/listas/calculo2-11-b.pdf)  
-[Lista 12]({filename}/listas/calculo2-12-b.pdf)
+[Lista 1]({static}/listas/calculo2-01.pdf)  
+[Lista 2]({static}/listas/calculo2-02.pdf)  
+[Lista 3]({static}/listas/calculo2-03.pdf)  
+[Lista 4]({static}/listas/calculo2-04.pdf)  
+[Lista 5]({static}/listas/calculo2-05.pdf)  
+[Lista 6]({static}/listas/calculo2-06.pdf)  
+[Lista 7]({static}/listas/calculo2-07-b.pdf)  
+[Lista 8]({static}/listas/calculo2-08-b.pdf)  
+[Lista 9]({static}/listas/calculo2-09-b.pdf)  
+[Lista 10]({static}/listas/calculo2-10-b.pdf)  
+[Lista 11]({static}/listas/calculo2-11-b.pdf)  
+[Lista 12]({static}/listas/calculo2-12-b.pdf)
 
 ---
 
 ## <a id="tests"></a>provas
-[Avaliação P1]({filename}/provas/2018-2-calculo2-energia-p1.pdf)  
-[Avaliação P2]({filename}/provas/2018-2-calculo2-energia-p2.pdf)  
-[Avaliação P3]({filename}/provas/2018-2-calculo2-energia-p3.pdf)  
-[Avaliação PS]({filename}/provas/2018-2-calculo2-energia-ps.pdf)
+[Avaliação P1]({static}/provas/2018-2-calculo2-energia-p1.pdf)  
+[Avaliação P2]({static}/provas/2018-2-calculo2-energia-p2.pdf)  
+[Avaliação P3]({static}/provas/2018-2-calculo2-energia-p3.pdf)  
+[Avaliação PS]({static}/provas/2018-2-calculo2-energia-ps.pdf)
 
 ---
 
@@ -83,4 +83,4 @@ aplicações. Equações diferenciais lineares.  Equações diferenciais lineare
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso]({filename}/planos/2018-2-calculo2-energia.pdf).
+curso]({static}/planos/2018-2-calculo2-energia.pdf).

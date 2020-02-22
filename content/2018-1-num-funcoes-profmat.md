@@ -41,8 +41,8 @@ _01/06_ | _Feriado_
 ---
 
 ## provas
-[Avaliação AV1]({filename}/provas/2018-1-num-funcoes-profmat-av1.pdf)  
-[Avaliação AV2]({filename}/provas/2018-1-num-funcoes-profmat-av2.pdf)
+[Avaliação AV1]({static}/provas/2018-1-num-funcoes-profmat-av1.pdf)  
+[Avaliação AV2]({static}/provas/2018-1-num-funcoes-profmat-av2.pdf)
 
 ---
 
@@ -68,4 +68,4 @@ Funções trigonométricas.
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso]({filename}/planos/2018-1-num-funcoes-profmat.pdf).
+curso]({static}/planos/2018-1-num-funcoes-profmat.pdf).
