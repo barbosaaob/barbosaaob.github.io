@@ -8,6 +8,7 @@ category: teaching
 [Lista 01]({static}/listas/calculo1-01.pdf)  
 [Lista 02]({static}/listas/calculo1-02.pdf)  
 [Lista 03]({static}/listas/calculo1-03.pdf)  
+[Lista 04]({static}/listas/calculo1-04.pdf)  
 
 ---
 
