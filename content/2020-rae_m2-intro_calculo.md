@@ -1,7 +1,7 @@
 title: introdução ao cálculo - matemática
 tags: 2020.rae
 date: 2020-08-30
-modified: 2020-08-30
+modified: 2020-10-07
 category: teaching
 
 ## <a id="aulas"></a>aulas
@@ -18,7 +18,7 @@ Unidade 1:
 [Exercícios](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material/gxcc0jzdc80gs.pdf)  
 11/09 - Avaliação P1
 
-<!--Unidade 2:  
+Unidade 2:  
 14/09 - Funções afins  
 15/09 - Funções afins: 
 [Aula](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material_teorico/brc70d5silssg.pdf) 
@@ -47,7 +47,7 @@ Unidade 3:
 Unidade 4:  
 28/09 - Funções trigonométricas  
 29/09 - Funções trigonométricas: 
-[Aula (FALTA)](#) 
+[Aula](#) 
 [Exercícios 1](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material/co90qea619ssw.pdf) 
 [Exercícios 2](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material/s9zelnhley8sw.pdf) 
 [Exercícios 3](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material/dj0biq5c0gg8o.pdf)  
@@ -55,19 +55,7 @@ Unidade 4:
 01/10 - Limites de funções: 
 [Aula 1](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material_teorico/gjpxhva1i8g88.pdf) 
 [Aula 2](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material_teorico/hk2jbnsaawqw.pdf) 
-[Exercícios](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material/lqvbag58ols80.pdf)-->
-
----
-
-## vídeos
-[Gráficos de Funções Reais](https://ggbm.at/HYyH5SrC)
-
----
-
-## atendimento
-e-mail: [adrianobarbosa@ufgd.edu.br](mailto:adrianobarbosa@ufgd.edu.br) 
-(envie sua dúvida de forma detalhada)  
-ao vivo: segundas e quartas das 16h às 18h.
+[Exercícios](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material/lqvbag58ols80.pdf)
 
 ---
 
