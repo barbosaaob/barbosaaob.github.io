@@ -4,7 +4,6 @@ category: blog
 date: 2021-01-30 19:44
 modified: 2021-01-30 19:44
 
-# running NVIDIA container
 Until the problem is fixed, use the workaround below.
 
 Edit the file `/etc/nvidia-container-runtime/config.toml` and set
