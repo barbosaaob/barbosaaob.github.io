@@ -1,9 +1,8 @@
 title: Docker cheat sheet
 tags: comp
 category: blog
-date: 2020-10-08 09:26
-modified: 2020-10-08 09:26
-status: draft
+date: 2021-04-24 09:32
+modified: 2021-04-24 09:32
 
 # instalação
 Siga as instruções do [guia de instalação do
@@ -138,4 +137,4 @@ Os comandos podem ser experimentados sem a necessidade de instalação no
 Arquivos e diretórios listados no arquivo .dockerignore são ignorados durante a
 build da imagem.
 
-### 
+(em construção...)
