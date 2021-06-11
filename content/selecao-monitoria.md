@@ -3,6 +3,7 @@ tags: monitoria
 date: 2018-08-10
 modified: 2019-02-11
 category: monitoria
+status: draft
 
 ## 2019.1
 [Resultado da seleção - Cálculo III (Eng. Mecânica)]({static}/arquivos/resultado-monitoria-2019-1-mecanica.pdf)
