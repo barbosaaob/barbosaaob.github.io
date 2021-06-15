@@ -64,7 +64,33 @@ The commands below need `libvirt-clients` package:
 
     `# virsh net-dhcp-leases default`
 
+# installing a guest
+
+    # virt-install --virt-type=kvm --name=debian10 --ram=2048 --vcpus=2 \
+    --os-variant=debian10 --hvm --cdrom=/var/lib/libvirt/boot/debian-10.9.0-amd64-netinst.iso \
+    --graphics vnc --disk path=/var/lib/libvirt/images/debian10.qcow2,size=20,bus=virtio,format=qcow2
+        Starting install...
+        Allocating 'debian10.qcow2'                                   |  20 GB  00:00:03
+        Domain installation still in progress. Waiting for installation to complete.
+
+Get VNC port:
+
+    # virsh dumpxml debian10 | grep vnc
+        <graphics type='vnc' port='5900' autoport='yes' listen='127.0.0.1'>
+
+SSH port forwarding to get access to VNC:
+    
+    # ssh -L 5900:127.0.0.1:5900 user@vm-host.example.com
+
+and connect to `127.0.0.1:5900` on your VNC client.
+
 # clone and reset vm
+
+Install `libguestfs-tools`:
+
+    # apt-get install libguestfs-tools
+
+Clone and configure the cloned VM:
 
     # virt-clone --original ORIGINAL_VM --name NEW_VM --auto-clone
 
@@ -75,9 +101,17 @@ The commands below need `libvirt-clients` package:
           --firstboot-command "dpkg-reconfigure openssh-server" \
           --firstboot init-config.sh
 
+or
+
+    # virt-sysprep -d NEW_VM --password USER:password:NEW_PASSWORD \
+          --hostname HOSTNAME --ssh-inject USER:file:PATH_TO_SSH_PUB_KEY \
+          --firstboot-command "dpkg-reconfigure openssh-server" \
+          --firstboot init-config.sh
+
 `--root-password` defines root password  
+`--password` defines USER password  
 `--hostname` defines vm hostname  
-`--ssh-inject` copy ssh public key to USER `.ssh/authorized_keys` file  
+`--ssh-inject` copy ssh public key to USER `~/.ssh/authorized_keys` file  
 `--firstboot-command` executes a command on the first boot (reconfiguring openssh is necessary as `virt-sysprep` deletes ssh keys)  
 `--firstboot init-config.sh` runs the script `init-config.sh` on first boot
 
