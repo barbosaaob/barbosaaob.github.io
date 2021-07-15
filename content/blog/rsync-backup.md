@@ -33,8 +33,8 @@ Script:
 
 # transfering files
 
-    rsync -zacH --rsync-path="sudo rsync" --link-dest=$LAST_BACKUP_DIR \
-        user@remote_server:/mnt/backup/ $NEW_BACKUP_DIR
+    rsync -zacH --rsync-path="sudo rsync" --link-dest=$BACKUP_DIR \
+        user@remote_server:/mnt/backup/ $BACKUP_DIR
 
 where
     
@@ -43,7 +43,7 @@ where
     -c: skip based on checksum, not mod-time & size
     -H: preserve hard links
     --rsync-path: specify the rsync to run on remote machine
-    --link-dest: hardlink to files in $LAST_BACKUP_DIR when unchanged
+    --link-dest: hardlink to files in $BACKUP_DIR when unchanged
 
 Notice the trick to call rsync using sudo in the remote machine in case you
 need it.
