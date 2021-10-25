@@ -2,7 +2,7 @@ title: Creating an OpenBSD Vagrant box for libvirt
 tags: comp
 category: blog
 date: 2021-10-24 18:04
-modified: 2021-10-24 18:04
+modified: 2021-10-24 21:27
 
 # install
 
@@ -51,16 +51,17 @@ We are good to shutdown now.
 I used the `create_box.sh` from the [vagrant-libvirt
 repository](https://github.com/vagrant-libvirt/vagrant-libvirt).
 
-Create the `Vagrantfile.add` with at least these two lines and any other
-config you wish. This will be part of an existing Vagrantfile and should
-contain two spaces at the begining of each line:
+Create the `Vagrantfile` with at least these two lines and any other
+config you wish:
 
+    Vagrant.configure("2") do |config|
         config.ssh.shell = "ksh"
         config.vm.synced_folder ".", "/vagrant", disabled: true
+    end
 
 Creating the box:
 
-    $ create_box.sh openbsd70.qcow2 openbsd70.box Vagrantfile.add
+    $ create_box.sh openbsd70.qcow2 openbsd70.box Vagrantfile
     ==> Creating box, tarring and gzipping
     ./metadata.json
     ./Vagrantfile
