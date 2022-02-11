@@ -60,3 +60,9 @@ transcendentes.
 6. ÁVILA, GERALDO. Cálculo 1: funções de uma variável, editora LTC.
 7. GUIDORIZZI, Hamilton Luiz. Um curso de cálculo. 2. ed. Rio de Janeiro, RJ:
    LTC, 1993. v.1.
+
+---
+
+## plano de ensino
+
+As informações acima constam no [plano de ensino da disciplina]({static}/planos/2021-2-calculo1-eng_computacao.pdf).
