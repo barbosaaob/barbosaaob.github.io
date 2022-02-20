@@ -6,7 +6,8 @@ category: teaching
 
 ## listas
 
-[Lista 01]({static}/listas/calculo1-01-2022.pdf)
+[Lista 01]({static}/listas/calculo1-01-2022.pdf)  
+[Lista 02]({static}/listas/calculo1-02-2022.pdf)  
 
 ---
 
