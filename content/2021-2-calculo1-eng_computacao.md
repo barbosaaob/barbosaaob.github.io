@@ -17,7 +17,8 @@ category: teaching
 [Portal da OBMEP](https://portaldaobmep.impa.br/index.php/modulo/index)
 
 [Funções exponenciais](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material_teorico/ceru9g51ms088.pdf)  
-[Exercícios de funções exponenciais](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material/5ohpe7bqa408s.pdf)
+[Exercícios de funções exponenciais](https://cdnportaldaobmep.impa.br/portaldaobmep/uploads/material/5ohpe7bqa408s.pdf)  
+[Vídeos sobre funções exponenciais](https://portaldaobmep.impa.br/index.php/modulo/ver?modulo=94)
 
 ---
 
