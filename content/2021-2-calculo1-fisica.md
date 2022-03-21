@@ -9,6 +9,7 @@ category: teaching
 [Lista 01]({static}/listas/calculo1-01-2022.pdf)  
 [Lista 02]({static}/listas/calculo1-02-2022.pdf)  
 [Lista 03]({static}/listas/calculo1-03-2022.pdf)  
+[Lista 04]({static}/listas/calculo1-04-2022.pdf)  
 
 ---
 
