@@ -10,6 +10,14 @@ category: teaching
 
 ---
 
+## material complementar
+
+1. [Provas nacionais](http://www.profmat-sbm.org.br/provas-nacionais/)
+2. [Exames de qualificação](http://www.profmat-sbm.org.br/exame-nacional-de-qualificacao/)
+3. [Site da disciplina em 2018](https://adrianobarbosa.xyz/teaching/2018-1-num-funcoes-profmat.html)
+
+---
+
 ## provas
 
 em breve...
