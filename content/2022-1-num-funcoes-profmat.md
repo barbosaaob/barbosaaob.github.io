@@ -8,6 +8,7 @@ category: teaching
 
 [Aula 01]({static}/aulas/num-funcoes-01-2022.pdf)  
 [Aula 02]({static}/aulas/num-funcoes-02-2022.pdf)  
+[Aula 03]({static}/aulas/num-funcoes-03-2022.pdf)  
 
 ---
 
