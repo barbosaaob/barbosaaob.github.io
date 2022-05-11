@@ -10,6 +10,7 @@ category: teaching
 [Aula 02]({static}/aulas/num-funcoes-02-2022.pdf)  
 [Aula 03]({static}/aulas/num-funcoes-03-2022.pdf)  
 [Aula 04]({static}/aulas/num-funcoes-04-2022.pdf)  
+[Aula 05]({static}/aulas/num-funcoes-05-2022.pdf)  
 
 ---
 
