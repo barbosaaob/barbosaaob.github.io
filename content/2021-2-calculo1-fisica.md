@@ -16,6 +16,7 @@ category: teaching
 [Lista 08]({static}/listas/calculo1-08-2022.pdf)  
 [Lista 09]({static}/listas/calculo1-09-2022.pdf)  
 [Lista 10]({static}/listas/calculo1-10-2022.pdf)  
+[Lista 11]({static}/listas/calculo1-11-2022.pdf)  
 
 ---
 
