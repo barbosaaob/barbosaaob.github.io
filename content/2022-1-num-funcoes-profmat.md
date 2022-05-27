@@ -11,6 +11,7 @@ category: teaching
 [Aula 03]({static}/aulas/num-funcoes-03-2022.pdf)  
 [Aula 04]({static}/aulas/num-funcoes-04-2022.pdf)  
 [Aula 05]({static}/aulas/num-funcoes-05-2022.pdf)  
+[Aula 06]({static}/aulas/num-funcoes-06-2022.pdf)  
 
 ---
 
@@ -24,7 +25,7 @@ category: teaching
 
 ## provas
 
-em breve...
+[Avaliação 1]({static}/provas/2022-1-num-funcoes-profmat-av1.pdf)  
 
 ---
 
