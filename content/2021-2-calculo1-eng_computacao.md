@@ -41,6 +41,7 @@ category: teaching
 ## provas
 
 [Avaliação P1]({static}/provas/2021-2-calculo1-eng-computacao-p1.pdf)  
+[Avaliação P2]({static}/provas/2021-2-calculo1-eng-computacao-p2.pdf)  
 
 ---
 
