@@ -42,6 +42,7 @@ category: teaching
 
 [Avaliação P1]({static}/provas/2021-2-calculo1-fisica-p1.pdf)  
 [Avaliação P2]({static}/provas/2021-2-calculo1-fisica-p2.pdf)  
+[Avaliação PS]({static}/provas/2021-2-calculo1-fisica-ps.pdf)  
 
 ---
 
