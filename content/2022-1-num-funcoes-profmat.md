@@ -13,7 +13,9 @@ category: teaching
 [Aula 05]({static}/aulas/num-funcoes-05-2022.pdf)  
 [Aula 06]({static}/aulas/num-funcoes-06-2022.pdf)  
 [Aula 07]({static}/aulas/num-funcoes-07-2022.pdf)  
-[Aula 08]({static}/aulas/num-funcoes-08-2022.pdf)  
+[Aula 08 Parte 1]({static}/aulas/num-funcoes-08-1-2022.pdf)  
+[Aula 08 Parte 2]({static}/aulas/num-funcoes-08-2-2022.pdf)  
+[Aula 09]({static}/aulas/num-funcoes-09-2022.pdf)  
 
 ---
 
