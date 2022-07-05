@@ -6,7 +6,7 @@ category: teaching
 
 ## listas
 
-em breve...
+[Lista 1]({static}/listas/calculo2-matematica-01.pdf)
 
 ---
 
