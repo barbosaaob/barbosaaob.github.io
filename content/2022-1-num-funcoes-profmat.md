@@ -30,6 +30,7 @@ category: teaching
 ## provas
 
 [Avaliação 1]({static}/provas/2022-1-num-funcoes-profmat-av1.pdf)  
+[Avaliação 2]({static}/provas/2022-1-num-funcoes-profmat-av2.pdf)  
 
 ---
 
