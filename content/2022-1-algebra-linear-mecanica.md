@@ -36,9 +36,10 @@ considerado aprovado o acadêmico que obtiver nota do exame maior do que ou
 igual a 6,0 (seis).
 
 As avaliações estão previstas para as datas abaixo:
-P1 - 22/08/2022
-P2 - 24/10/2022
-PS - 31/10/2022
+
+P1 - 22/08/2022  
+P2 - 24/10/2022  
+PS - 31/10/2022  
 Exame - 07/11/2022
 
 ---
