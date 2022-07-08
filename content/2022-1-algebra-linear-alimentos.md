@@ -52,8 +52,7 @@ Produto interno.
 
 ### bibliografia
 
-1. Álgebra linear. 3. ed. São Paulo, SP: Harbra, 1986. 411p.
-2. ANTON, Howard; RORRES, Chris; DOERING, Claus Ivo. Álgebra linear: com
+1. ANTON, Howard; RORRES, Chris; DOERING, Claus Ivo. Álgebra linear: com
    aplicações. 10. ed. Porto Alegre, RS: Bookman, 2010. 768p.
 3. WINTERLE, Paulo. Vetores e geometria analítica. São Paulo: Pearson Makron
    Books, 2000. 232p.
