@@ -9,6 +9,7 @@ category: teaching
 [Lista 1]({static}/listas/algebra-linear-01-2022.pdf)  
 [Lista 2]({static}/listas/algebra-linear-02-2022.pdf)  
 [Lista 3]({static}/listas/algebra-linear-03-2022.pdf)  
+[Lista 4]({static}/listas/algebra-linear-04-2022.pdf)  
 
 ---
 
