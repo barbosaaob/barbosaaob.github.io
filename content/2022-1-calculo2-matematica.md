@@ -11,6 +11,7 @@ category: teaching
 [Lista 3]({static}/listas/calculo2-matematica-03.pdf)  
 [Lista 4]({static}/listas/calculo2-matematica-04.pdf)  
 [Lista 5]({static}/listas/calculo2-matematica-05.pdf)  
+[Lista 6]({static}/listas/calculo2-matematica-06.pdf)  
 
 ---
 
