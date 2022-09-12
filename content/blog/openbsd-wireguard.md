@@ -2,7 +2,7 @@ title: WireGuard VPN on OpenBSD
 tags: comp
 category: blog
 date: 2022-09-11 20:19
-modified: 2022-09-11 20:19
+modified: 2022-09-11 20:35
 
 # Install WireGuard tools
 
@@ -115,8 +115,16 @@ Scan the QR code using WireGuard app on your mobile device.
 
 # Configure Linux client
 
-Use `nm-connection-editor` and create a WireGuard virtual connection with
+Rename `client1.conf` to `wg0.conf`
+
+    # nmcli connection import type wireguard file wg0.conf
+
+or use `nm-connection-editor` and create a WireGuard virtual connection with
 `client1.conf` information.
+
+To start the connection:
+
+    # nmcli connection up wg0
 
 Source:  
 [https://thomasward.com/openbsd-wireguard/](https://thomasward.com/openbsd-wireguard/)  
