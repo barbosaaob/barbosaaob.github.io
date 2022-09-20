@@ -13,6 +13,7 @@ category: teaching
 [Lista 5]({static}/listas/calculo2-matematica-05.pdf)  
 [Lista 6]({static}/listas/calculo2-matematica-06.pdf)  
 [Lista 7]({static}/listas/calculo2-matematica-07.pdf)  
+[Lista 8]({static}/listas/calculo2-matematica-08.pdf)  
 
 ---
 
