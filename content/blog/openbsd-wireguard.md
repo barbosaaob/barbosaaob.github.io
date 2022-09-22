@@ -2,7 +2,7 @@ title: WireGuard VPN on OpenBSD
 tags: comp
 category: blog
 date: 2022-09-11 20:19
-modified: 2022-09-11 20:35
+modified: 2022-09-21 21:03
 
 # Install WireGuard tools
 
@@ -37,7 +37,8 @@ Create `/etc/hostname.wg0` with the content:
 
 Add the lines below in `/etc/pf.conf`
 
-    pass out quick on egress from wg0:network nat-to (egress)
+    pass in on egress proto udp from any to any port 51820
+    pass out quick on egress from (wg0:network) to any nat-to (egress)
 
 Reload `pf` rules:
 
