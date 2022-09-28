@@ -30,7 +30,7 @@ MA = (P1 + P2) / 2.
 
 Haverá uma avaliação substitutiva (PS) a qual substituirá a menor nota entre
 todas as avaliações escritas realizadas, caso a nota da PS seja maior. A prova
-substitutiva versará sobre o conteúdo da menor nota. Após as avaliações P1, P2
+substitutiva versará sobre todo o conteúdo da disciplina. Após as avaliações P1, P2
 e PS, o acadêmico que obtiver MA maior ou igual a 6,0 (seis) e frequência de,
 no mínimo, 75% estará aprovado.
 
@@ -69,4 +69,5 @@ Produto interno.
 
 ## plano de ensino
 
-As informações acima constam no [plano de ensino da disciplina]().
+As informações acima constam no [plano de ensino da disciplina]({static}/planos/2022-1-algebra-linear-civil.pdf) submetido a
+FAEN em 28/09/2022.
