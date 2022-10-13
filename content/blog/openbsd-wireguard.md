@@ -38,7 +38,7 @@ Create `/etc/hostname.wg0` with the content:
 Add the lines below in `/etc/pf.conf`
 
     pass in on egress proto udp from any to any port 51820
-    pass out quick on egress from (wg0:network) to any nat-to (egress)
+    pass out quick on egress from (wg0:network) to any nat-to (egress:0)
 
 Reload `pf` rules:
 
