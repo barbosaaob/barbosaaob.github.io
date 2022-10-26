@@ -27,6 +27,7 @@ category: teaching
 
 [Avaliação P1]({static}/provas/2022-1-calculo2-matematica-p1.pdf)  
 [Avaliação P2]({static}/provas/2022-1-calculo2-matematica-p2.pdf)  
+[Avaliação PS]({static}/provas/2022-1-calculo2-matematica-ps.pdf)  
 
 ---
 
