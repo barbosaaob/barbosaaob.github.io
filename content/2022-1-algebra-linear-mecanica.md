@@ -24,6 +24,7 @@ category: teaching
 
 [Avaliação P1]({static}/provas/2022-1-algebra-linear-mecanica-p1.pdf)  
 [Avaliação P2]({static}/provas/2022-1-algebra-linear-mecanica-p2.pdf)  
+[Avaliação PS]({static}/provas/2022-1-algebra-linear-mecanica-ps.pdf)  
 
 ---
 
