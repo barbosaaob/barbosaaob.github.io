@@ -20,6 +20,7 @@ category: teaching
 ## provas
 
 [Avaliação P2]({static}/provas/2022-1-algebra-linear-civil-p2.pdf)  
+[Avaliação PS]({static}/provas/2022-1-algebra-linear-civil-ps.pdf)  
 
 ---
 
