@@ -3,7 +3,7 @@ tags: comp
 category: blog
 date: 2022-11-24
 modified: 2022-11-24
-statu: draft
+status: draft
 
 # intro
 
@@ -30,13 +30,13 @@ it. Packages in Nix are stored in directories such as
             └── ...
 
 where the hash `jibjl...` is a unique identifier for the package which takes
-into account package build settings and all it's dependencies. Notice the
-directories `bin`, `lib` and `share` which we usually in the root directory `/`
+into account package build settings and all its dependencies. Notice the
+directories `bin`, `lib`, and `share` which we usually in the root directory `/`
 in Linux and BSD systems.
 
-The way Nix manage packages allows you to have multiple versions of the same
+The way Nix manages packages allows you to have multiple versions of the same
 software installed at the same time without any conflict once each package is
-packaged with all it's dependencies. Obviously it increases storage, but is also
+packaged with all its dependencies. Obviously, it increases storage, but is also
 allows one to switch between packages or rollback in case you don't like an
 upgrade with a simple command.
 
@@ -62,7 +62,7 @@ Multi-user installation:
 
 # using Nix
 
-### search a package
+### search for a package
 
     $ nix-env -qaP firefox
     nixpkgs.firefox-esr          firefox-102.5.0esr
@@ -86,7 +86,7 @@ Nix allows you to can use regex
     $ nix-env -e firefox
     uninstalling 'firefox-107.0'
 
-This actually only makes the package unavailable to the user. Please read Nix
+This only makes the package unavailable to the user. Please read Nix
 quirks below. 
 
 ### upgrade all packages
@@ -98,7 +98,7 @@ quirks below.
 
 ### garbage collection
 
-Uninstall a package in Nix actually does not delete it from your disk as you
+Uninstalling a package in Nix does not delete it from your disk as you
 could, for example, rollback the system to the previous state. As storage is
 not always enough as we wish, we need to actually delete those unused packages
 and Nix knows how to do it without breaking anything.
@@ -106,7 +106,7 @@ and Nix knows how to do it without breaking anything.
 The Nix utility `nix-collect-garbage` deletes all packages that aren’t in use
 by any user profile or by a currently running program. You can run the garbage
 collector after every uninstall, but you will lose the great rollback
-funcionality of Nix.
+functionality of Nix.
 
 ### nix-shell
 
@@ -117,11 +117,11 @@ Nix also allows you to test a package in a temporary shell environment with
     ...
     [nix-shell:~]$ jupyter-notebook
 
-All packages downloaded for the use in this temporary environment remain on
-your disk after you finish the use and will only be deleted on next garbage
+All packages downloaded for use in this temporary environment remain on
+your disk after you finish the use and will only be deleted on the next garbage
 collection unless you actually install it.
 
-# acknowledgements
+# acknowledgments
 
 Thanks to @solene@bsd.network, @n0r@sueden.social, @thedaemon@socel.net and
 @distrotube@fosstodon.org for the debate on Mastodon which made me write this
