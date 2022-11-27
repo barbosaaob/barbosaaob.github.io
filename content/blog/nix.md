@@ -1,9 +1,8 @@
 title: Nix package manager
 tags: comp
 category: blog
-date: 2022-11-24
-modified: 2022-11-24
-status: draft
+date: 2022-11-27 11:06
+modified: 2022-11-27 11:06
 
 # intro
 
