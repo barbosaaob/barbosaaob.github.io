@@ -3,9 +3,11 @@ tags: 2022.2
 date: 2022-11-21
 modified: 2022-11-21
 category: teaching
+
 ## listas
 
-em breve...
+[Lista 00]({static}/listas/calculo3-00-2022.pdf)  
+[Lista 01]({static}/listas/calculo3-01.pdf)  
 
 ---
 
