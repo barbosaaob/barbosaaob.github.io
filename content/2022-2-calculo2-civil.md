@@ -5,7 +5,8 @@ modified: 2022-11-21
 category: teaching
 ## listas
 
-[Lista 01]({static}/listas/calculo2-01-2022.pdf)
+[Lista 01]({static}/listas/calculo2-01-2022.pdf)  
+[Lista 02]({static}/listas/calculo2-02-2022.pdf)
 
 ---
 
