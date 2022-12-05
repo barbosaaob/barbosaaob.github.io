@@ -10,6 +10,15 @@ category: teaching
 
 ---
 
+## monitoria
+
+Segundas-feiras das 15:00 às 17:00  
+Quintas-feiras das 9:00 às 11:00
+
+Sala: a confirmar.
+
+---
+
 ## provas
 
 em breve...
@@ -37,7 +46,7 @@ igual a 6,0 (seis).
 
 As avaliações estão previstas para as datas abaixo:
 
-P1 - 13/12/2022  
+P1 - <strike>13/12/2022</strike> 24/01/2023  
 P2 - 21/03/2023  
 P3 - 18/04/2023  
 PS - 25/04/2023  
@@ -67,4 +76,5 @@ aplicações. Equações diferenciais lineares.  Equações diferenciais lineare
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso]({static}/planos/2022-2-calculo2-civil.pdf).
+curso (antigo)]({static}/planos/2022-2-calculo2-civil.pdf). Aguardando
+liberação do SIGECAD pela FAEN para alterar a data da P1 no plano de ensino.
