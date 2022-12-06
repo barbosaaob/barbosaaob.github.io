@@ -12,10 +12,8 @@ category: teaching
 
 ## monitoria
 
-Segundas-feiras das 15:00 às 17:00  
-Quintas-feiras das 9:00 às 11:00
-
-Sala: a confirmar.
+Segundas-feiras das 15:00 às 17:00 - sala D-105  
+Quintas-feiras das 9:00 às 11:00 - sala D-100
 
 ---
 
