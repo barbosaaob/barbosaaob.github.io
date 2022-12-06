@@ -6,8 +6,9 @@ category: teaching
 
 ## listas
 
-[Lista 00]({static}/listas/calculo3-00-2022.pdf)  
-[Lista 01]({static}/listas/calculo3-01.pdf)  
+[Lista 00]({static}/listas/calculo3-00-mat.pdf)  
+[Lista 01]({static}/listas/calculo3-01-mat.pdf)  
+[Lista 02]({static}/listas/calculo3-02-mat.pdf)  
 
 ---
 
