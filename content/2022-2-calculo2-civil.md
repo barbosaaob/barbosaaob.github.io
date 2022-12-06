@@ -76,5 +76,4 @@ aplicações. Equações diferenciais lineares.  Equações diferenciais lineare
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso (antigo)]({static}/planos/2022-2-calculo2-civil.pdf). Aguardando
-liberação do SIGECAD pela FAEN para alterar a data da P1 no plano de ensino.
+curso (atualizado em 06/12/2022)]({static}/planos/2022-2-calculo2-civil.pdf).
