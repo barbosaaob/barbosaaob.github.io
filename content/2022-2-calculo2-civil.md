@@ -12,14 +12,14 @@ category: teaching
 
 ## monitoria
 
-Segundas-feiras das 15:00 às 17:00 - sala D-105  
-Quintas-feiras das 9:00 às 11:00 - sala D-100
+<strike>Segundas-feiras das 15:00 às 17:00 - sala D-105</strike>  
+<strike>Quintas-feiras das 9:00 às 11:00 - sala D-100</strike>
 
 ---
 
 ## provas
 
-em breve...
+[Avaliação P1]({static}/provas/2022-2-calculo2-civil-p1.pdf)  
 
 ---
 
