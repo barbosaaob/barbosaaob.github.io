@@ -16,9 +16,9 @@ category: teaching
 <strike>Segundas-feiras das 15:00 às 17:00 - sala D-105</strike>  
 <strike>Quintas-feiras das 9:00 às 11:00 - sala D-100</strike>
 
-Terças-feiras das 17:00 às 18:00  
-Quartas-feiras das 14:00 às 16:00  
-Quartas-feiras das 17:00 às 18:00
+Terças-feiras das 17:00 às 18:00 - sala D-102  
+Quartas-feiras das 14:00 às 16:00 - sala D-102  
+Quartas-feiras das 17:00 às 18:00 - sala D-102
 
 ---
 
