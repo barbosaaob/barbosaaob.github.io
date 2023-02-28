@@ -12,6 +12,13 @@ category: teaching
 [Lista 03]({static}/listas/calculo3-03-mat.pdf)  
 [Lista 04]({static}/listas/calculo3-04-mat.pdf)  
 [Lista 05]({static}/listas/calculo3-05-mat.pdf)  
+[Lista 06]({static}/listas/calculo3-06-mat.pdf)  
+
+---
+
+## aulas
+
+[Integrais duplas]({static}/aulas/integral-dupla-2019.pdf)  
 
 ---
 
