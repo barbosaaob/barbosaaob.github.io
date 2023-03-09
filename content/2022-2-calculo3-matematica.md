@@ -20,6 +20,7 @@ category: teaching
 ## aulas
 
 [Integrais duplas]({static}/aulas/integral-dupla-2022.pdf)  
+[Integrais em regiões gerais]({static}/aulas/integral-regioes-gerais-2022.pdf)  
 
 ---
 
