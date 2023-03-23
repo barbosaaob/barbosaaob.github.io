@@ -29,6 +29,7 @@ Quartas-feiras das 17:00 às 18:00 - sala D-102
 ## provas
 
 [Avaliação P1]({static}/provas/2022-2-calculo2-civil-p1.pdf)  
+[Avaliação P2]({static}/provas/2022-2-calculo2-civil-p2.pdf)  
 
 ---
 
