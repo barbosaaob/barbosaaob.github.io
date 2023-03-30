@@ -26,6 +26,7 @@ category: teaching
 [Integrais em regiões gerais]({static}/aulas/integral-regioes-gerais-2022.pdf)  
 [Coordenadas polares]({static}/aulas/integrais-coordenadas-polares-2022.pdf)  
 [Integrais triplas]({static}/aulas/integrais-triplas-2022.pdf)  
+[Coordenadas cilíndricas e esféricas]({static}/aulas/coordenadas-cilindricas-esfericas-2022.pdf)  
 
 ---
 
