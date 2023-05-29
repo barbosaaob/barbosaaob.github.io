@@ -7,6 +7,7 @@ category: teaching
 ## listas
 
 [Lista 01]({static}/listas/intro-calculo-01.pdf)  
+[Lista 02]({static}/listas/intro-calculo-02.pdf)  
 
 ---
 
@@ -15,6 +16,7 @@ category: teaching
 [Conjuntos numéricos parte 1]({static}/aulas/intro-calculo-01.pdf)  
 [Conjuntos numéricos parte 2]({static}/aulas/intro-calculo-02.pdf)  
 [Conjuntos numéricos parte 3]({static}/aulas/intro-calculo-03.pdf)  
+[Conjuntos numéricos parte 4]({static}/aulas/intro-calculo-04.pdf)  
 
 ---
 
