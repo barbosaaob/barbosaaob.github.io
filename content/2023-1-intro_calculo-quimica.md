@@ -16,7 +16,7 @@ category: teaching
 [Conjuntos numéricos parte 1]({static}/aulas/intro-calculo-01.pdf)  
 [Conjuntos numéricos parte 2]({static}/aulas/intro-calculo-02.pdf)  
 [Conjuntos numéricos parte 3]({static}/aulas/intro-calculo-03.pdf)  
-[Conjuntos numéricos parte 4]({static}/aulas/intro-calculo-04.pdf)  
+[Inequações]({static}/aulas/intro-calculo-04.pdf)  
 
 ---
 
