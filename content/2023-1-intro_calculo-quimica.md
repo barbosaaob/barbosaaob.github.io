@@ -7,7 +7,8 @@ category: teaching
 ## listas
 
 [Lista 01]({static}/listas/intro-calculo-01.pdf)  
-[Lista 02]({static}/listas/intro-calculo-02.pdf)  
+[Lista 02]({static}/listas/intro-calculo-02.pdf) (exercícios 1.1, 2.9, 2.10, 2.11, 2.14)  
+[Lista 03]({static}/listas/intro-calculo-03.pdf)  
 
 ---
 
@@ -16,7 +17,8 @@ category: teaching
 [Conjuntos numéricos parte 1]({static}/aulas/intro-calculo-01.pdf)  
 [Conjuntos numéricos parte 2]({static}/aulas/intro-calculo-02.pdf)  
 [Conjuntos numéricos parte 3]({static}/aulas/intro-calculo-03.pdf)  
-[Inequações]({static}/aulas/intro-calculo-04.pdf)  
+[Funções]({static}/aulas/intro-calculo-04.pdf) (seção 1)  
+[Funções afins]({static}/aulas/intro-calculo-05.pdf)  
 
 ---
 
