@@ -8,6 +8,7 @@ category: teaching
 [Lista 01]({static}/listas/calculo2-01.pdf)  
 [Lista 02]({static}/listas/calculo2-02.pdf)  
 [Polinômios]({static}/listas/calculo2-polinomios.pdf)  
+[Lista 03]({static}/listas/calculo2-03.pdf)  
 
 ---
 
