@@ -1,8 +1,8 @@
-title: Creating a Windows VM on Libvirt with NixOS
+title: Creating a Windows VM on Libvirt with NixOS and PCI (GPU) passthrough
 tags: comp
 category: blog
-date: 2023-06-12 19:53
-modified: 2023-06-12 19:53
+date: 2023-06-23 17:08
+modified: 2023-06-23 17:08
 status: draft
 
 # list iommu groups
@@ -75,6 +75,27 @@ Output:
     };
   };
 
+# creating the vm
+
+- Change chipset to Q35
+- Set UEFI (OVMF_CODE.fd/OVMF_CODE_secboot.fd)
+- Add TPM device (TIS 2.0)
+- Set CPU topology (Ex.: 8 vCPUs -> socket=1, cores=4, threads=2) with
+  host-passthrough
+- Change disk to VirtIO (need driver during install)
+- Change network to VirtIO
+- Add **ALL** PCI devices on the GPU group
+- Add a Spice graphics if you with to use Looking Glass
+
+Dont't know why I could not boot without a video device other than the PCI
+GPU (was supposed abble to). Just add a VirtIO video device and turn it off
+on Windows.
+
+# Looking Glass
+
+  $ looking-glass-client -f /dev/shm/looking-glass
+
+# resources
 
 https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF
 
