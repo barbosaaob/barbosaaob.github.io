@@ -10,6 +10,7 @@ category: teaching
 [Lista 02]({static}/listas/intro-calculo-02.pdf) (exercícios 1.1, 2.9, 2.10, 2.11, 2.14)  
 [Lista 03]({static}/listas/intro-calculo-03.pdf)  
 [Lista 04]({static}/listas/intro-calculo-04.pdf)  
+[Lista 05]({static}/listas/intro-calculo-05.pdf)  
 
 ---
 
@@ -21,6 +22,7 @@ category: teaching
 [Funções]({static}/aulas/intro-calculo-04.pdf) (seção 1)  
 [Funções afins]({static}/aulas/intro-calculo-05.pdf)  
 [Inequações]({static}/aulas/intro-calculo-06.pdf)  
+[Funções quadráticas]({static}/aulas/intro-calculo-07.pdf)  
 
 ---
 
@@ -68,15 +70,6 @@ aplicações. Conceitos de limites, derivadas e integrais definidas, cálculos e
 aplicações nas ciências.
 
 ### bibliografia:  
-1. Sheldon, A. Pré-Cálculo - Uma Preparação para o Cálculo, 2a edição. Grupo
-   GEN, 2016. 9788521632153.
-2. K., K.L.A.C.J.M. B. Álgebra na Universidade - Um Curso Pré-Cálculo, 5a
-   edição. Grupo GEN, 2013.  978-85-216-2530-8
-3. Gomes, F. M. Pré-cálculo: Operações, equações, funções e trigonometria.
-   Cengage Learning Brasil, 2018.  9788522127900.
-4. Mantovani, A.A.M.D.F.A.A.L. M. Pré-cálculo. [Digite o Local da Editora]:
-   Grupo A, 2015. 9788582603215.  Fred, S. Pré-Calculo. [Digite o Local da
-   Editora]: Grupo A, 2011. 9788577809271.
 5. IEZZI, Gelson; MURAKAMI, Carlos. Fundamentos de Matematica Elementar:
    conjuntos: funções. 8. ed. São Paulo, SP: Atual, 2004. v.1.
 6. IEZZI, Gelson; DOLCE, Osvaldo; MURAKAMI, Carlos. Fundamentos de matemática
@@ -86,6 +79,15 @@ aplicações nas ciências.
 8. IEZZI, Gelson; MACHADO, Nilson José; MURAKAMI, Carlos. Fundamentos de
    matematica elementar: limites: derivadas: noções de integral. 6. ed. São
    Paulo, SP: Atual, 2005. v.8.
+1. Sheldon, A. Pré-Cálculo - Uma Preparação para o Cálculo, 2a edição. Grupo
+   GEN, 2016. 9788521632153.
+2. K., K.L.A.C.J.M. B. Álgebra na Universidade - Um Curso Pré-Cálculo, 5a
+   edição. Grupo GEN, 2013.  978-85-216-2530-8
+3. Gomes, F. M. Pré-cálculo: Operações, equações, funções e trigonometria.
+   Cengage Learning Brasil, 2018.  9788522127900.
+4. Mantovani, A.A.M.D.F.A.A.L. M. Pré-cálculo. [Digite o Local da Editora]:
+   Grupo A, 2015. 9788582603215.  Fred, S. Pré-Calculo. [Digite o Local da
+   Editora]: Grupo A, 2011. 9788577809271.
 9. Pré-cálculo. São Paulo, SP: Thomson Brooks, 2006. 468p.
 
 ---
