@@ -48,7 +48,7 @@ igual a 6,0 (seis).
 
 As avaliações estão previstas para as datas abaixo:
 
-P1 - 05/07/2023  
+P1 - <strike>05/07/2023</strike> 12/07/2023  
 P2 - 30/08/2023  
 PS - 06/09/2023  
 Exame - 13/09/2023
