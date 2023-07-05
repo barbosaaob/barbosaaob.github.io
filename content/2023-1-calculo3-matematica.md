@@ -17,7 +17,7 @@ category: teaching
 
 ## aulas
 
-em breve...
+[Integral dupla]({static}/aulas/integral-dupla-2023-1.pdf)  
 
 ---
 
