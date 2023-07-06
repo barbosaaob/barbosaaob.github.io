@@ -23,6 +23,7 @@ category: teaching
 [Funções afins]({static}/aulas/intro-calculo-05.pdf)  
 [Inequações]({static}/aulas/intro-calculo-06.pdf)  
 [Funções quadráticas]({static}/aulas/intro-calculo-07.pdf)  
+[Funções exponenciais]({static}/aulas/intro-calculo-08.pdf)  
 
 ---
 
