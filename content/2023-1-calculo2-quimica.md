@@ -14,6 +14,13 @@ category: teaching
 
 ---
 
+## aulas
+
+[06/07/2023]({static}/aulas/20230706 - 20230711_141340.pdf)  
+[11/07/2023]({static}/aulas/20230711 - 20230711_141353.pdf)  
+
+---
+
 ## provas
 
 [Avaliação P1]({static}/provas/2023-1-calculo2-quimica-p1.pdf)  
