@@ -28,6 +28,13 @@ category: teaching
 
 ---
 
+## aulas
+
+[06/07/2023]({static}/aulas/20230706 - 20230713_091117.pdf)  
+[13/07/2023]({static}/aulas/20230713 - 20230713_091059.pdf)  
+
+---
+
 ## provas
 
 [Avaliação P1]({static}/provas/2023-1-intro-calculo-quimica-p1.pdf)  
