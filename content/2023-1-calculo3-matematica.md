@@ -20,7 +20,7 @@ category: teaching
 ## aulas
 
 [Integral dupla]({static}/aulas/integral-dupla-2023.pdf)  
-[Integral dupla em regiões gerais]({static}/aulas/integral-regioes-gerais-2023df)  
+[Integral dupla em regiões gerais]({static}/aulas/integral-regioes-gerais-2023.pdf)  
 
 ---
 
