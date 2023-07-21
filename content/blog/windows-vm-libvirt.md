@@ -85,7 +85,7 @@ Output:
 - Change disk to VirtIO (need driver during install)
 - Change network to VirtIO
 - Add **ALL** PCI devices on the GPU group
-- Add a Spice graphics if you with to use Looking Glass
+- Add a Spice graphics if you wish to use Looking Glass
 
 Dont't know why I could not boot without a video device other than the PCI
 GPU (was supposed abble to). Just add a VirtIO video device and turn it off
