@@ -14,6 +14,7 @@ category: teaching
 [Lista 05]({static}/listas/calculo3-05-mat.pdf)  
 [Lista 06]({static}/listas/calculo3-06-mat.pdf)  
 [Lista 07]({static}/listas/calculo3-07-mat.pdf)  
+[Lista 08]({static}/listas/calculo3-08-mat.pdf)  
 
 ---
 
@@ -21,6 +22,7 @@ category: teaching
 
 [Integral dupla]({static}/aulas/integral-dupla-2023.pdf)  
 [Integral dupla em regiões gerais]({static}/aulas/integral-regioes-gerais-2023.pdf)  
+[Coordenadas polares]({static}/aulas/coordenadas-polares-2023.pdf)  
 
 ---
 
