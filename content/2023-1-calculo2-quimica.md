@@ -13,6 +13,7 @@ category: teaching
 [Lista 05]({static}/listas/calculo2-05.pdf)  
 [Lista 06]({static}/listas/calculo2-06.pdf)  
 [Lista 07]({static}/listas/calculo2-10-2022.pdf)  
+[Lista 08]({static}/listas/calculo2-08.pdf)  
 
 ---
 
@@ -24,6 +25,7 @@ category: teaching
 [18/07/2023]({static}/aulas/20230718 - 20230718_110120.pdf)  
 [20/07/2023]({static}/aulas/20230720 - 20230721_085623.pdf)  
 [25/07/2023]({static}/aulas/20230725 - 20230725_192405.pdf)  
+[27/07/2023]({static}/aulas/20230727 - 20230727_190554.pdf)  
 
 ---
 
