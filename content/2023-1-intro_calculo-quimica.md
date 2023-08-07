@@ -13,6 +13,7 @@ category: teaching
 [Lista 05]({static}/listas/intro-calculo-05.pdf)  
 [Lista 06]({static}/listas/intro-calculo-06.pdf)  
 [Lista 07]({static}/listas/intro-calculo-07.pdf)  
+[Lista 08]({static}/listas/intro-calculo-08.pdf)  
 
 ---
 
@@ -27,6 +28,7 @@ category: teaching
 [Funções quadráticas]({static}/aulas/intro-calculo-07.pdf)  
 [Funções exponenciais]({static}/aulas/intro-calculo-08.pdf)  
 [Funções logarítmicas]({static}/aulas/intro-calculo-09.pdf)  
+[Funções trigonométricas]({static}/aulas/intro-calculo-10.pdf)  
 
 ---
 
