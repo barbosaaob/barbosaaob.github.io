@@ -26,6 +26,7 @@ category: teaching
 [Integral dupla em regiões gerais]({static}/aulas/integral-regioes-gerais-2023.pdf)  
 [Coordenadas polares]({static}/aulas/coordenadas-polares-2023.pdf)  
 [Integral tripla]({static}/aulas/integral-tripla-2023.pdf)  
+[Coordenadas cilíndricas e esféricas]({static}/aulas/coordenadas-cilindricas-esfericas-2023.pdf)  
 
 ---
 
