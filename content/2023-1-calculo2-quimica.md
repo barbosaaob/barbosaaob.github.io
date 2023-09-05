@@ -41,6 +41,7 @@ category: teaching
 
 [Avaliação P1]({static}/provas/2023-1-calculo2-quimica-p1.pdf)  
 [Avaliação P2]({static}/provas/2023-1-calculo2-quimica-p2.pdf)  
+[Avaliação PS]({static}/provas/2023-1-calculo2-quimica-ps.pdf)  
 
 ---
 
