@@ -53,7 +53,8 @@ category: teaching
 ## provas
 
 [Avaliação P1]({static}/provas/2023-1-intro-calculo-quimica-p1.pdf)  
-[Avaliação P2]({static}/provas/2023-1-introducao-calculo-quimica-p2.pdf)  
+[Avaliação P2]({static}/provas/2023-1-intro-calculo-quimica-p2.pdf)  
+[Avaliação PS]({static}/provas/2023-1-intro-calculo-quimica-ps.pdf)  
 
 ---
 
