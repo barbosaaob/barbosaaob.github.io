@@ -39,10 +39,10 @@ igual a 6,0 (seis).
 
 As avaliações estão previstas para as datas abaixo:
 
-P1 –   
-P2 –   
-PS –   
-Exame –   
+P1 - 21/11/23  
+P2 – 20/02/24  
+PS – 27/02/24  
+Exame – 05/03/24
 
 ---
 
