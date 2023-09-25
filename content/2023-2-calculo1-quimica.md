@@ -70,4 +70,5 @@ transcendentes.
 
 ## plano de ensino
 
-As informações acima constam no [plano de ensino da disciplina](#).
+As informações acima constam no [plano de ensino da
+disciplina]({static}/planos/2023-2-calculo1-quimica.pdf).

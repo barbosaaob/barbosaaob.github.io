@@ -68,4 +68,4 @@ múltiplas: dupla e tripla, Teorema de Fubini, mudança de variáveis.
 
 ## plano de ensino
 As informações acima constam no [plano de ensino do
-curso](#).
+curso]({static}/planos/2023-2-calculo3-matematica.pdf).
