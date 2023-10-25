@@ -10,6 +10,7 @@ category: teaching
 [Lista 01]({static}/listas/calculo3-01-mat.pdf)  
 [Lista 02]({static}/listas/calculo3-02-mat.pdf)  
 [Lista 03]({static}/listas/calculo3-03-mat.pdf)  
+[Lista 04]({static}/listas/calculo3-04-mat.pdf)  
 
 ---
 
