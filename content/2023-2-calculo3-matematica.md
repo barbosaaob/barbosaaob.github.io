@@ -41,7 +41,7 @@ igual a 6,0 (seis).
 
 As avaliações estão previstas para as datas abaixo:
 
-P1 - 22/11/23  
+P1 - <strike>22/11/23</strike> 29/11/23  
 P2 - 21/02/24  
 PS - 28/02/24  
 Exame - 06/03/24
