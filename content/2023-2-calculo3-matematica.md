@@ -16,6 +16,13 @@ category: teaching
 
 ---
 
+## aulas
+
+[Integral dupla]({static}/aulas/integral-dupla-2023.pdf)  
+[Integral dupla em regiões gerais]({static}/aulas/integral-regioes-gerais-2023.pdf)  
+
+---
+
 ## provas
 
 [Avaliação P1]({static}/provas/2023-2-calculo3-matematica-p1.pdf)  
